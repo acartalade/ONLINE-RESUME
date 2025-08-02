@@ -1,6 +1,3 @@
-.. LBM_Saclay documentation master file, created by
-   sphinx-quickstart on Fri Oct 11 13:14:51 2024.
-
 .. |br| raw:: html
 
    <br />
