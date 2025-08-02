@@ -114,16 +114,6 @@ Welcome to Alain CARTALADE's resume
       «Modeling of Direct and Inverse problems in Geosciences» |br|
       «Theoretical and mathematical (fundamental) Physics» |br|
       
-      **PDF** |br|
-      :download:`NIG 757 <./source/PDF_FILES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
-      :download:`Degree <./source/PDF_FILES/2019_HDR_Cartalade.pdf>` |br|
-      :download:`NIG 737 <./source/PDF_FILES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
-      :download:`NIG 580 <./source/PDF_FILES/2016_SeniorExpert_Cartalade.pdf>` |br|
-      NIG 580 |br|
-      |br|
-      :download:`Degree <./source/PDF_FILES/2002_PhD_Cartalade.pdf>` |br|
-      |br|
-
       **Location** |br|
       CEA/Saclay |br|
       Univ. Paris-Sud XI |br|
@@ -133,6 +123,18 @@ Welcome to Alain CARTALADE's resume
       CEA/Saclay |br|
       CEA/Cad -- CNRS |br|
       Univ. Montpellier II |br|
+
+      .. only:: titania
+
+         **PDF** |br|
+         :download:`NIG 757 <./source/PDF_FILES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
+         :download:`Degree <./source/PDF_FILES/2019_HDR_Cartalade.pdf>` |br|
+         :download:`NIG 737 <./source/PDF_FILES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
+         :download:`NIG 580 <./source/PDF_FILES/2016_SeniorExpert_Cartalade.pdf>` |br|
+         NIG 580 |br|
+         |br|
+         :download:`Degree <./source/PDF_FILES/2002_PhD_Cartalade.pdf>` |br|
+         |br|
 
    .. rst-class:: align-center
    
@@ -175,7 +177,7 @@ Welcome to Alain CARTALADE's resume
       :class: hint
       
       C++ programming & validation of LBM and :math:`\varphi`-models |br|
-      Writing :bdg-link-primary:`LBM_Saclay's documentation <file:///tmpformation/LBM_Saclay/LBM_Saclay_Doc/_build/html/index.html>` and specifications |br|
+      Writing :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>` and specifications |br|
       Facilitation of taskforce and training sessions |br|
       Supervisor of PhD fellows and internship students |br|
 
