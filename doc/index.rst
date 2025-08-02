@@ -1,14 +1,376 @@
-.. Example documentation master file, created by
-   sphinx-quickstart on Sat Sep 23 20:35:12 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. LBM_Saclay documentation master file, created by
+   sphinx-quickstart on Fri Oct 11 13:14:51 2024.
 
-Welcome to Example's documentation!
-===================================
+.. |br| raw:: html
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   <br />
 
-   some-feature.md
-   another-feature.md
+.. |space| unicode:: U+0020 .. space
+
+
+###################################
+Welcome to Alain CARTALADE's resume
+###################################
+
+.. _ResearchGate: https://www.researchgate.net/profile/Alain-Cartalade
+
+.. .. cssclass:: sphinx-tagline .. :width: 230
+
+.. container:: sphinx-features 
+
+   .. admonition:: DR Alain CARTALADE
+
+      .. container:: sphinx-features
+
+         .. figure:: source/FIGS/Photo-ID_Cartalade.jpg
+            :class: align-left
+            :height: 306
+            :width: 230
+            :scale: 53
+         
+   
+         **CEA Research Director & Senior Expert** |br|
+         Engineer -- Researcher, PhD, HDR |br|
+         ----------------------------------------------- |br|
+         Atomic Energy and Alternative Energy Commission |br|
+         Institute of Applied sciences and Simulation |br|
+         Department of System and Structure Modelling |br|
+         Service of Thermal-hydraulics and Fluid Mechanics :math:`\hspace{4mm}` |br|
+         Laboratory of Developments at Local Scales |br|
+   
+   :math:`\hspace{1.5cm}`
+
+   |br|
+   Affiliation |br|
+   Address     |br|
+   email       |br|
+   Phone       |br|
+   Date of birth |br|
+   Web page    |br|
+   CEA/Saclay  |br|
+   Last update |br|
+
+   |br|
+   : CEA -- Saclay, ISAS/DM2S/STMF/LDEL |br|
+   : 91191 Gif-sur-Yvette cedex |br|
+   : alain.cartalade@cea.fr |br|
+   : +33 (0)1 69 08 40 67 |br|
+   : November 8th, 1974 (50 years) |br|
+   : `ResearchGate`_ |br|
+   : since 22 May 2002 |br|
+   : |today| |br|
+
+
+.. container:: sphinx-features
+
+   :math:`\hspace{8mm}`
+
+   .. admonition:: |space|
+      :class: bigtitle
+
+      .. container:: sphinx-features
+
+         :math:`\hspace{5mm}`
+
+         .. math::
+
+            \LARGE{\textcolor{white}{\text{Physicist «Modeling, computational physics and HPC simulations»}}}
+
+         :math:`\hspace{5mm}`
+
+
+*********************************************
+**Summary (the orange links open PDF files)**
+*********************************************
+
+.. admonition:: Career (from 1996 to 2025)
+
+   .. container:: sphinx-features
+
+      **Date** |br|
+      **2025** |br|
+      **2019** |br|
+      **2023-2027** |br|
+      **2016-2023** |br|
+      **2011-2016** |br|
+      **2002** |br|
+      **1998-2002** |br|
+      **1996-1998** |br|
+
+      **Title/function** |br|
+      CEA **Research Director** |br|
+      **HDR** |br|
+      CEA **Senior Expert**  |br|
+      CEA Senior Expert  |br|
+      CEA **Expert** |br|
+      CEA Engineer–Researcher |br|
+      **PhD thesis** |br|
+      Graduate studies in Physics |br|
+
+      **Topic** |br|
+      -- |br|
+      Accreditation to Supervise Research in Physics |br|
+      «Phase-Field models with LBM and MultiScale Modeling» |br|
+      «Phase-Field models with LBM and MultiScale Modeling» |br|
+      «Inverse modeling -- Flow and transport in porous media» |br|
+      Service of Thermal-hydraulics and Fluid Mechanics |br|
+      «Modeling of Direct and Inverse problems in Geosciences» |br|
+      «Theoretical and mathematical (fundamental) Physics» |br|
+      
+      **PDF** |br|
+      :download:`NIG 757 <./source/PDF_FILES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
+      :download:`Degree <./source/PDF_FILES/2019_HDR_Cartalade.pdf>` |br|
+      :download:`NIG 737 <./source/PDF_FILES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
+      :download:`NIG 580 <./source/PDF_FILES/2016_SeniorExpert_Cartalade.pdf>` |br|
+      NIG 580 |br|
+      |br|
+      :download:`Degree <./source/PDF_FILES/2002_PhD_Cartalade.pdf>` |br|
+      |br|
+
+      **Location** |br|
+      CEA/Saclay |br|
+      Univ. Paris-Sud XI |br|
+      CEA/Saclay |br|
+      CEA/Saclay |br|
+      CEA/Saclay |br|
+      CEA/Saclay |br|
+      CEA/Cad -- CNRS |br|
+      Univ. Montpellier II |br|
+
+   .. rst-class:: align-center
+   
+      See details in :ref:`Certifications-and-Degrees`
+
+.. admonition::
+
+   Physicist in Modeling, Computational physics and HPC simulations
+
+.. _LBM_Saclay code: 
+
+
+****************************************************
+**Highlights of my expertise & research activities**
+****************************************************
+
+.. container:: sphinx-features
+
+   .. admonition:: :ref:`Skills-and-Areas`
+      :class: hint
+      
+      Mathematical and numerical methods |br|
+      Fluid dynamics and thermic |br|
+      Materials science and thermodynamics  :math:`\hspace{1.1cm}` |br|
+      Flow and transport in porous media |br|
+   
+   :math:`\hspace{1cm}`
+
+   .. admonition:: Main research
+      :class: hint
+      
+      Since 2010, my work focuses |br|
+      on Phase-field models simulated |br|
+      by Lattice Boltzmann Methods |br|
+      (LBM) for multiphase flows.  |br|
+   
+   :math:`\hspace{1cm}`
+
+   .. admonition:: Supervisor of :bdg-link-info:`LBM_Saclay code <https://codev-tuleap.cea.fr/projects/lbmsaclay/>`
+      :class: hint
+      
+      C++ programming & validation of LBM and :math:`\varphi`-models |br|
+      Writing :bdg-link-primary:`LBM_Saclay's documentation <file:///tmpformation/LBM_Saclay/LBM_Saclay_Doc/_build/html/index.html>` and specifications |br|
+      Facilitation of taskforce and training sessions |br|
+      Supervisor of PhD fellows and internship students |br|
+
+.. container:: sphinx-features
+
+   .. admonition:: Teaching showcase
+      :class: hint
+      
+      .. container:: sphinx-features
+
+         :download:`Phase-field models <./source/PDF_FILES/LECTURES-COURSES/CEA-INSTN_TwoPhase_with_Phase-Field.pdf>` |br|
+         :download:`LBM Part 1-A Introduction <./source/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-A_Cartalade.pdf>` :math:`\hspace{4mm}` |br|
+         :download:`LBM Part 1-B Practice <./source/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>` |br|
+         LBM Part 2 Advanced appli |br|
+
+         [L1]_ |br|
+         [L2]_ |br|
+         [L3]_ |br|
+         [L4]_ |br|
+
+   :math:`\hspace{1cm}`
+
+   .. admonition:: :ref:`List-Of-Publications-with-LBM`
+      :class: hint
+      
+      .. container:: sphinx-features
+
+         Publications |br|
+         CEA Technical Reports |br|
+         Thesis (HDR+PhD) |br|
+         Collaborative documents :math:`\hspace{0.5pt}` |br|
+   
+         **21** |br|
+         **18** |br|
+         **2** |br|
+         **6** |br|
+
+   :math:`\hspace{1cm}`
+
+   .. admonition:: Featured publications
+      :class: hint
+      
+      .. container:: sphinx-features
+
+         :bdg-link-success-line:`Lattice Boltzman Methods for crystal growth <https://doi.org/10.1016/j.camwa.2016.02.029>` |br|
+         :bdg-link-success-line:`LBM for fractional transport Equation <https://doi.org/10.1016/j.cpc.2018.08.005>` |br|
+         :bdg-link-success-line:`LBM for Two-phase flows with phase change <https://doi.org/10.1016/j.cma.2020.113266>`  |br|
+         :bdg-link-success-line:`Phase-field for porous media dissolution <https://doi.org/10.1016/j.commatsci.2022.111261>` :math:`\hspace{14mm}` |br|
+
+         [P7]_ |br|
+         [P10]_ |br|
+         [P11]_ |br|
+         [P12]_ |br|
+
+.. container:: sphinx-features
+
+   .. admonition:: :ref:`Miscellaneous`
+      :class: hint
+
+      .. container:: sphinx-features
+
+         Teaching courses and training sessions |br|
+         Member of «PhD jury» and «CSI» |br|
+         Organization and facilitation of workshop |br|
+         Keynote speaker |br|
+
+         |br|
+         **4** |br|
+         **6** |br|
+         **1** |br|
+
+   :math:`\hspace{1cm}`
+
+   .. admonition:: :ref:`Supervisor`
+      :class: hint
+      
+      .. container:: sphinx-features
+
+         PhD fellows |br|
+         Post-doctoral fellows |br|
+         Internship students |br|
+         PhD jury as supervisor :math:`\hspace{3mm}` |br|
+
+         **7** |br|
+         **3** |br|
+         **31** |br|
+         **4** |br|
+
+   :math:`\hspace{1cm}`
+
+   .. admonition:: :ref:`Involvement-CEA-Projects`
+      :class: hint
+      
+      .. container:: sphinx-features
+
+         Current CEA/DES projects |br|
+         Completed CEA/DES projects |br|
+         National Research Agency project (ANR)  :math:`\hspace{13mm}` |br|
+         CEA Transverse programme |br|
+
+         **6** |br|
+         **3** |br|
+         **1** |br|
+         **1** |br|
+
+**************************
+**Details in subsections**
+**************************
+
+.. admonition:: List of subsections
+   :class: error
+
+   .. container:: twocol
+
+      .. container:: leftside
+
+         .. toctree::
+            :maxdepth: 1
+
+            ./source/Certifications.rst
+            ./source/Skills.rst
+            ./source/List-Of-Publications.rst
+
+      .. container:: leftside
+
+         .. toctree::
+            :maxdepth: 1
+
+            ./source/Supervisor-Of-Students.rst
+            ./source/Miscellaneous.rst
+            ./source/Involvement-DOB.rst
+
+***********************
+**Further Information**
+***********************
+
+.. grid:: 3
+   :gutter: 4
+
+   .. grid-item::
+      :columns: 4
+
+      .. admonition:: Main research at SFME (2002--2011)
+         :class: important
+
+         Inverse problems for parameters identification, approach with adjoint state method and optimization :math:`\bullet` Simulation of fractional equation for anomalous transport (non Fickian) in porous media. |br|
+
+   .. grid-item::
+      :columns: 4
+
+      .. admonition:: CEA/DES projects
+         :class: important
+      
+         .. container:: sphinx-features
+
+            **Dates** |br|
+            **2010–now** |br|
+            **2016–now** |br|
+            **2019–2020** |br|
+            **2021–now** |br|
+
+            Prog/Project |br|
+            SIMU/SIVIT |br|
+            SIMU/SITHY |br|
+            SIMU/PICI2 |br|
+            CyN/VESTA |br|
+
+   .. grid-item::
+      :columns: 4
+
+      .. admonition:: Member of CEA/DM2S laboratories
+         :class: important
+
+         .. container:: sphinx-features
+
+            **Dates** |br|
+            **2014--now** |br|
+            **2011–2014** |br|
+            **2007–2011** |br|
+            **2002–2007** |br|
+
+            **Laboratory** |br|
+            LMSF/LDEL |br|
+            LATF |br|
+            LSET |br|
+            MTMS |br|
+
+            **Service** |br|
+            STMF |br|
+            STMF |br|
+            SFME |br|
+            SFME |br|
+
+   
+
