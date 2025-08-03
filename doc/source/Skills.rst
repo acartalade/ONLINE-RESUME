@@ -7,16 +7,44 @@
 Skills and areas of modeling
 ============================
 
-.. _List of CEA projects: file:///home/catA/ac165432/REDAC/RESUME/ONLINE_RESUME/_build/html/src_doc/Involvement-DOB.html#involvement-cea-projects
-
 My approach in CEA projects
 ---------------------------
 
 .. admonition:: My approach in CEA projects
    :class: important
 
-   After talking with the experimental scientists involved in the same project (see `List of CEA projects`_), I derive the Partial Derivative Equations (PDEs) for the target application. Their numerical implementation is performed with the Lattice Boltzmann Methods (LBM -- see :bdg-link-primary:`Overview of LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). Since 2012 the derivation of those PDEs are based on the phase-field methods which combine rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Basic concepts of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`).
-   The applications are the phenomena observed in the nuclear glasses for waste management (:download:`Fig Observations <./FIGS/Fig_Observations.png>`). They are related to fluid flows, material science and porous media. The whole approach is summarized in Figure 1. Below are presented some keywords of my skills and areas of modeling.
+   After talking with the experimental scientists involved in the same project (see :ref:`Involvement-CEA-Projects`), I derive the Partial Derivative Equations (PDEs) for the target application. Since 2009 [R8]_, their numerical implementation is performed with the Lattice Boltzmann Methods (LBM -- see :bdg-link-primary:`Overview of LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). Since 2012 the derivation of those PDEs are based on the phase-field methods which combine rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Basic concepts of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`).
+   The applications are the phenomena observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`. They are related to fluid flows, material science and porous media. The whole approach is summarized in :numref:`target-Fig-Approach`. Below are presented some keywords of my skills and areas of modeling.
+
+   .. container:: twocol
+
+      .. container:: leftside
+
+         .. _target-Fig-Observation:
+   
+         .. figure:: ./FIGS/Fig_Observations.png
+            :name: Fig-CEA-Cad
+            :figclass: align-center
+            :align: center
+            :height: 230
+            :width: 450
+            :scale: 100 %
+      
+            Observations made by experimental scientists
+
+      .. container:: rightside
+
+         .. _target-Fig-Approach:
+   
+         .. figure:: ./FIGS/Fig_MyApproach.png
+            :name: Fig-CEA-Cad
+            :figclass: align-center
+            :align: center
+            :height: 230
+            :width: 450
+            :scale: 100 %
+      
+            My approach in the CEA projects
 
 
 Mathematical and numerical methods 
@@ -43,7 +71,7 @@ Implementation and practice of mathematical and numerical methods
 
       .. container:: leftside
 
-         Since 2018, I am involved in the development of the C++ multi-architecture HPC code LBM_Saclay for which I am the supervisor. LBM_Saclay has evolved from SILABE3D and can run on several architectures (CPU and GPU) e.g. Jean-Zay V100 (IDRIS) and Topaze A100 (CCRT). Several LBM schemes are implemented for simulating various phase-field models for Multiphase/Multicomponent (MPMC) flows with phase change. Examples of simulations are presented in the red boxes «Fluid dynamics & thermic» and «Materials science & thermodynamics».
+         Since 2018, I am involved in the development of the C++ multi-architecture HPC code :bdg-link-info:`LBM_Saclay code <https://codev-tuleap.cea.fr/projects/lbmsaclay/>` for which I am the supervisor. LBM_Saclay has evolved from SILABE3D and can run on several architectures (CPU and GPU) e.g. Jean-Zay V100 (IDRIS) and Topaze A100 (CCRT). Several LBM schemes are implemented for simulating various phase-field models for Multiphase/Multicomponent (MPMC) flows with phase change. Videos of simulations can be watched by clicking on the red buttons of boxes «Fluid dynamics & thermic» and «Materials science & thermodynamics».
       
       .. container:: rightside
 
@@ -70,28 +98,22 @@ High Performance Computing & Informatics
       
       .. container:: leftside
 
-         **Programming skills**: developer of SILABE3D (Fortran 77/90/2000) and LBM_Saclay (C++), ``makefile``, ``CMake``, debugger, shell scripts. Coupling with math librairies (lapack, slatec, numerical recipes). Version control with ``git``.
+         **Programming skills**: developer of SILABE3D (Fortran 77/90/2000) and LBM_Saclay (C++), ``makefile``, ``CMake``, Version control system with ``git``, debugger, architecture portability with ``Kokkos``. Coupling with math librairies (lapack, slatec, numerical recipes).
 
          **Post-processing**:  ``paraview``, ``gnuplot``,  ``python``.
 
-         **Operating System**: Linux, Windows
-
-         **Writing documentation** with ``Sphinx`` and ``rst`` files.
+         **Writing documentation** with ``Sphinx`` and ``rst`` files, deployment with GitHub pages.
 
       .. container:: rightside
 
          **High Performance Computing (HPC)**: practice of MPI commands in SILABE3D. Involved in the development of LBM_saclay: parallelization with MPI and multi-architecture portability with Kokkos library [R18]_. Batch scripts (SGE, slurm);
 
-         **Analytical calculus**: ``wxmaxima``
+         **Operating System**: Linux, shell scripts, Windows. **Analytical calculus**: ``wxmaxima``
          
          **Writing skills**: ``LaTeX``, ``BibTeX``, ``LyX``; presentations with ``Beamer``, ``tikz``; figures with ``Matcha``.
          
 Areas of modeling and simulations
 ---------------------------------
-
-.. _Videos gallery of simulations with LBM: file:///tmpformation/LBM_Saclay/LBM_Saclay_Doc/_build/html/src_doc/00_INTRODUCTION/Simulation_with_LBM.html
-
-.. _run_training_lbm: file:///tmpformation/LBM_Saclay/LBM_Saclay_Doc/_build/html/src_doc/01_USER_GUIDE/RUN_TRAINING_LBM/Test_Cases_Two_Phase.html#twop-training-lbm
 
 .. admonition:: Videos of simulations
    :class: error
@@ -137,10 +159,10 @@ Areas of modeling and simulations
 
 .. rst-class:: align-center
 
-   See other videos of simulations on LBM_Saclay's documentation (`Videos gallery of simulations with LBM`_ and `run_training_lbm`_)
+   See other videos of simulations on LBM_Saclay's documentation (:bdg-link-primary:`Videos gallery of simulations with LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/02_MODELS/01_Fluid_Fluid/Model_NSAC_Comp.html>` and :bdg-link-primary:`run_training_lbm <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/01_USER_GUIDE/RUN_TRAINING_LBM/runtraininglbm.html>`)
 
 .. admonition:: Flow and transport in porous media
-   :class: hint
+   :class: note
 
    .. container:: twocol
 

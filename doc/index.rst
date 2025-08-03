@@ -37,26 +37,29 @@ Welcome to Alain CARTALADE's resume
    
    :math:`\hspace{1.5cm}`
 
-   |br|
-   Affiliation |br|
-   Address     |br|
-   email       |br|
-   Phone       |br|
-   Date of birth |br|
-   Web page    |br|
-   CEA/Saclay  |br|
-   Last update |br|
+   .. container:: sphinx-features
 
-   |br|
-   : CEA -- Saclay, ISAS/DM2S/STMF/LDEL |br|
-   : 91191 Gif-sur-Yvette cedex |br|
-   : alain.cartalade@cea.fr |br|
-   : +33 (0)1 69 08 40 67 |br|
-   : November 8th, 1974 (50 years) |br|
-   : `ResearchGate`_ |br|
-   : since 22 May 2002 |br|
-   : |today| |br|
+      |br|
+      Affiliation |br|
+      Address     |br|
+      |br|
+      email       |br|
+      Phone       |br|
+      Date of birth |br|
+      Web page    |br|
+      CEA/Saclay  |br|
+      Last update |br|
 
+      |br|
+      : CEA -- Saclay, ISAS/DM2S/STMF/LDEL |br|
+      : 91191 Gif-sur-Yvette cedex |br|
+      : Building 451, room 5 |br|
+      : alain.cartalade@cea.fr |br|
+      : +33 (0)1 69 08 40 67 |br|
+      : November 8th, 1974 (50 years) |br|
+      : `ResearchGate`_ |br|
+      : since 22 May 2002 |br|
+      : |today|
 
 .. container:: sphinx-features
 
@@ -76,75 +79,74 @@ Welcome to Alain CARTALADE's resume
          :math:`\hspace{5mm}`
 
 
-*********************************************
-**Summary (the orange links open PDF files)**
-*********************************************
+**********
+**Career**
+**********
 
-.. admonition:: Career (from 1996 to 2025)
+.. admonition:: Positions from 1996 to 2025
 
    .. container:: sphinx-features
 
       **Date** |br|
       **2025** |br|
-      **2019** |br|
       **2023-2027** |br|
+      **2019** |br|
       **2016-2023** |br|
       **2011-2016** |br|
       **2002** |br|
+      |br|
       **1998-2002** |br|
       **1996-1998** |br|
 
       **Title/function** |br|
       CEA **Research Director** |br|
-      **HDR** |br|
-      CEA **Senior Expert**  |br|
       CEA Senior Expert  |br|
+      **HDR** |br|
+      CEA **Senior Expert** |br|
       CEA **Expert** |br|
       CEA Engineer–Researcher |br|
+      |br|
       **PhD thesis** |br|
       Graduate studies in Physics |br|
 
       **Topic** |br|
       -- |br|
-      Accreditation to Supervise Research in Physics |br|
       «Phase-Field models with LBM and MultiScale Modeling» |br|
+      Accreditation to Supervise Research in Physics |br|
       «Phase-Field models with LBM and MultiScale Modeling» |br|
       «Inverse modeling -- Flow and transport in porous media» |br|
       Service of Thermal-hydraulics and Fluid Mechanics |br|
+      |br|
       «Modeling of Direct and Inverse problems in Geosciences» |br|
       «Theoretical and mathematical (fundamental) Physics» |br|
       
       **Location** |br|
       CEA/Saclay |br|
+      CEA/Saclay |br|
       Univ. Paris-Sud XI |br|
       CEA/Saclay |br|
       CEA/Saclay |br|
       CEA/Saclay |br|
-      CEA/Saclay |br|
+      |br|
       CEA/Cad -- CNRS |br|
       Univ. Montpellier II |br|
 
       .. only:: titania
 
-         **PDF** |br|
+         **Certificate** |br|
          :download:`NIG 757 <./source/PDF_FILES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
-         :download:`Degree <./source/PDF_FILES/2019_HDR_Cartalade.pdf>` |br|
          :download:`NIG 737 <./source/PDF_FILES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
+         :download:`Degree <./source/PDF_FILES/2019_HDR_Cartalade.pdf>` |br|
          :download:`NIG 580 <./source/PDF_FILES/2016_SeniorExpert_Cartalade.pdf>` |br|
          NIG 580 |br|
+         -- |br|
          |br|
          :download:`Degree <./source/PDF_FILES/2002_PhD_Cartalade.pdf>` |br|
          |br|
 
-   .. rst-class:: align-center
+.. rst-class:: align-center
    
       See details in :ref:`Certifications-and-Degrees`
-
-.. admonition::
-
-   Physicist in Modeling, Computational physics and HPC simulations
-
-.. _LBM_Saclay code: 
 
 
 ****************************************************
@@ -177,7 +179,7 @@ Welcome to Alain CARTALADE's resume
       :class: hint
       
       C++ programming & validation of LBM and :math:`\varphi`-models |br|
-      Writing :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>` and specifications |br|
+      Writing :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>` and specifications :math:`\hspace{4mm}` |br|
       Facilitation of taskforce and training sessions |br|
       Supervisor of PhD fellows and internship students |br|
 
@@ -225,7 +227,7 @@ Welcome to Alain CARTALADE's resume
          :bdg-link-success-line:`Lattice Boltzman Methods for crystal growth <https://doi.org/10.1016/j.camwa.2016.02.029>` |br|
          :bdg-link-success-line:`LBM for fractional transport Equation <https://doi.org/10.1016/j.cpc.2018.08.005>` |br|
          :bdg-link-success-line:`LBM for Two-phase flows with phase change <https://doi.org/10.1016/j.cma.2020.113266>`  |br|
-         :bdg-link-success-line:`Phase-field for porous media dissolution <https://doi.org/10.1016/j.commatsci.2022.111261>` :math:`\hspace{14mm}` |br|
+         :bdg-link-success-line:`Phase-field for porous media dissolution <https://doi.org/10.1016/j.commatsci.2022.111261>` :math:`\hspace{15mm}` |br|
 
          [P7]_ |br|
          [P10]_ |br|
@@ -263,7 +265,7 @@ Welcome to Alain CARTALADE's resume
 
          **7** |br|
          **3** |br|
-         **31** |br|
+         **32** |br|
          **4** |br|
 
    :math:`\hspace{1cm}`
@@ -339,11 +341,17 @@ Welcome to Alain CARTALADE's resume
             **2019–2020** |br|
             **2021–now** |br|
 
-            Prog/Project |br|
-            SIMU/SIVIT |br|
-            SIMU/SITHY |br|
-            SIMU/PICI2 |br|
-            CyN/VESTA |br|
+            **Programme** |br|
+            SIMU |br|
+            SIMU |br|
+            SIMU |br|
+            CyN |br|
+
+            **Project** |br|
+            SIVIT |br|
+            SITHY |br|
+            PICI2 |br|
+            VESTA |br|
 
    .. grid-item::
       :columns: 4

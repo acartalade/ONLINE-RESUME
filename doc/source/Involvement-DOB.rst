@@ -5,11 +5,47 @@
 
 .. _Involvement-CEA-Projects:
 
-Involvement in CEA projects
-===========================
+Details of my involvement in CEA projects
+=========================================
 
-Current CEA projects
---------------------
+First Lattice Boltzmann implementation and technical report
+-----------------------------------------------------------
+
+.. admonition:: 2008–2009: COSTO (COlis en STOckage)
+   :class: error
+
+   .. rst-class:: align-center
+
+      **«Development of the Lattice Boltzmann code SILABE3D»**
+
+   .. dropdown:: Details
+
+      .. grid:: 3
+         :gutter: 1
+
+         .. grid-item::
+            :columns: 2
+
+            **Dates** |br|
+            2008 |br|
+            2009 |br|
+      
+         .. grid-item::
+            :columns: 8
+
+            **Actions** |br|
+            First developements of the Lattice Boltzmann code SILABE3D |br|
+            Writing the first technical report on simulations performed with the Lattice Boltzmann Methods
+      
+         .. grid-item::
+            :columns: 2
+
+            **Achievements** |br|
+            -- |br|
+            [R8]_ |br|
+
+2010 -- now: current CEA projects
+---------------------------------
 
 .. admonition:: 2010–now: SIMU/SIVIT (SImulation de la VITrification – with Orano & EDF)
 
@@ -245,8 +281,8 @@ Current CEA projects
             **Achievements** |br|
             Oral pres + code |br|
 
-Completed CEA projects (3)
---------------------------
+2002 -- 2013: completed CEA projects (2)
+----------------------------------------
 
 .. admonition:: 2002–2005: MAVL (Moyenne Activité et Vie Longue – with ANDRA)
    :class: note
@@ -337,39 +373,6 @@ Completed CEA projects (3)
             [P3]_, [P4]_ |br|
             [R9] |br|
             [P5]_, [P9]_ |br|
-
-.. admonition:: 2008–2009: COSTO (COlis en STOckage)
-   :class: error
-
-   .. rst-class:: align-center
-
-      **«Development of the Lattice Boltzmann code SILABE3D»**
-
-   .. dropdown:: Details
-
-      .. grid:: 3
-         :gutter: 1
-
-         .. grid-item::
-            :columns: 2
-
-            **Dates** |br|
-            2008 |br|
-            2009 |br|
-      
-         .. grid-item::
-            :columns: 8
-
-            **Actions** |br|
-            First developements of the Lattice Boltzmann code SILABE3D |br|
-            Writing the first technical report on simulations performed with the Lattice Boltzmann Methods
-      
-         .. grid-item::
-            :columns: 2
-
-            **Achievements** |br|
-            -- |br|
-            [R8]_ |br|
 
 Involvement in other projects (1 ANR + 1 CEA--PTC)
 --------------------------------------------------
