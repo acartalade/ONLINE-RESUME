@@ -13,48 +13,48 @@ Publications (21)
 International journals (13)
 """""""""""""""""""""""""""
 
-.. [P1] **Cartalade A.** et al., Application of Inverse Modeling Methods to Thermal and Diffusion Experiments at Mont Terri Rock Laboratory. *Physics and Chemistry of the Earth A/B/C*, 32 (1-7), pp. 491–506. doi: http://dx.doi.org/10.1016/j.pce.2006.08.043. **2007**.
+.. [P1] **Cartalade A.** et al., Application of Inverse Modeling Methods to Thermal and Diffusion Experiments at Mont Terri Rock Laboratory. *Physics and Chemistry of the Earth A/B/C*, 32 (1-7), pp. 491–506. doi: :bdg-link-success-line:`http://dx.doi.org/10.1016/j.pce.2006.08.043`. **2007**.
 
-.. [P2] Néel M.-C., M. Joelson, :math:`^{\star\star}` Zoia A., **A. Cartalade**, Compétition entre transport et rétention de matière en milieu poreux, *Mechanics & Industry*, 10, pp. 217–221. doi: http://dx.doi.org/10.1051/meca/2009050. **2009**.
+.. [P2] Néel M.-C., M. Joelson, :math:`^{\star\star}` Zoia A., **A. Cartalade**, Compétition entre transport et rétention de matière en milieu poreux, *Mechanics & Industry*, 10, pp. 217–221. doi: :bdg-link-success-line:`http://dx.doi.org/10.1051/meca/2009050`. **2009**.
 
-.. [P3] :math:`^{\star\star}` Zoia A., C. Latrille, A. Beccantini, **A. Cartalade**, Spatial and temporal features of density-dependent contaminant transport: Experimental investigation and numerical modeling. *Journal of Contaminant Hydrology*, 109 (1-4), pp. 14–26. doi: http://dx.doi.org/10.1016/j.jconhyd.2009.07.006. **2009**.
+.. [P3] :math:`^{\star\star}` Zoia A., C. Latrille, A. Beccantini, **A. Cartalade**, Spatial and temporal features of density-dependent contaminant transport: Experimental investigation and numerical modeling. *Journal of Contaminant Hydrology*, 109 (1-4), pp. 14–26. doi: :bdg-link-success-line:`http://dx.doi.org/10.1016/j.jconhyd.2009.07.006`. **2009**.
 
-.. [P4] :math:`^{\star\star}` Zoia A., C. Latrille, **A. Cartalade**, Nonlinear random-walk approach to concentration-dependent contaminant transport in porous media. *Physical Review E*, 79 (4), 041125. doi: http://dx.doi.org/10.1103/PhysRevE.79.041125. **2009**.
+.. [P4] :math:`^{\star\star}` Zoia A., C. Latrille, **A. Cartalade**, Nonlinear random-walk approach to concentration-dependent contaminant transport in porous media. *Physical Review E*, 79 (4), 041125. doi: :bdg-link-success-line:`http://dx.doi.org/10.1103/PhysRevE.79.041125`. **2009**.
 
-.. [P5] :math:`^{\star\star}` Maryshev B., **A. Cartalade**, C. Latrille, M. Joelson, M.-C. Néel, Adjoint state method for fractional diffusion: Parameter identification. *Computers & Mathematics with Applications*, 66 (5), pp. 630–638. doi: http://dx.doi.org/10.1016/j.camwa.2013.02.022. **2013**.
+.. [P5] :math:`^{\star\star}` Maryshev B., **A. Cartalade**, C. Latrille, M. Joelson, M.-C. Néel, Adjoint state method for fractional diffusion: Parameter identification. *Computers & Mathematics with Applications*, 66 (5), pp. 630–638. doi: :bdg-link-success-line:`http://dx.doi.org/10.1016/j.camwa.2013.02.022`. **2013**.
 
-.. [P6] **Cartalade A.**, :math:`^{\star}` Younsi A., É. Régnier, S. Schuller, Simulations of phase-field models for crystal growth and phase separation. *Procedia Materials Science*, 7, pp. 72–78. doi: http://dx.doi.org/10.1016/j.mspro.2014.10.010. **2014**.
+.. [P6] **Cartalade A.**, :math:`^{\star}` Younsi A., É. Régnier, S. Schuller, Simulations of phase-field models for crystal growth and phase separation. *Procedia Materials Science*, 7, pp. 72–78. doi: :bdg-link-success-line:`http://dx.doi.org/10.1016/j.mspro.2014.10.010`. **2014**.
 
-.. [P7] **Cartalade A.**, Younsi A., M. Plapp, Lattice Boltzmann simulations of 3D crystal growth: Numerical schemes for a phase-field model with anti-trapping current. *Computers & Mathematics with Applications*, 71 (9), pp. 1784–1798, doi: https://doi.org/10.1016/j.camwa.2016.02.029. **2016**.
+.. [P7] **Cartalade A.**, Younsi A., M. Plapp, Lattice Boltzmann simulations of 3D crystal growth: Numerical schemes for a phase-field model with anti-trapping current. *Computers & Mathematics with Applications*, 71 (9), pp. 1784–1798, doi: :bdg-link-success-line:`https://doi.org/10.1016/j.camwa.2016.02.029`. **2016**.
 
-.. [P8] Younsi A. and **A. Cartalade**, On anisotropy function in crystal growth simulations using Lattice Boltzmann equation. *Journal of Computational Physics*, 325, pp. 1–21. doi: http://dx.doi.org/10.1016/j.jcp.2016.08.014. **2016**.
+.. [P8] Younsi A. and **A. Cartalade**, On anisotropy function in crystal growth simulations using Lattice Boltzmann equation. *Journal of Computational Physics*, 325, pp. 1–21. doi: :bdg-link-success-line:`http://dx.doi.org/10.1016/j.jcp.2016.08.014`. **2016**.
 
-.. [P9] :math:`^{\star\star}` Maryshev B., **A. Cartalade**, C. Latrille, M.-C. Néel, Identifying Space-Dependent Coefficients and the Order of Fractionality in Fractional Advection-Diffusion Equation. *Transport in Porous Media*, 116 (1), pp. 53–71.doi: http://dx.doi.org/10.1007/s11242-016-0764-1. **2017**.
+.. [P9] :math:`^{\star\star}` Maryshev B., **A. Cartalade**, C. Latrille, M.-C. Néel, Identifying Space-Dependent Coefficients and the Order of Fractionality in Fractional Advection-Diffusion Equation. *Transport in Porous Media*, 116 (1), pp. 53–71. doi: :bdg-link-success-line:`http://dx.doi.org/10.1007/s11242-016-0764-1`. **2017**.
 
-.. [P10] **Cartalade A.**, A. Younsi and M.-C. Néel, Multiple-Relaxation-Time Lattice Boltzmann scheme for fractional advection-diffusion equation. *Computer Physics Communications*, 234, pp. 40–54, doi: https://doi.org/10.1016/j.cpc.2018.08.005. **2019**. 
+.. [P10] **Cartalade A.**, A. Younsi and M.-C. Néel, Multiple-Relaxation-Time Lattice Boltzmann scheme for fractional advection-diffusion equation. *Computer Physics Communications*, 234, pp. 40–54, doi: :bdg-link-success-line:`https://doi.org/10.1016/j.cpc.2018.08.005`. **2019**. 
 
-.. [P11] Verdier W., P. Kestener, **A. Cartalade**, Performance portability of lattice Boltzmann methods for two-phase flows with phase change, *Computer Methods in Applied Mechanics and Engineering*, 370, 113266, doi: https://doi.org/10.1016/j.cma.2020.113266. **2020**. 
+.. [P11] Verdier W., P. Kestener, **A. Cartalade**, Performance portability of lattice Boltzmann methods for two-phase flows with phase change, *Computer Methods in Applied Mechanics and Engineering*, 370, 113266, doi: :bdg-link-success-line:`https://doi.org/10.1016/j.cma.2020.113266`. **2020**. 
 
-.. [P12] Boutin T., Verdier W., **A. Cartalade**, Grand-Potential-based phase-field model of dissolution/precipitation: lattice Boltzmann simulations of counter term effect on porous medium, *Computational Materials Science*, 207, 111261,  doi: https://doi.org/10.1016/j.commatsci.2022.111261. **2022**.
+.. [P12] Boutin T., Verdier W., **A. Cartalade**, Grand-Potential-based phase-field model of dissolution/precipitation: lattice Boltzmann simulations of counter term effect on porous medium, *Computational Materials Science*, 207, 111261,  doi: :bdg-link-success-line:`https://doi.org/10.1016/j.commatsci.2022.111261`. **2022**.
 
-.. [P13] Verdier W., **A. Cartalade**, M. Plapp, Grand-Potential phase field simulations of droplet growth and sedimentation in a two-phase ternary fluid, *Modelling and Simulation in Materials Science and Engineering*, 32, 065028, doi: https://doi.org/10.1088/1361-651X/ad627e. **2024**. 
+.. [P13] Verdier W., **A. Cartalade**, M. Plapp, Grand-Potential phase field simulations of droplet growth and sedimentation in a two-phase ternary fluid, *Modelling and Simulation in Materials Science and Engineering*, 32, 065028, doi: :bdg-link-success-line:`https://doi.org/10.1088/1361-651X/ad627e`. **2024**. 
 
 Peer-reviewed proceeding (7)
 """"""""""""""""""""""""""""
 
-.. [p1] Dewonck S., M. Descostes, V. Blin, E. Tevissen, J. Radwan, C. Poinssot, **A. Cartalade**, P. Brisset, and D. Coelho, In situ diffusion experiments in Callovo-Oxfordian mudstone. Goldschmidt Conference in Geochimica et Cosmochimica Acta, 70 (18), Supplement 1, p. A140. doi: http://dx.doi.org/10.1016/j.gca.2006.06.296. **2006**.
+.. [p1] Dewonck S., M. Descostes, V. Blin, E. Tevissen, J. Radwan, C. Poinssot, **A. Cartalade**, P. Brisset, and D. Coelho, In situ diffusion experiments in Callovo-Oxfordian mudstone. Goldschmidt Conference in Geochimica et Cosmochimica Acta, 70 (18), Supplement 1, p. A140. doi: :bdg-link-success-line:`http://dx.doi.org/10.1016/j.gca.2006.06.296`. **2006**.
 
-.. [p2] :math:`^{\star}` Cadalen S., M. Quintard, and **A. Cartalade**, Macro-pore model for Cesium transport in sandy-clayed porous media. Proceeding of XVI International Conference on Computational Methods in Water Resources (CMWR-XVI), Copenhagen, Denmark, June. 8 pages, In: P.J. Binning, P.K. Engesgaard, H.K. Dahle, G.F. Pinder and W.G. Gray (Editors).doi: http://dx.doi.org/10.4122/1.1000000630. **2006**.
+.. [p2] :math:`^{\star}` Cadalen S., M. Quintard, and **A. Cartalade**, Macro-pore model for Cesium transport in sandy-clayed porous media. Proceeding of XVI International Conference on Computational Methods in Water Resources (CMWR-XVI), Copenhagen, Denmark, June. 8 pages, In: P.J. Binning, P.K. Engesgaard, H.K. Dahle, G.F. Pinder and W.G. Gray (Editors).doi: :bdg-link-success-line:`http://dx.doi.org/10.4122/1.1000000630`. **2006**.
 
 .. [p3] Latrille C., **A. Cartalade**, New experimental device to study transport in unsaturated porous media. Proceedings of The 13th International Conference on Water-Rock Interaction (WRI-13), pp. 299–302 (4 pages). Water-Rock Interaction – Birkle & Torres Alvarado (eds). Taylor & Francis Group, London. ISBN: 978-041560426-0. **2010**.
 
-.. [p4] Ouloin M., M.-C. Néel, M. Joelson, **A. Cartalade**, Inversion d’un modèle de dispersion avec effets de mémoire. Proceedings of 20ème Congrès Français de Mécanique (6 pages). https://hal.archives-ouvertes.fr/hal-01318982. Besançon, 29 août au 2 septembre. **2011**.
+.. [p4] Ouloin M., M.-C. Néel, M. Joelson, **A. Cartalade**, Inversion d’un modèle de dispersion avec effets de mémoire. Proceedings of 20ème Congrès Français de Mécanique (6 pages). :bdg-link-success-line:`https://hal.archives-ouvertes.fr/hal-01318982`. Besançon, 29 août au 2 septembre. **2011**.
 
-.. [p5] Younsi A., **A. Cartalade**, M. Quintard, Lattice Boltzmann Simulations for Anisotropic Crystal Growth of a Binary Mixture. Proceeding of The 15th International Heat Transfer Conference (IHTC-15), 9 pages, 10-15 Aug. Kyoto, paper 9797, ISBN: 978-1-56700-421-2. http://dx.doi.org/10.1615/IHTC15.cpm.009797. **2014**.
+.. [p5] Younsi A., **A. Cartalade**, M. Quintard, Lattice Boltzmann Simulations for Anisotropic Crystal Growth of a Binary Mixture. Proceeding of The 15th International Heat Transfer Conference (IHTC-15), 9 pages, 10-15 Aug. Kyoto, paper 9797, ISBN: 978-1-56700-421-2. :bdg-link-success-line:`http://dx.doi.org/10.1615/IHTC15.cpm.009797`. **2014**.
 
-.. [p6] :math:`^{\star\star}` Maryshev B., **A. Cartalade**, C. Latrille, M.-C. Néel, Accuracy and efficiency of adjoint state based pa- rameter identification for fractional advection diffusion equation with space-dependent coefficient. Proceeding of International Conference on Control, Decision and Information Technologies, 6–8 April 2016 (CoDIT’16), pp. 134–139, (6 pages). Malta. Electronic ISBN: 978-1-5090-2188-8. doi: http://dx.doi.org/10.1109/CoDIT.2016.7593549. **2016**. 
+.. [p6] :math:`^{\star\star}` Maryshev B., **A. Cartalade**, C. Latrille, M.-C. Néel, Accuracy and efficiency of adjoint state based pa- rameter identification for fractional advection diffusion equation with space-dependent coefficient. Proceeding of International Conference on Control, Decision and Information Technologies, 6–8 April 2016 (CoDIT’16), pp. 134–139, (6 pages). Malta. Electronic ISBN: 978-1-5090-2188-8. doi: :bdg-link-success-line:`http://dx.doi.org/10.1109/CoDIT.2016.7593549`. **2016**. 
 
-.. [p7] Angeli P.-E., M.-A. Puscas, G. Fauchet, **A. Cartalade**, FVCA8 benchmark for the Stokes and Navier-Stokes equations with the TrioCFD code – Benchmark session. Proceeding of the Finite Volumes for Complex Applications VIII, Methods and theoretical aspects, conference (21 pages), FVCA8, June 12-16, Université Lille 1. In “Springer Proceedings in Mathematics & Statistics” Book series, vol 199, pp. 181-202. doi: http://dx.doi.org/10.1007/978-3-319-57397-7_12. **2017**.
+.. [p7] Angeli P.-E., M.-A. Puscas, G. Fauchet, **A. Cartalade**, FVCA8 benchmark for the Stokes and Navier-Stokes equations with the TrioCFD code – Benchmark session. Proceeding of the Finite Volumes for Complex Applications VIII, Methods and theoretical aspects, conference (21 pages), FVCA8, June 12-16, Université Lille 1. In “Springer Proceedings in Mathematics & Statistics” Book series, vol 199, pp. 181-202. doi: :bdg-link-success-line:`http://dx.doi.org/10.1007/978-3-319-57397-7_12`. **2017**.
 
 Proceeding without peer-review process (1)
 """"""""""""""""""""""""""""""""""""""""""
@@ -121,20 +121,20 @@ Involvement in collaborative documents (6)
 Lectures and courses
 --------------------
 
-.. [L1] **Cartalade A.**, Cours INSTN CFD diphasique du STMF – Partie 1.C. "Approche thermodynamique des interfaces : les modèles à champ de phase". 325 slides + 50 annexes. **2025**
+.. [L1] **Cartalade A.**, Cours INSTN CFD diphasique du STMF – Partie 1.C. :bdg-link-warning:`Approche thermodynamique des interfaces : les modèles à champ de phase <../_static/PDF_FILES/LECTURES-COURSES/CEA-INSTN_TwoPhase_with_Phase-Field.pdf>`. 325 slides + 50 appendices. **2025**
 
-.. [L2] **Cartalade A.**, Lattice Boltzmann Methods – Part I.A: introduction. "Theory and examples on two-phase flows and phase change". 243 slides. **2025**.
+.. [L2] **Cartalade A.**, :bdg-link-warning:`Lattice Boltzmann Methods – Part I.A: introduction <../_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-A_Cartalade.pdf>`. "Theory and examples on two-phase flows and phase change". 243 slides. **2025**.
 
-.. [L3] **Cartalade A.**, Lattice Boltzmann Methods – Part I.B: practice with LBM_Saclay. 212 slides. **2025**.
+.. [L3] **Cartalade A.**, :bdg-link-warning:`Lattice Boltzmann Methods – Part I.B: practice with LBM_Saclay <../_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>`. 212 slides . **2025**.
 
-.. [L4] **Cartalade A.**, Lattice Boltzmann Methods – Part II: Advanced applications. 98 slides. **2025**.
+.. [L4] **Cartalade A.**, :bdg-link-primary:`html pages of Lattice Boltzmann Methods and Phase-Field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/TOC_Courses.html>`. **2025**.
 
 PhD thesis and HDR (2)
 ----------------------
 
-.. [T1] **Cartalade A.**, Modélisation des Écoulements dans les Aquifères Fracturés, Développement d’un Modèle Multi-Continua (Problèmes Direct et Inverse) et Application au Site du CEA/Cadarache. Thèse, Univ. Montpellier II. http://dx.doi.org/10.13140/RG.2.2.12906.52164, 209 pages. **2002**.
+.. [T1] **Cartalade A.**, Modélisation des Écoulements dans les Aquifères Fracturés, Développement d’un Modèle Multi-Continua (Problèmes Direct et Inverse) et Application au Site du CEA/Cadarache. Thèse, Univ. Montpellier II. :bdg-link-success-line:`http://dx.doi.org/10.13140/RG.2.2.12906.52164`, 209 pages. **2002**.
 
-.. [H1] **Cartalade A.**, Modèles à champ de phase et équations fractionnaires simulés par méthode de Boltzmann sur réseaux. Mémoire d’Habilitation à Diriger des Recherches (HDR) en Physique, Université Paris-Sud. 95 pages. **2019**. http://dx.doi.org/10.13140/RG.2.2.10705.07529
+.. [H1] **Cartalade A.**, :bdg-link-warning:`Modèles à champ de phase et équations fractionnaires simulés par méthode de Boltzmann sur réseaux <../_static/PDF_FILES//CEA-REPORTS/HDR_Cartalade_Sept2019_vRG.pdf>`. Mémoire d’Habilitation à Diriger des Recherches (HDR) en Physique, Université Paris-Sud. 95 pages. :bdg-link-success-line:`http://dx.doi.org/10.13140/RG.2.2.10705.07529`. **2019**.
 
 
 Main Oral presentations

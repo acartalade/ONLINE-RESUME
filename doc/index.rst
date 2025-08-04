@@ -63,7 +63,7 @@ Welcome to Alain CARTALADE's resume
 
 .. container:: sphinx-features
 
-   :math:`\hspace{8mm}`
+   :math:`\hspace{1.2cm}`
 
    .. admonition:: |space|
       :class: bigtitle
@@ -74,7 +74,7 @@ Welcome to Alain CARTALADE's resume
          
          .. math::
 
-            \LARGE{\textcolor{white}{\text{Physicist «Modeling, computational physics and HPC simulations»}}}
+            \LARGE{\textcolor{white}{\text{Physicist «Theory, computational physics and HPC simulations»}}}
 
          :math:`\hspace{5mm}`
 
@@ -171,10 +171,10 @@ Welcome to Alain CARTALADE's resume
       
       Mathematical and numerical methods |br|
       Fluid dynamics and thermic |br|
-      Materials science and thermodynamics  :math:`\hspace{1.1cm}` |br|
+      Materials science and thermodynamics  :math:`\hspace{1.25cm}` |br|
       Flow and transport in porous media |br|
    
-   :math:`\hspace{1cm}`
+   :math:`\hspace{9mm}`
 
    .. admonition:: Main research
       :class: hint
@@ -204,19 +204,19 @@ Welcome to Alain CARTALADE's resume
          :bdg-link-warning:`Phase-field models <./_static/PDF_FILES/LECTURES-COURSES/CEA-INSTN_TwoPhase_with_Phase-Field.pdf>` |br|
          :bdg-link-warning:`LBM Part 1-A Introduction <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-A_Cartalade.pdf>` |br|
          :bdg-link-warning:`LBM Part 1-B Practice <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>` |br|
-         :bdg-link-muted:`LBM Part 2 Advanced appli` |br|
+         :bdg-link-primary:`Course reminders <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/TOC_Courses.html>` |br|
 
          325 slides |br|
          243 slides |br|
          212 slides |br|
-         -- |br|
+         html pages |br|
 
          [L1]_ |br|
          [L2]_ |br|
          [L3]_ |br|
          [L4]_ |br|
 
-   :math:`\hspace{8mm}`
+   :math:`\hspace{9mm}`
 
    .. admonition:: :ref:`List-Of-Publications-with-LBM`
       :class: hint
@@ -226,7 +226,7 @@ Welcome to Alain CARTALADE's resume
          Publications |br|
          CEA Technical Reports |br|
          Thesis (HDR+PhD) |br|
-         Collaborative documents :math:`\hspace{0.5pt}` |br|
+         Collaborative documents :math:`\hspace{0.25mm}` |br|
    
          **21** |br|
          **18** |br|
@@ -259,7 +259,7 @@ Welcome to Alain CARTALADE's resume
 
          Teaching courses and training sessions |br|
          Member of «PhD jury» and «CSI» |br|
-         Organization and facilitation of workshop |br|
+         Organization and facilitation of workshop :math:`\hspace{0.5mm}` |br|
          Keynote speaker |br|
 
          |br|
@@ -267,17 +267,17 @@ Welcome to Alain CARTALADE's resume
          **6** |br|
          **1** |br|
 
-   :math:`\hspace{1cm}`
+   :math:`\hspace{8.5mm}`
 
    .. admonition:: :ref:`Supervisor`
       :class: hint
-      
+
       .. container:: sphinx-features
 
          PhD fellows |br|
          Post-doctoral fellows |br|
          Internship students |br|
-         PhD jury as supervisor :math:`\hspace{3mm}` |br|
+         PhD jury as supervisor :math:`\hspace{3.5mm}` |br|
 
          **7** |br|
          **3** |br|
@@ -301,11 +301,7 @@ Welcome to Alain CARTALADE's resume
          **1** |br|
          **1** |br|
 
-**************************
-**Details in subsections**
-**************************
-
-.. admonition:: List of subsections
+.. admonition:: All details in subsections
    :class: error
 
    .. container:: twocol
@@ -328,6 +324,50 @@ Welcome to Alain CARTALADE's resume
             ./source/Miscellaneous.rst
             ./source/Involvement-DOB.rst
 
+
+   
+***********************************
+**My approach in the CEA projects**
+***********************************
+
+.. admonition:: My approach in the CEA projects
+   :class: hint
+
+   .. dropdown::
+      :icon: comment
+
+      In the CEA projects to which I contribute, after discussion with the experimental scientists involved in the same project (see :ref:`Involvement-CEA-Projects`), I **derive the Partial Derivative Equations** (PDEs) for the target application. Since 2012, the derivation of such PDEs is based on the *phase-field theory* which combines rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Fundamentals of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`). Since 2009 [R8]_, I **write the numerical schemes** of those PDEs with the *Lattice Boltzmann Methods* (LBM -- see :bdg-link-primary:`Overview of Lattice Boltzmann Methods <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). After **verifications** of **code implementation**, the **HPC simulations** are diverse and concern fluid flows, material science and porous media, depending on the projects that support my activities. For example, in SIVIT, the phenomena are those observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`). In SIACY, they are relative to the liquid-liquid extraction devices, and in VESTA they concern the maturation of gels. My whole approach is summarized in :numref:`target-Fig-Approach`. More details can be found on :ref:`Skills-and-Areas`.
+
+   .. container:: twocol
+
+      .. container:: leftside
+
+         .. _target-Fig-Observation:
+   
+         .. figure:: ./source/FIGS/Fig_Observations.png
+            :name: Fig-CEA-Cad
+            :figclass: align-center
+            :align: center
+            :height: 220
+            :width: 450
+            :scale: 100 %
+      
+            Observations made by experimental scientists in SIVIT and VESTA projects
+
+      .. container:: rightside
+
+         .. _target-Fig-Approach:
+   
+         .. figure:: ./source/FIGS/Fig_MyApproach.png
+            :name: Fig-MyApproach
+            :figclass: align-center
+            :align: center
+            :height: 230
+            :width: 450
+            :scale: 100 %
+      
+            My approach in the CEA projects: modeling, numerical implementation and HPC simulations
+
 ***********************
 **Further Information**
 ***********************
@@ -339,15 +379,15 @@ Welcome to Alain CARTALADE's resume
       :columns: 4
 
       .. admonition:: Main research at SFME (2002--2011)
-         :class: important
+         :class: note
 
-         Inverse problems for parameters identification, approach with adjoint state method and optimization :math:`\bullet` Simulation of fractional equation for anomalous transport (non Fickian) in porous media. |br|
+         Inverse problems for parameters identification, approach with adjoint state method and optimization :math:`\bullet` Simulation of fractional equation for anomalous transport (non Fickian) in porous media :math:`\bullet` First LBM implementation and simulations. |br|
 
    .. grid-item::
       :columns: 4
 
       .. admonition:: CEA/DES projects
-         :class: important
+         :class: note
       
          .. container:: sphinx-features
 
@@ -373,7 +413,7 @@ Welcome to Alain CARTALADE's resume
       :columns: 4
 
       .. admonition:: Member of CEA/DM2S laboratories
-         :class: important
+         :class: note
 
          .. container:: sphinx-features
 
@@ -394,6 +434,3 @@ Welcome to Alain CARTALADE's resume
             STMF |br|
             SFME |br|
             SFME |br|
-
-   
-

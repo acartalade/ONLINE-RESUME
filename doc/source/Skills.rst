@@ -7,46 +7,6 @@
 Skills and areas of modeling
 ============================
 
-My approach in the CEA projects
--------------------------------
-
-.. admonition:: My approach in the CEA projects
-   :class: important
-
-   In the CEA projects to which I contribute, I first discuss with the experimental scientists involved in the same project (see :ref:`Involvement-CEA-Projects`). I next derive the Partial Derivative Equations (PDEs) for the target application. Since 2012, the derivation of such PDEs is based on the **phase-field theory** which combine rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Basic concepts of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`). Since 2009 [R8]_, the numerical implementation of those PDEs is performed with the **Lattice Boltzmann Methods** (LBM -- see :bdg-link-primary:`Overview of LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). 
-   The applications are diverse and concern fluid flows, material science and porous media, depending on the projects that support my activities. For example, in SIVIT, the phenomena are those observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`). In SIACY, they are relative to the liquid-liquid extraction devices, and in VESTA they concern the maturation of gels. My whole approach is summarized in :numref:`target-Fig-Approach`. Below are presented some keywords of my skills and areas of modeling.
-
-   .. container:: twocol
-
-      .. container:: leftside
-
-         .. _target-Fig-Observation:
-   
-         .. figure:: ./FIGS/Fig_Observations.png
-            :name: Fig-CEA-Cad
-            :figclass: align-center
-            :align: center
-            :height: 220
-            :width: 450
-            :scale: 100 %
-      
-            Observations made by experimental scientists in SIVIT and VESTA projects
-
-      .. container:: rightside
-
-         .. _target-Fig-Approach:
-   
-         .. figure:: ./FIGS/Fig_MyApproach.png
-            :name: Fig-MyApproach
-            :figclass: align-center
-            :align: center
-            :height: 230
-            :width: 450
-            :scale: 100 %
-      
-            My approach in the CEA projects: modeling, numerical implementation and HPC simulations
-
-
 Mathematical and numerical methods 
 ----------------------------------
 

@@ -41,6 +41,14 @@ Teaching & facilitation of training session
       Interns on LBM_Saclay |br|
       1st yr of Eng. school |br|
 
+      **Website** |br|
+      :bdg-link-primary:`Web <https://adum.fr/script/catalogue.pl?mod=3701390&site=psaclay>` |br|
+      :bdg-link-primary:`Web <https://masters-sdi.sorbonne-universite.fr/la-mention-mecanique/le-parcours-energetique/m2-energetique-et-thermohydraulique-pour-le-nucleaire>` |br|
+      :bdg-link-primary:`Web <https://instn.cea.fr/formation/thermohydraulique-diphasique-cfd>` |br|
+      :bdg-link-primary:`Web <https://adum.fr/script/formations.pl?mod=3622094&site=l>` |br|
+      -- |br|
+      -- |br|
+
       **Topic** |br|
       "An introduction to Lattice Boltzmann Methods" |br|
       "Thermodynamic approach of interfaces: Phase-field models" |br|
@@ -143,7 +151,7 @@ Keynote speaker & Taskforce management
       **2023** Sept |br|
    
       Keynote speaker at «SumGlass 2023» summer school. Title «Modeling phase separation in the melt: thermodynamics, fluid flow |br|
-      and HPC simulations». Duration of the presentation 30min. Musée de la Romanité, Nîmes September 27th, 2023. |br|
+      and HPC simulations» [O13]_. Duration of the presentation 30min. Musée de la Romanité, Nîmes September 27th, 2023. |br|
 
 
 Organization and facilitation of workshops and conferences

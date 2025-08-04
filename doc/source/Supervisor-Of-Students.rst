@@ -175,7 +175,7 @@ Post-doctoral young researchers (3)
          • Poster presented at EGU \ref{EGU2009} at Vienna |br|
          • Several presentations at CEA. |br|
 
-Internship students (31)
+Internship students (32)
 ------------------------
 
 .. container:: sphinx-features

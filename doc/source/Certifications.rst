@@ -17,7 +17,7 @@ CEA Certifications
       **Dates** |br|
       **2025** |br|
       **2023** |br|
-      **2016** |br|
+      **2017** |br|
       **2011** |br|
 
       **Title/Function** |br|
@@ -101,6 +101,7 @@ Educational background
 ----------------------
 
 .. admonition:: Educational background: CNRS summer schools and CEA/INSTN nuclear engineering (≥40h)
+   :class: note
 
    .. container:: sphinx-features
 
