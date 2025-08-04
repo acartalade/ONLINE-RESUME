@@ -39,10 +39,10 @@ CEA Certifications
       Modélisation milieux poreux et problème inverse |br|
 
       **PDF** |br|
-      :download:`Certificate <./PDF_FILES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
-      :download:`Certificate <./PDF_FILES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
-      :download:`Certificate <./PDF_FILES/2016_SeniorExpert_Cartalade.pdf>` |br|
-      |br|
+      :bdg-link-warning:`Certificate <../_static/PDF_FILES/DEGREES-CERTIFICATES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
+      :bdg-link-warning:`Certificate <../_static/PDF_FILES/DEGREES-CERTIFICATES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
+      :bdg-link-warning:`Certificate <../_static/PDF_FILES/DEGREES-CERTIFICATES/2016_SeniorExpert_Cartalade.pdf>` |br|
+      :bdg-link-warning:`Certificate <../_static/PDF_FILES/DEGREES-CERTIFICATES/2011_Expert_Cartalade.pdf>` |br|
 
 
 Academic degrees
@@ -75,8 +75,8 @@ Academic degrees
       Univ Montpellier II |br|
 
       **PDF** |br|
-      :download:`Degree <./PDF_FILES/2019_HDR_Cartalade.pdf>` |br|
-      :download:`Degree <./PDF_FILES/2002_PhD_Cartalade.pdf>` |br|
+      :bdg-link-warning:`Degree <../_static/PDF_FILES/DEGREES-CERTIFICATES/2019_HDR_Cartalade.pdf>` |br|
+      :bdg-link-warning:`Degree <../_static/PDF_FILES/DEGREES-CERTIFICATES/2002_PhD_Cartalade.pdf>` |br|
 
    **Graduate studies: fundamental Phsics and numerics (Univ Montpellier II, France)**
 
@@ -120,6 +120,6 @@ Educational background
       325h |br|
 
       -- |br|
+      :bdg-link-warning:`Certificate <../_static/PDF_FILES/DEGREES-CERTIFICATES/2011_Certificate_TwoPhaseFlows.pdf>` |br|
       -- |br|
-      -- |br|
-      :download:`Certificate <./PDF_FILES/2003_FNB1_Cartalade.pdf>` |br|
+      :bdg-link-warning:`Certificate <../_static/PDF_FILES/DEGREES-CERTIFICATES/2003_Certificate_FNB1_Cartalade.pdf>` |br|

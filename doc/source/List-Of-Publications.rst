@@ -81,15 +81,15 @@ List of CEA Technical Reports (18)
 
 .. [R7] **Cartalade A.**, C. Latrille, Lapasset G., D. Chambellan and Cadalen S., Beeti experimental device: Dispersivity law identification, Interpretation of X-ray dichromatic data, and calibration system design. Ref: DEN-DM2S-SFME-MTMS-RT/07-018/A. 79 pages (4 technical notes). **2007**.
 
-.. [R8] **Cartalade A.**, Lattice Boltzmann Method for modelling flow and transport in porous media: natural convection and Darcy-Brinkman-Forchheimer equation. Ref: :download:`PDF Report DEN-DM2S-SFME-LSET-RT/09-004/A <./PDF_FILES/CEA-REPORTS/NT2009_Cartalade_004-A.pdf>`. 52 pages (2 tech notes). **2009**.
+.. [R8] **Cartalade A.**, Lattice Boltzmann Method for modelling flow and transport in porous media: natural convection and Darcy-Brinkman-Forchheimer equation. Ref: :bdg-link-warning:`PDF Report DEN-DM2S-SFME-LSET-RT/09-004/A <../_static/PDF_FILES/CEA-REPORTS/NT2009_Cartalade_004-A.pdf>`. 52 pages (2 tech notes). **2009**.
 
-.. [R9] **Cartalade A.**, Dual-porosity transport model simulated by a Multiple-Relaxation-Time Lattice Boltzmann Method and application on BEETI experimental device. Ref: :download:`PDF Report DEN-DM2S-STMF-LATF-RT/11-002/A <./PDF_FILES/CEA-REPORTS/NT2011_Cartalade_002-A.pdf>`. 36 pages. **2011**.
+.. [R9] **Cartalade A.**, Dual-porosity transport model simulated by a Multiple-Relaxation-Time Lattice Boltzmann Method and application on BEETI experimental device. Ref: :bdg-link-warning:`PDF Report DEN-DM2S-STMF-LATF-RT/11-002/A <../_static/PDF_FILES/CEA-REPORTS/NT2011_Cartalade_002-A.pdf>`. 36 pages. **2011**.
 
 .. [R10] **Cartalade A.** and A. Genty, Effective diffusion of 3D porous media: Lattice Boltzmann simulations. Ref: DEN-DM2S-STMF-LATF-RT 12-016/A. 22 pages. **2012**.
 
 .. [R11] **Cartalade A.** and É. Régnier, Lattice Boltzmann simulations for crystal growth problems with a phase-field model I: pure substance. Ref: DEN-DM2S-STMF-LATF-RT/12-005/A. 28 pages. **2012**.
 
-.. [R12] **Cartalade A.**, Lattice Boltzmann simulations for crystal growth problems with a phase-field model II: Model with thin interface limit of 3D pure substance. Ref: :download:`PDF Report DEN-DM2S-STMF-LATF-NT/13-008/A <./PDF_FILES/CEA-REPORTS/NT2013_Cartalade_008-A.pdf>`. 30 pages. **2013**.
+.. [R12] **Cartalade A.**, Lattice Boltzmann simulations for crystal growth problems with a phase-field model II: Model with thin interface limit of 3D pure substance. Ref: :bdg-link-warning:`PDF Report DEN-DM2S-STMF-LATF-NT/13-008/A <../_static/PDF_FILES/CEA-REPORTS/NT2013_Cartalade_008-A.pdf>`. 30 pages. **2013**.
 
 .. [R13] Younsi A. et **A. Cartalade**, Comparisons of Lattice Boltzmann schemes for simulating a transport equation with variable parameters and applications on crystal growth problems. Ref: DEN-DM2S-STMF-LATF-NT/14-033/A. 22 pages. **2014**.
 
@@ -101,7 +101,7 @@ List of CEA Technical Reports (18)
 
 .. [R17] Darona J., P.-E. Angeli, **A. Cartalade**, First version of TrioCFD validation report. Ref: DES/ISAS/DM2S/STMF/LMSF/NT/2020-67417/A. 190 pages. **2020**.
 
-.. [R18] Verdier W., Boutin T., P. Kestener, **A. Cartalade**, LBM_saclay : code HPC multi-architectures sur base LBM. Guide du développeur. :download:`PDF Report DES/ISAS/DM2S/STMF/LMSF/NT/2022-70869/A <./PDF_FILES/CEA-REPORTS/NT2022_LBMsac.pdf>`. 116 pages. **2022**.
+.. [R18] Verdier W., Boutin T., P. Kestener, **A. Cartalade**, LBM_saclay : code HPC multi-architectures sur base LBM. Guide du développeur. :bdg-link-warning:`PDF Report DES/ISAS/DM2S/STMF/LMSF/NT/2022-70869/A <../_static/PDF_FILES/CEA-REPORTS/NT2022_LBMsac.pdf>`. 116 pages. **2022**.
 
 Involvement in collaborative documents (6)
 ------------------------------------------

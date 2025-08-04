@@ -12,45 +12,50 @@ Miscellaneous activities
 Teaching & facilitation of training session
 -------------------------------------------
 
-.. admonition:: Teaching & facilitation of training session
+.. admonition:: Teaching (vacations) & facilitation of training session
    :class: hint
 
    .. container:: sphinx-features
 
       **Dates** |br|
+      **2026** |br|
       **2025--2026** |br|
-      **2025--2026** |br|
-      **2025--2026** |br|
+      **2025** |br|
+      **2025** |br|
       **2019--now** |br|
       **2000** Sept |br|
 
-      **Topics** |br|
-      "Thermodynamic approach of interfaces: the Phase-field models" |br|
-      "Thermodynamic approach of interfaces: the Phase-field models" |br|
+      **Employer** |br|
+      Centrale–Supelec |br|
+      Sorbonne University |br|
+      INSTN CEA/Saclay |br|
+      Centrale–Supelec |br|
+      LMSF laboratory |br|
+      ISIM -- Univ Monptellier |br|      
+
+      **Public** |br|
+      PhD students |br|
+      M2 students |br|
+      Students & Engineers |br|
+      PhD students |br|
+      Interns on LBM_Saclay |br|
+      1st yr of Eng. school |br|
+
+      **Topic** |br|
+      "An introduction to Lattice Boltzmann Methods" |br|
+      "Thermodynamic approach of interfaces: Phase-field models" |br|
+      "Thermodynamic approach of interfaces: Phase-field models" |br|
       "An introduction to Lattice Boltzmann Methods" |br|
       Description and introduction to LBM_Saclay code |br|
       Mathematical lectures and applications |br|
 
-      **Public** |br|
-      M2 students |br|
-      Students & Engineers |br|
-      PhD |br|
-      Interns on LBM_Saclay |br|
-      1st yr of Eng. school |br|
-
       **Hours** |br|
+      16h |br|
       7h |br|
       4h30 |br|
       16h |br|
       ~5h |br|
       24h |br|
-
-      **Location** |br|
-      Sorbonne University |br|
-      INSTN CEA/Saclay |br|
-      Centrale–Supelec |br|
-      LMSF laboratory |br|
-      ISIM -- Univ Monptellier |br|
 
 
 Jury & committee member of PhD thesis
@@ -100,7 +105,9 @@ Jury & committee member of PhD thesis
 .. admonition:: As supervisor
    :class: warning
 
-   See details in page :ref:`Supervisor`
+   .. rst-class:: align-center
+      
+      See details in page :ref:`Supervisor`
 
    .. container:: twocol
 

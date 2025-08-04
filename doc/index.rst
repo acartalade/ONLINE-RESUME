@@ -26,11 +26,11 @@ Welcome to Alain CARTALADE's resume
             :scale: 53
          
    
-         **CEA Research Director & Senior Expert** |br|
+         **CEA Director of Research & Senior Expert** |br|
          Engineer -- Researcher, PhD, HDR |br|
          ----------------------------------------------- |br|
          Atomic Energy and Alternative Energy Commission |br|
-         Institute of Applied sciences and Simulation |br|
+         Institute of Applied Sciences and Simulation |br|
          Department of System and Structure Modelling |br|
          Service of Thermal-hydraulics and Fluid Mechanics :math:`\hspace{4mm}` |br|
          Laboratory of Developments at Local Scales |br|
@@ -71,7 +71,7 @@ Welcome to Alain CARTALADE's resume
       .. container:: sphinx-features
 
          :math:`\hspace{5mm}`
-
+         
          .. math::
 
             \LARGE{\textcolor{white}{\text{Physicist «Modeling, computational physics and HPC simulations»}}}
@@ -91,7 +91,7 @@ Welcome to Alain CARTALADE's resume
       **2025** |br|
       **2023-2027** |br|
       **2019** |br|
-      **2016-2023** |br|
+      **2017-2023** |br|
       **2011-2016** |br|
       **2002** |br|
       |br|
@@ -101,7 +101,7 @@ Welcome to Alain CARTALADE's resume
       **Title/function** |br|
       CEA **Research Director** |br|
       CEA Senior Expert  |br|
-      **HDR** |br|
+      **HDR** in Physics |br|
       CEA **Senior Expert** |br|
       CEA **Expert** |br|
       CEA Engineer–Researcher |br|
@@ -111,9 +111,9 @@ Welcome to Alain CARTALADE's resume
 
       **Topic** |br|
       -- |br|
-      «Phase-Field models with LBM and MultiScale Modeling» |br|
-      Accreditation to Supervise Research in Physics |br|
-      «Phase-Field models with LBM and MultiScale Modeling» |br|
+      «Phase-field models with LBM and MultiScale Modeling» |br|
+      «Phase-field models and fractional Eqs simulated by LBM» |br|
+      «Phase-field models with LBM and MultiScale Modeling» |br|
       «Inverse modeling -- Flow and transport in porous media» |br|
       Service of Thermal-hydraulics and Fluid Mechanics |br|
       |br|
@@ -131,17 +131,28 @@ Welcome to Alain CARTALADE's resume
       CEA/Cad -- CNRS |br|
       Univ. Montpellier II |br|
 
+      **Certificate** |br|
+      NIG 757 |br|
+      NIG 737 |br|
+      Degree |br|
+      NIG 580 |br|
+      NIG 580 |br|
+      -- |br|
+      |br|
+      Degree |br|
+      Degrees |br|
+
       .. only:: titania
 
-         **Certificate** |br|
-         :download:`NIG 757 <./source/PDF_FILES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
-         :download:`NIG 737 <./source/PDF_FILES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
-         :download:`Degree <./source/PDF_FILES/2019_HDR_Cartalade.pdf>` |br|
-         :download:`NIG 580 <./source/PDF_FILES/2016_SeniorExpert_Cartalade.pdf>` |br|
-         NIG 580 |br|
+         |br|
+         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
+         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
+         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2019_HDR_Cartalade.pdf>` |br|
+         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2016_SeniorExpert_Cartalade.pdf>` |br|
+         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2011_Expert_Cartalade.pdf>` |br|
          -- |br|
          |br|
-         :download:`Degree <./source/PDF_FILES/2002_PhD_Cartalade.pdf>` |br|
+         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2002_PhD_Cartalade.pdf>` |br|
          |br|
 
 .. rst-class:: align-center
@@ -175,7 +186,7 @@ Welcome to Alain CARTALADE's resume
    
    :math:`\hspace{1cm}`
 
-   .. admonition:: Supervisor of :bdg-link-info:`LBM_Saclay code <https://codev-tuleap.cea.fr/projects/lbmsaclay/>`
+   .. admonition:: :ref:`LBM-Saclay-code`
       :class: hint
       
       C++ programming & validation of LBM and :math:`\varphi`-models |br|
@@ -190,17 +201,22 @@ Welcome to Alain CARTALADE's resume
       
       .. container:: sphinx-features
 
-         :download:`Phase-field models <./source/PDF_FILES/LECTURES-COURSES/CEA-INSTN_TwoPhase_with_Phase-Field.pdf>` |br|
-         :download:`LBM Part 1-A Introduction <./source/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-A_Cartalade.pdf>` :math:`\hspace{4mm}` |br|
-         :download:`LBM Part 1-B Practice <./source/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>` |br|
-         LBM Part 2 Advanced appli |br|
+         :bdg-link-warning:`Phase-field models <./_static/PDF_FILES/LECTURES-COURSES/CEA-INSTN_TwoPhase_with_Phase-Field.pdf>` |br|
+         :bdg-link-warning:`LBM Part 1-A Introduction <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-A_Cartalade.pdf>` |br|
+         :bdg-link-warning:`LBM Part 1-B Practice <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>` |br|
+         :bdg-link-muted:`LBM Part 2 Advanced appli` |br|
+
+         325 slides |br|
+         243 slides |br|
+         212 slides |br|
+         -- |br|
 
          [L1]_ |br|
          [L2]_ |br|
          [L3]_ |br|
          [L4]_ |br|
 
-   :math:`\hspace{1cm}`
+   :math:`\hspace{8mm}`
 
    .. admonition:: :ref:`List-Of-Publications-with-LBM`
       :class: hint
@@ -247,7 +263,7 @@ Welcome to Alain CARTALADE's resume
          Keynote speaker |br|
 
          |br|
-         **4** |br|
+         **6** |br|
          **6** |br|
          **1** |br|
 

@@ -7,14 +7,14 @@
 Skills and areas of modeling
 ============================
 
-My approach in CEA projects
----------------------------
+My approach in the CEA projects
+-------------------------------
 
-.. admonition:: My approach in CEA projects
+.. admonition:: My approach in the CEA projects
    :class: important
 
-   After talking with the experimental scientists involved in the same project (see :ref:`Involvement-CEA-Projects`), I derive the Partial Derivative Equations (PDEs) for the target application. Since 2009 [R8]_, their numerical implementation is performed with the Lattice Boltzmann Methods (LBM -- see :bdg-link-primary:`Overview of LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). Since 2012 the derivation of those PDEs are based on the phase-field methods which combine rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Basic concepts of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`).
-   The applications are the phenomena observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`. They are related to fluid flows, material science and porous media. The whole approach is summarized in :numref:`target-Fig-Approach`. Below are presented some keywords of my skills and areas of modeling.
+   In the CEA projects to which I contribute, I first discuss with the experimental scientists involved in the same project (see :ref:`Involvement-CEA-Projects`). I next derive the Partial Derivative Equations (PDEs) for the target application. Since 2012, the derivation of such PDEs is based on the **phase-field theory** which combine rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Basic concepts of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`). Since 2009 [R8]_, the numerical implementation of those PDEs is performed with the **Lattice Boltzmann Methods** (LBM -- see :bdg-link-primary:`Overview of LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). 
+   The applications are diverse and concern fluid flows, material science and porous media, depending on the projects that support my activities. For example, in SIVIT, the phenomena are those observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`). In SIACY, they are relative to the liquid-liquid extraction devices, and in VESTA they concern the maturation of gels. My whole approach is summarized in :numref:`target-Fig-Approach`. Below are presented some keywords of my skills and areas of modeling.
 
    .. container:: twocol
 
@@ -26,31 +26,29 @@ My approach in CEA projects
             :name: Fig-CEA-Cad
             :figclass: align-center
             :align: center
-            :height: 230
+            :height: 220
             :width: 450
             :scale: 100 %
       
-            Observations made by experimental scientists
+            Observations made by experimental scientists in SIVIT and VESTA projects
 
       .. container:: rightside
 
          .. _target-Fig-Approach:
    
          .. figure:: ./FIGS/Fig_MyApproach.png
-            :name: Fig-CEA-Cad
+            :name: Fig-MyApproach
             :figclass: align-center
             :align: center
             :height: 230
             :width: 450
             :scale: 100 %
       
-            My approach in the CEA projects
+            My approach in the CEA projects: modeling, numerical implementation and HPC simulations
 
 
 Mathematical and numerical methods 
 ----------------------------------
-
-Implementation and practice of mathematical and numerical methods
 
 .. admonition:: Phase-field modeling and Lattice Boltzmann Method
 
@@ -58,24 +56,16 @@ Implementation and practice of mathematical and numerical methods
 
       .. container:: leftside
 
-         **Phase-field Methods**: derivation of interface-tracking models for various applications such as two-phase flows (see e.g. :bdg-link-primary:`Mathematical model of two-phase flow <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/02_MODELS/01_Fluid_Fluid/Model_NSAC_Comp.html>`) with or without phase change, crystal growth, dissolution of porous media and surfactant, Ostwald ripening :math:`\bullet` Derivation of constitutive laws :math:`\bullet` Asymptotic expansions between sharp interface and diffuse interface [P12]_ :math:`\bullet` Implementation in LBM_Saclay, verifications with the analytical solutions of Stefan's problem & benchmarks. 
+         **Phase-field theory**: derivation of interface-capturing models for various applications such as two-phase flows (see e.g. :bdg-link-primary:`Mathematical model of two-phase flow <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/02_MODELS/01_Fluid_Fluid/Model_NSAC_Comp.html>`) with or without phase change, crystal growth, dissolution of porous media and surfactant, Ostwald ripening :math:`\bullet` Derivation of constitutive laws (see [L1]_) :math:`\bullet` Asymptotic expansions between sharp interface and diffuse interface [P12]_ :math:`\bullet` Implementation in LBM_Saclay, verifications with the analytical solutions of Stefan's problem & benchmarks. 
 
       .. container:: rightside
 
-         **Lattice Boltzmann Methods**: derivation and implementation of numerical schemes for various PDEs (Navier-Stokes, Advection-diffusion, fractional Eq., phase-field models, ...) (see e.g. :bdg-link-primary:`Equilibrium distribution function <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/03_LBM_Schemes/A_Basic-LBM/03_Equilibrium-Functions_LBMSaclay.html>`) :math:`\bullet` :bdg-link-primary:`Chapman-Enskog expansion <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/05_Chapman-Enskog.html>` [P7]_ :math:`\bullet` Programmer of a 3D LBM Fortran code SILABE3D [H1]_ (2009–2018) :math:`\bullet` involved in the development of the C++ multi-architecture HPC code LBM_Saclay :math:`\bullet` BGK, TRT and MRT [P10]_ collision operators :math:`\bullet` Adaptative Mesh Refinement with Lax-Wendroff scheme. 
+         **Lattice Boltzmann Methods**: derivation and implementation of numerical schemes for various PDEs (Navier-Stokes, Advection-diffusion, fractional Eq., phase-field models, ...) (see e.g. :bdg-link-primary:`Equilibrium distribution function <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/03_LBM_Schemes/A_Basic-LBM/03_Equilibrium-Functions_LBMSaclay.html>`) :math:`\bullet` :bdg-link-primary:`Chapman-Enskog expansion <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/05_Chapman-Enskog.html>` [P7]_ :math:`\bullet` Programmer of a 3D LBM Fortran code SILABE3D [H1]_ (2009–2018) :math:`\bullet` involved in the development of the C++ multi-architecture HPC code LBM_Saclay :math:`\bullet` BGK, TRT and MRT [P10]_ collision operators :math:`\bullet` Adaptative Mesh Refinement with Lax-Wendroff scheme.
 
-.. admonition:: Supervisor of LBM_Saclay code
-   :class: hint
-   
-   .. container:: twocol
 
-      .. container:: leftside
+.. rst-class:: align-center
 
-         Since 2018, I am involved in the development of the C++ multi-architecture HPC code :bdg-link-info:`LBM_Saclay code <https://codev-tuleap.cea.fr/projects/lbmsaclay/>` for which I am the supervisor. LBM_Saclay has evolved from SILABE3D and can run on several architectures (CPU and GPU) e.g. Jean-Zay V100 (IDRIS) and Topaze A100 (CCRT). Several LBM schemes are implemented for simulating various phase-field models for Multiphase/Multicomponent (MPMC) flows with phase change. Videos of simulations can be watched by clicking on the red buttons of boxes «Fluid dynamics & thermic» and «Materials science & thermodynamics».
-      
-      .. container:: rightside
-
-         I participate in writing the documentation of LBM_Saclay (see the html version on :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>`) [R18]_, and specifications for code maintenance [r6]_. The code is mainly applied for R&D purposes, I facilitate the meetings of LBM_Saclay team for coordination. It is also used in the 16h training session on «An introduction of Lattice Boltzmann Methods» in the doctoral school SMEMaG (public: PhD students). It is also used to practice "phase-field models" taught at CEA--INSTN (engineers) and Sorbonne University (M2 students).
+   The PDEs derived from phase-field theory are implemented in the LBM_Saclay code
 
 .. admonition:: Other mathematical methods
 
@@ -88,9 +78,6 @@ Implementation and practice of mathematical and numerical methods
       .. container:: rightside
 
          Other methods: implementation and practice of finite difference method [R1]_ & [R2]_ and finite element methods [T1]_ with a direct solver :math:`\bullet` Euler explicit & implicit time-schemes :math:`\bullet` Continuous Time Random Walks and Volume Averaging Methods.
-
-High Performance Computing & Informatics
-----------------------------------------
 
 .. admonition:: High Performance Computing & Informatics
 
@@ -111,6 +98,26 @@ High Performance Computing & Informatics
          **Operating System**: Linux, shell scripts, Windows. **Analytical calculus**: ``wxmaxima``
          
          **Writing skills**: ``LaTeX``, ``BibTeX``, ``LyX``; presentations with ``Beamer``, ``tikz``; figures with ``Matcha``.
+
+
+.. _LBM-Saclay-code:
+
+Supervisor of LBM_Saclay code
+-----------------------------
+
+.. admonition:: Supervisor of LBM_Saclay code
+   :class: hint
+   
+   .. container:: twocol
+
+      .. container:: leftside
+
+         Since 2018, I am involved in the development of the C++ multi-architecture HPC LBM_Saclay code for which I am the supervisor. The source code can be found on the :bdg-link-info:`Codev-Tuleap repository <https://codev-tuleap.cea.fr/projects/lbmsaclay/>`. LBM_Saclay has evolved from the fortran code SILABE3D and can run on several architectures (CPU and GPU) e.g. Jean-Zay V100 (IDRIS) and Topaze A100 (CCRT). Several LBM schemes are implemented for simulating various phase-field models for Multiphase/Multicomponent (MPMC) flows with phase change (see videos below). 
+      
+      .. container:: rightside
+
+         I participate in writing the documentation of LBM_Saclay (see the html version on :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>`) [R18]_, and specifications for code maintenance [r6]_. The code is mainly applied for R&D purposes, I facilitate the meetings of LBM_Saclay team for coordination. It is also used in the 16h training session on «An introduction of Lattice Boltzmann Methods» in the doctoral school SMEMaG (public: PhD students). It is also used to practice "phase-field models" taught at CEA--INSTN (engineers) and Sorbonne University (M2 students). 
+
          
 Areas of modeling and simulations
 ---------------------------------
@@ -159,7 +166,7 @@ Areas of modeling and simulations
 
 .. rst-class:: align-center
 
-   See other videos of simulations on LBM_Saclay's documentation (:bdg-link-primary:`Videos gallery of simulations with LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/02_MODELS/01_Fluid_Fluid/Model_NSAC_Comp.html>` and :bdg-link-primary:`run_training_lbm <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/01_USER_GUIDE/RUN_TRAINING_LBM/runtraininglbm.html>`)
+   See other videos of simulations on LBM_Saclay's documentation (:bdg-link-primary:`Videos gallery of simulations with LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/00_INTRODUCTION/Simulation_with_LBM.html>` and :bdg-link-primary:`run_training_lbm <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/01_USER_GUIDE/RUN_TRAINING_LBM/runtraininglbm.html>`)
 
 .. admonition:: Flow and transport in porous media
    :class: note
@@ -191,7 +198,7 @@ Areas of modeling and simulations
          .. _Fig-BEETI-device:
    
          .. figure:: ./FIGS/Fig_BEETI.png
-            :name: Fig-CEA-Cad
+            :name: Fig-CEA-Beeti
             :figclass: align-center
             :align: center
             :height: 230
