@@ -9,9 +9,6 @@
 Welcome to Alain CARTALADE's resume
 ###################################
 
-.. _ResearchGate: https://www.researchgate.net/profile/Alain-Cartalade
-
-.. .. cssclass:: sphinx-tagline .. :width: 230
 
 .. container:: sphinx-features 
 
@@ -57,7 +54,7 @@ Welcome to Alain CARTALADE's resume
       : alain.cartalade@cea.fr |br|
       : +33 (0)1 69 08 40 67 |br|
       : November 8th, 1974 (50 years) |br|
-      : `ResearchGate`_ |br|
+      : :bdg-link-success:`ResearchGate <https://www.researchgate.net/profile/Alain-Cartalade>` |br|
       : since 22 May 2002 |br|
       : |today|
 
@@ -204,7 +201,7 @@ Welcome to Alain CARTALADE's resume
          :bdg-link-warning:`Phase-field models <./_static/PDF_FILES/LECTURES-COURSES/CEA-INSTN_TwoPhase_with_Phase-Field.pdf>` |br|
          :bdg-link-warning:`LBM Part 1-A Introduction <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-A_Cartalade.pdf>` |br|
          :bdg-link-warning:`LBM Part 1-B Practice <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>` |br|
-         :bdg-link-primary:`Course reminders <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/TOC_Courses.html>` |br|
+         :bdg-link-primary:`Course materials <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/TOC_Courses.html>` |br|
 
          325 slides |br|
          243 slides |br|
@@ -315,7 +312,7 @@ Welcome to Alain CARTALADE's resume
             ./source/Skills.rst
             ./source/List-Of-Publications.rst
 
-      .. container:: leftside
+      .. container:: rightside
 
          .. toctree::
             :maxdepth: 1
@@ -336,7 +333,17 @@ Welcome to Alain CARTALADE's resume
    .. dropdown::
       :icon: comment
 
-      In the CEA projects to which I contribute, after discussion with the experimental scientists involved in the same project (see :ref:`Involvement-CEA-Projects`), I **derive the Partial Derivative Equations** (PDEs) for the target application. Since 2012, the derivation of such PDEs is based on the *phase-field theory* which combines rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Fundamentals of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`). Since 2009 [R8]_, I **write the numerical schemes** of those PDEs with the *Lattice Boltzmann Methods* (LBM -- see :bdg-link-primary:`Overview of Lattice Boltzmann Methods <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). After **verifications** of **code implementation**, the **HPC simulations** are diverse and concern fluid flows, material science and porous media, depending on the projects that support my activities. For example, in SIVIT, the phenomena are those observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`). In SIACY, they are relative to the liquid-liquid extraction devices, and in VESTA they concern the maturation of gels. My whole approach is summarized in :numref:`target-Fig-Approach`. More details can be found on :ref:`Skills-and-Areas`.
+      In the CEA projects to which I contribute, after discussion with the experimental scientists involved in the same project (see :ref:`Involvement-CEA-Projects`), my approach is divided into three main stages described below. The applications depend on the projects that support my activities. For example, in SIVIT, the phenomena are those observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`). In SIACY, they are relative to the liquid-liquid extraction devices, and in VESTA they concern the maturation of gels.
+      
+      1) **Derivation of Partial Derivative Equations** (PDEs) for the target application. Since 2012, the derivation of such PDEs is based on the *phase-field theory* which combines rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Fundamentals of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`).
+      2) **Writing the numerical schemes of those PDEs**. Since 2009 [R8]_, the derivation of numerical schemes are based on the *Lattice Boltzmann Methods* (LBM -- see :bdg-link-primary:`Overview of Lattice Boltzmann Methods <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). After **code implementation**, **verifications** are performed with academic test cases.
+      3) **Running HPC simulations** for diverse phenomenologies of «fluid dynamics and thermodynamics», «material science» and «flow & transport in porous media». My whole approach is summarized in :numref:`target-Fig-Approach`.
+
+      .. grid-item-card::
+            
+         .. div:: sd-text-center
+
+            **More details can be found in** :ref:`Skills-and-Areas` **where videos of simulations can be watched with the** :bdg-danger:`red buttons`
 
    .. container:: twocol
 
@@ -367,6 +374,7 @@ Welcome to Alain CARTALADE's resume
             :scale: 100 %
       
             My approach in the CEA projects: modeling, numerical implementation and HPC simulations
+
 
 ***********************
 **Further Information**

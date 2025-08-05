@@ -125,9 +125,9 @@ Lectures and courses
 
 .. [L2] **Cartalade A.**, :bdg-link-warning:`Lattice Boltzmann Methods – Part I.A: introduction <../_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-A_Cartalade.pdf>`. "Theory and examples on two-phase flows and phase change". 243 slides. **2025**.
 
-.. [L3] **Cartalade A.**, :bdg-link-warning:`Lattice Boltzmann Methods – Part I.B: practice with LBM_Saclay <../_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>`. 212 slides . **2025**.
+.. [L3] **Cartalade A.**, :bdg-link-warning:`Lattice Boltzmann Methods – Part I.B: practice with LBM_Saclay <../_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>`. "Single phase and two-phase flows". 212 slides . **2025**.
 
-.. [L4] **Cartalade A.**, :bdg-link-primary:`html pages of Lattice Boltzmann Methods and Phase-Field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/TOC_Courses.html>`. **2025**.
+.. [L4] **Cartalade A.**, Course materials for details of [L1]_, [L2]_ & [L3]_. :bdg-link-primary:`html pages of Lattice Boltzmann Methods and Phase-Field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/TOC_Courses.html>`. **2025**.
 
 PhD thesis and HDR (2)
 ----------------------

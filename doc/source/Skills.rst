@@ -82,15 +82,6 @@ Supervisor of LBM_Saclay code
 Areas of modeling and simulations
 ---------------------------------
 
-.. admonition:: Videos of simulations
-   :class: error
-
-   .. rst-class:: align-center
-
-      |br|
-      **Videos of simulations can be watched by clicking on the red buttons below** |br|
-      |br|
-
 .. admonition:: Computational Fluid Dynamics and thermodynamics
    :class: hint
 
@@ -126,7 +117,7 @@ Areas of modeling and simulations
 
 .. rst-class:: align-center
 
-   See other videos of simulations on LBM_Saclay's documentation (:bdg-link-primary:`Videos gallery of simulations with LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/00_INTRODUCTION/Simulation_with_LBM.html>` and :bdg-link-primary:`run_training_lbm <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/01_USER_GUIDE/RUN_TRAINING_LBM/runtraininglbm.html>`)
+   See other videos of simulations in the LBM_Saclay's documentation (:bdg-link-primary:`Videos gallery of simulations with LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/00_INTRODUCTION/Simulation_with_LBM.html>` and :bdg-link-primary:`run_training_lbm <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/01_USER_GUIDE/RUN_TRAINING_LBM/runtraininglbm.html>`)
 
 .. admonition:: Flow and transport in porous media
    :class: note

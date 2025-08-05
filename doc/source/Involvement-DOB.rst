@@ -17,8 +17,9 @@ Details of my involvement in CEA projects
 
       Highlights on **«Modeling and simulation of crystal growth and two fluids demixing in glasses»**
 
-   .. dropdown:: Details
-      
+   .. dropdown:: 
+      :icon: comment
+
       .. grid:: 3
          :gutter: 1
 
@@ -67,7 +68,8 @@ Details of my involvement in CEA projects
    
       **«Modeling and simu of thermal-hydraulic in nuclear reactor cores with the TrioCFD code»**
 
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       .. grid:: 3
          :gutter: 1
@@ -108,7 +110,8 @@ Details of my involvement in CEA projects
 
       **«Implementation and simu with LBM_saclay» lot 2 (Calcul Intensif, Veille et R&D amont)**
    
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       .. grid:: 3
          :gutter: 1
@@ -149,7 +152,8 @@ Details of my involvement in CEA projects
       
       **«Modeling and simulation at mesoscopic scale of gels with LBM_saclay»**
 
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       .. grid:: 3
          :gutter: 1
@@ -190,7 +194,8 @@ Details of my involvement in CEA projects
    
       **«Simulations of two-phase flows for corium applications with LBM_saclay»**
 
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       .. grid:: 3
          :gutter: 1
@@ -219,7 +224,8 @@ Details of my involvement in CEA projects
 
       **«Simulations of two-phase flows with mass transfer LBM_saclay»**
 
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       .. grid:: 3
          :gutter: 1
@@ -252,7 +258,8 @@ Details of my involvement in CEA projects
 
       **«Development of the Lattice Boltzmann code SILABE3D»**
 
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       .. grid:: 3
          :gutter: 1
@@ -288,7 +295,8 @@ Details of my involvement in CEA projects
    
       **«Inverse problem (parametric identification) and 3D simulation of diffusion for waste management»**
 
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       .. grid:: 3
          :gutter: 1
@@ -330,7 +338,8 @@ Details of my involvement in CEA projects
    
       **Modeling, simulations and experimental design of «Transport in unsaturated porous media»**
 
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       .. grid:: 3
          :gutter: 1
@@ -377,7 +386,8 @@ Involvement in other projects (1 ANR + 1 CEA--PTC)
 .. admonition:: 2011–2013: Involvement in one ANR project (French National Research Agency)
    :class: note
 
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       Topic: modeling and simulations of «Anomalous TRansport in porous Media» (TRAM - link abstract pages 30–31). Project reference: ANR-09-SYSC-015. At CEA-DM2S, the project has funded the post-doctorate of B. M ARYSHEV (18 months) and missions.
 
@@ -404,7 +414,8 @@ Involvement in other projects (1 ANR + 1 CEA--PTC)
 .. admonition:: Involvement in one CEA project «Programme Transverse de Compétences»
    :class: note:
 
-   .. dropdown:: Details
+   .. dropdown::
+      :icon: comment
 
       Topic: «Adaptative Mesh Refinement» with the «Lattice Boltzmann Method». The project has funded the post-doctorate of E. Stavropoulos Vasilakis (24 months) at CEA-DM2S and missions.
 

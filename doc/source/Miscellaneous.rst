@@ -42,10 +42,10 @@ Teaching & facilitation of training session
       1st yr of Eng. school |br|
 
       **Website** |br|
-      :bdg-link-primary:`Web <https://adum.fr/script/catalogue.pl?mod=3701390&site=psaclay>` |br|
-      :bdg-link-primary:`Web <https://masters-sdi.sorbonne-universite.fr/la-mention-mecanique/le-parcours-energetique/m2-energetique-et-thermohydraulique-pour-le-nucleaire>` |br|
-      :bdg-link-primary:`Web <https://instn.cea.fr/formation/thermohydraulique-diphasique-cfd>` |br|
-      :bdg-link-primary:`Web <https://adum.fr/script/formations.pl?mod=3622094&site=l>` |br|
+      :bdg-link-success:`Web <https://adum.fr/script/catalogue.pl?mod=3701390&site=psaclay>` |br|
+      :bdg-link-success:`Web <https://masters-sdi.sorbonne-universite.fr/la-mention-mecanique/le-parcours-energetique/m2-energetique-et-thermohydraulique-pour-le-nucleaire>` |br|
+      :bdg-link-success:`Web <https://instn.cea.fr/formation/thermohydraulique-diphasique-cfd>` |br|
+      :bdg-link-success:`Web <https://adum.fr/script/formations.pl?mod=3622094&site=l>` |br|
       -- |br|
       -- |br|
 
