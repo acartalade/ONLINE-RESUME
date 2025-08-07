@@ -1,19 +1,15 @@
-.. |br| raw:: html
-
-   <br />
-
-.. |space| unicode:: U+0020 .. space
+.. include:: ./substitutions.rst
 
 .. _Supervisor:
-
+   
 Supervisor of students
 ======================
 
-PhD young researchers (7 = 4 defended + 3 in progress)
-------------------------------------------------------
+PhD young researchers (|nb-PhD| = |nb-defended| defended + |nb-progress| in progress)
+-------------------------------------------------------------------------------------
 
-In progress (3)
-"""""""""""""""
+In progress (|nb-progress|)
+"""""""""""""""""""""""""""
 
 .. admonition:: 2024 – 2027: Clément Bardet (CEA LDEL – INRIA)
    :class: note
@@ -54,8 +50,8 @@ In progress (3)
 
          Starting date: October 24th, 2022.
 
-Defended (4)
-""""""""""""
+Defended (|nb-defended|)
+""""""""""""""""""""""""
 
 .. admonition:: 2021 – 2024: Téo Boutin (3,5 years at CEA – STMF/LMSF)
    :class: hint
@@ -124,8 +120,8 @@ Defended (4)
          • Proceedings: with peer-review [p2]_, without [proc]_. |br|
          • CEA reports: [R5]_, [R6]_, [R7]_. |br|
 
-Post-doctoral young researchers (3)
------------------------------------
+Post-doctoral young researchers (|nb-post-doc|)
+-----------------------------------------------
 
 .. admonition:: 2021 – 2023: Evangelos Stavropoulos Vasilakis (CEA – STMF/LAFT)
    :class: important
@@ -175,10 +171,10 @@ Post-doctoral young researchers (3)
          • Poster presented at EGU \ref{EGU2009} at Vienna |br|
          • Several presentations at CEA. |br|
 
-Internship students (32)
-------------------------
+Internship students (|nb-interns|)
+----------------------------------
 
-.. container:: sphinx-features
+.. rst-class:: align-center
 
    .. table:: List of interns
       :name: Interns

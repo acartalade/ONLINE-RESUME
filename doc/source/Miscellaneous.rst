@@ -1,8 +1,4 @@
-
-
-.. |br| raw:: html
-
-   <br />
+.. include:: ./substitutions.rst
 
 .. _Miscellaneous:
 

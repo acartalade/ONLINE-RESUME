@@ -1,7 +1,4 @@
-.. |br| raw:: html
-
-   <br />
-
+.. include:: ./substitutions.rst
 
 .. _Involvement-CEA-Projects:
 

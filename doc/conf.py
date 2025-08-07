@@ -42,6 +42,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.napoleon',
+    'sphinx.ext.extlinks',
     'sphinx_rtd_theme',
     'myst_parser',
     'sphinx_design',
@@ -51,7 +52,7 @@ extensions = [
 bibtex_default_style = 'plain'
 bibtex_bibfiles = ['./src_doc/BIBLIO/Biblio.bib','./src_doc/BIBLIO/LBM_CEA.bib']
 
-htmlhelp_basename = 'LBM_Saclay Documentation'
+htmlhelp_basename = 'resume'
 
 # To show or not private members 
 autodoc_default_options = {     "members": True,     "undoc-members": True,     "private-members": False  }
@@ -89,6 +90,7 @@ html_theme = 'bizstyle'
 #html_theme = 'default'
 #html_theme = 'sphinx_material'
 #html_theme = 'pydata_sphinx_theme'
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
@@ -97,6 +99,34 @@ html_css_files = ['custom.css']
 #pygments_style = 'manni','inkpot','vim','emacs','monokai','sphinx'
 pygments_style = 'perldoc'
 
+
+
 # Enable numref
 numfig = True
 show_authors = True
+
+extlinks = {'video': ('https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/%s', '%s')}
+
+# inside conf.py
+latex_engine = 'xelatex'
+latex_elements = {
+    'passoptionstopackages': r'''
+\PassOptionsToPackage{svgnames}{xcolor}
+''',
+    'fontpkg': r'''
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont{DejaVu Sans Mono}
+''',
+    'preamble': r'''
+\usepackage[titles]{tocloft}
+\cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
+\setlength{\cftchapnumwidth}{0.75cm}
+\setlength{\cftsecindent}{\cftchapnumwidth}
+\setlength{\cftsecnumwidth}{1.25cm}
+''',
+    'sphinxsetup': 'TitleColor=DarkGoldenrod',
+    'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
+    'printindex': r'\footnotesize\raggedright\printindex',
+}
+latex_show_urls = 'footnote'

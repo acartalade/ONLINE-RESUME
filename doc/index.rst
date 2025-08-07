@@ -1,19 +1,13 @@
-.. |br| raw:: html
-
-   <br />
-
-.. |space| unicode:: U+0020 .. space
-
-
+.. include:: ./source/substitutions.rst
+ 
 ###################################
 Welcome to Alain CARTALADE's resume
 ###################################
 
-
 .. container:: sphinx-features 
 
    .. admonition:: DR Alain CARTALADE
-
+      
       .. container:: sphinx-features
 
          .. figure:: source/FIGS/Photo-ID_Cartalade.jpg
@@ -80,7 +74,7 @@ Welcome to Alain CARTALADE's resume
 **Career**
 **********
 
-.. admonition:: Positions from 1996 to 2025
+.. admonition:: Positions from 1996 to 2025 -- see details in :bdg-ref-light-line:`Certifications-and-Degrees`
 
    .. container:: sphinx-features
 
@@ -152,23 +146,18 @@ Welcome to Alain CARTALADE's resume
          :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2002_PhD_Cartalade.pdf>` |br|
          |br|
 
-.. rst-class:: align-center
-   
-      See details in :ref:`Certifications-and-Degrees`
-
-
 ****************************************************
 **Highlights of my expertise & research activities**
 ****************************************************
 
 .. container:: sphinx-features
 
-   .. admonition:: :ref:`Skills-and-Areas`
+   .. admonition:: :bdg-ref-light-line:`Skills-and-Areas`
       :class: hint
       
-      Mathematical and numerical methods |br|
-      Fluid dynamics and thermic |br|
-      Materials science and thermodynamics  :math:`\hspace{1.25cm}` |br|
+      :ref:`Math-Num-Methods` |br|
+      Computational Fluid dynamics |br|
+      Materials science and thermodynamics :math:`\hspace{1.25cm}` |br|
       Flow and transport in porous media |br|
    
    :math:`\hspace{9mm}`
@@ -183,7 +172,7 @@ Welcome to Alain CARTALADE's resume
    
    :math:`\hspace{1cm}`
 
-   .. admonition:: :ref:`LBM-Saclay-code`
+   .. admonition:: :bdg-ref-light-line:`LBM-Saclay-code`
       :class: hint
       
       C++ programming & validation of LBM and :math:`\varphi`-models |br|
@@ -215,7 +204,7 @@ Welcome to Alain CARTALADE's resume
 
    :math:`\hspace{9mm}`
 
-   .. admonition:: :ref:`List-Of-Publications-with-LBM`
+   .. admonition:: :bdg-ref-light-line:`List-Of-Publications-with-LBM`
       :class: hint
       
       .. container:: sphinx-features
@@ -225,9 +214,9 @@ Welcome to Alain CARTALADE's resume
          Thesis (HDR+PhD) |br|
          Collaborative documents :math:`\hspace{0.25mm}` |br|
    
-         **21** |br|
-         **18** |br|
-         **2** |br|
+         |nb-publi| |br|
+         |nb-reports| |br|
+         |nb-PhD-reports| |br|
          **6** |br|
 
    :math:`\hspace{1cm}`
@@ -249,7 +238,7 @@ Welcome to Alain CARTALADE's resume
 
 .. container:: sphinx-features
 
-   .. admonition:: :ref:`Miscellaneous`
+   .. admonition:: :bdg-ref-light-line:`Miscellaneous`
       :class: hint
 
       .. container:: sphinx-features
@@ -266,7 +255,7 @@ Welcome to Alain CARTALADE's resume
 
    :math:`\hspace{8.5mm}`
 
-   .. admonition:: :ref:`Supervisor`
+   .. admonition:: :bdg-ref-light-line:`Supervisor`
       :class: hint
 
       .. container:: sphinx-features
@@ -276,14 +265,14 @@ Welcome to Alain CARTALADE's resume
          Internship students |br|
          PhD jury as supervisor :math:`\hspace{3.5mm}` |br|
 
-         **7** |br|
-         **3** |br|
-         **32** |br|
-         **4** |br|
+         |nb-PhD| |br|
+         |nb-post-doc| |br|
+         |nb-interns| |br|
+         |nb-defended| |br|
 
    :math:`\hspace{1cm}`
 
-   .. admonition:: :ref:`Involvement-CEA-Projects`
+   .. admonition:: :bdg-ref-light-line:`Involvement-CEA-Projects`
       :class: hint
       
       .. container:: sphinx-features
@@ -293,10 +282,10 @@ Welcome to Alain CARTALADE's resume
          National Research Agency project (ANR)  :math:`\hspace{13mm}` |br|
          CEA Transverse programme |br|
 
-         **6** |br|
-         **3** |br|
-         **1** |br|
-         **1** |br|
+         |nb-DOB| |br|
+         |nb-DOB-over| |br|
+         |nb-ANR| |br|
+         |nb-PTC| |br|
 
 .. admonition:: All details in subsections
    :class: error
@@ -333,17 +322,21 @@ Welcome to Alain CARTALADE's resume
    .. dropdown::
       :icon: comment
 
-      In the CEA projects to which I contribute, after discussion with the experimental scientists involved in the same project (see :ref:`Involvement-CEA-Projects`), my approach is divided into three main stages described below. The applications depend on the projects that support my activities. For example, in SIVIT, the phenomena are those observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`). In SIACY, they are relative to the liquid-liquid extraction devices, and in VESTA they concern the maturation of gels.
+      In the CEA projects to which I contribute, after discussion with the experimental scientists who are involved in the same project (see :bdg-ref-black-line:`Involvement-CEA-Projects`), my approach is divided into three main stages described below:
       
       1) **Derivation of Partial Derivative Equations** (PDEs) for the target application. Since 2012, the derivation of such PDEs is based on the *phase-field theory* which combines rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Fundamentals of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`).
       2) **Writing the numerical schemes of those PDEs**. Since 2009 [R8]_, the derivation of numerical schemes are based on the *Lattice Boltzmann Methods* (LBM -- see :bdg-link-primary:`Overview of Lattice Boltzmann Methods <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). After **code implementation**, **verifications** are performed with academic test cases.
       3) **Running HPC simulations** for diverse phenomenologies of «fluid dynamics and thermodynamics», «material science» and «flow & transport in porous media». My whole approach is summarized in :numref:`target-Fig-Approach`.
 
+      The applications depend on the projects that support my activities. For example, in SIVIT, the phenomena are those observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`). In SIACY, they are relative to the liquid-liquid extraction devices, and in VESTA they concern the maturation of gels.
+
+      |br|
+
       .. grid-item-card::
             
          .. div:: sd-text-center
 
-            **More details can be found in** :ref:`Skills-and-Areas` **where videos of simulations can be watched with the** :bdg-danger:`red buttons`
+            **More details are given in** :bdg-ref-black-line:`Skills-and-Areas` **where** :bdg-ref-danger:`videos of simulations <Areas of modeling>` **can be watched.**
 
    .. container:: twocol
 
@@ -373,7 +366,7 @@ Welcome to Alain CARTALADE's resume
             :width: 450
             :scale: 100 %
       
-            My approach in the CEA projects: modeling, numerical implementation and HPC simulations
+            My approach in the CEA projects: derivation of PDEs, numerical implementation and HPC simulations
 
 
 ***********************
