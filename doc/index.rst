@@ -158,7 +158,7 @@ Welcome to Alain CARTALADE's resume
       Degree |br|
       Degrees |br|
 
-..      .. only:: titania
+      .. only:: titania
 
          |br|
          :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
@@ -456,7 +456,7 @@ Welcome to Alain CARTALADE's resume
    .. grid-item::
       :columns: 4
 
-      .. admonition:: Member of CEA/DM2S laboratories
+      .. admonition:: Member of CEA/:bdg-link-success:`DM2S <https://i2i-dm2s.intra.cea.fr/SitePages/Accueil.aspx>` laboratories
          :class: note
 
          .. container:: sphinx-features
@@ -474,7 +474,7 @@ Welcome to Alain CARTALADE's resume
             MTMS |br|
 
             **Service** |br|
-            STMF |br|
+            :bdg-link-success:`STMF <https://www.pluginlabs-universiteparissaclay.fr/fiche/service-de-thermo-hydraulique-et-de-mecanique-des-fluides-stmf/>` |br|
             STMF |br|
             SFME |br|
             SFME |br|
