@@ -6,7 +6,7 @@ Welcome to Alain CARTALADE's resume
 
 .. container:: sphinx-features 
 
-   .. admonition:: DR Alain CARTALADE
+   .. admonition:: :visit:`DR Alain CARTALADE`
       
       .. container:: sphinx-features
 
@@ -17,9 +17,9 @@ Welcome to Alain CARTALADE's resume
             :scale: 53
          
    
-         **CEA Director of Research & Senior Expert** |br|
-         Engineer -- Researcher, PhD, HDR |br|
-         ----------------------------------------------- |br|
+         :visit:`CEA Director of Research` & :visit:`Senior Expert` |br|
+         :visit:`Engineer--Researcher, PhD, HDR` |br|
+         ------------------------------------------------ |br|
          Atomic Energy and Alternative Energy Commission |br|
          Institute of Applied Sciences and Simulation |br|
          Department of System and Structure Modelling |br|
@@ -52,6 +52,7 @@ Welcome to Alain CARTALADE's resume
       : since 22 May 2002 |br|
       : |today|
 
+
 .. container:: sphinx-features
 
    :math:`\hspace{1.2cm}`
@@ -68,6 +69,30 @@ Welcome to Alain CARTALADE's resume
             \LARGE{\textcolor{white}{\text{Physicist «Theory, computational physics and HPC simulations»}}}
 
          :math:`\hspace{5mm}`
+
+.. .. grid:: 3
+
+..   .. grid-item::
+      :columns: 1
+
+      |br|
+
+   .. grid-item::
+      :columns: 10
+
+      .. admonition:: |space|
+         :class: bigtitle
+
+         .. div:: sd-text-center
+
+            .. div:: sd-fs-4
+
+               :romanwhite:`Physicist «Theory, computational physics and HPC simulations»`
+
+   .. grid-item::
+      :columns: 1
+      
+      |br|
 
 
 **********
@@ -133,7 +158,7 @@ Welcome to Alain CARTALADE's resume
       Degree |br|
       Degrees |br|
 
-      .. only:: titania
+..      .. only:: titania
 
          |br|
          :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
@@ -150,142 +175,160 @@ Welcome to Alain CARTALADE's resume
 **Highlights of my expertise & research activities**
 ****************************************************
 
-.. container:: sphinx-features
+.. grid:: 3
+   :gutter: 4
+   :margin: 0 0 0 0
 
-   .. admonition:: :bdg-ref-light-line:`Skills-and-Areas`
-      :class: hint
+   .. grid-item::
+      :columns: 4
+
+      .. admonition:: :bdg-ref-light-line:`Skills-and-Areas`
+         :class: hint
       
-      :ref:`Math-Num-Methods` |br|
-      Computational Fluid dynamics |br|
-      Materials science and thermodynamics :math:`\hspace{1.25cm}` |br|
-      Flow and transport in porous media |br|
+         :ref:`Math-Num-Methods` |br|
+         Computational Fluid dynamics |br|
+         Materials science and thermodynamics |br|
+         Flow and transport in porous media |br|
    
-   :math:`\hspace{9mm}`
+   .. grid-item::
+      :columns: 3
 
-   .. admonition:: Main research
-      :class: hint
+      .. admonition:: Main research since 2010
+         :class: hint
       
-      Since 2010, my work focuses |br|
-      on Phase-field models simulated |br|
-      by Lattice Boltzmann Methods |br|
-      (LBM) for multiphase flows.  |br|
+         My work focuses on Phase-field models simulated by Lattice Boltzmann Methods (LBM) for multiphase flows.
+
+   .. grid-item::
+      :columns: 5
+
+      .. admonition:: :bdg-ref-light-line:`LBM-Saclay-code`
+         :class: hint
+      
+         C++ programming & validation of LBM and :math:`\varphi`-models |br|
+         Writing :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>` and specifications |br|
+         Facilitation of taskforce and training sessions |br|
+         Supervisor of PhD fellows and internship students |br|
    
-   :math:`\hspace{1cm}`
+.. grid:: 3
+   :gutter: 4
+   :margin: 0 0 0 0
 
-   .. admonition:: :bdg-ref-light-line:`LBM-Saclay-code`
-      :class: hint
+   .. grid-item::
+      :columns: 4
+
+      .. admonition:: Teaching showcase
+         :class: hint
       
-      C++ programming & validation of LBM and :math:`\varphi`-models |br|
-      Writing :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>` and specifications :math:`\hspace{4mm}` |br|
-      Facilitation of taskforce and training sessions |br|
-      Supervisor of PhD fellows and internship students |br|
+         .. container:: sphinx-features
 
-.. container:: sphinx-features
+            :bdg-link-warning:`Phase-field models <./_static/PDF_FILES/LECTURES-COURSES/CEA-INSTN_TwoPhase_with_Phase-Field.pdf>` |br|
+            :bdg-link-warning:`LBM Part 1-A Intro <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-A_Cartalade.pdf>` |br|
+            :bdg-link-warning:`LBM Part 1-B Practice <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>` |br|
+            :bdg-link-primary:`Course materials <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/TOC_Courses.html>` |br|
 
-   .. admonition:: Teaching showcase
-      :class: hint
+            325 slides |br|
+            243 slides |br|
+            212 slides |br|
+            html pages |br|
+
+            [L1]_ |br|
+            [L2]_ |br|
+            [L3]_ |br|
+            [L4]_ |br|
+
+   .. grid-item::
+      :columns: 3
+
+      .. admonition:: :bdg-ref-light-line:`List-Of-Publications-with-LBM`
+         :class: hint
       
-      .. container:: sphinx-features
+         .. container:: sphinx-features
 
-         :bdg-link-warning:`Phase-field models <./_static/PDF_FILES/LECTURES-COURSES/CEA-INSTN_TwoPhase_with_Phase-Field.pdf>` |br|
-         :bdg-link-warning:`LBM Part 1-A Introduction <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-A_Cartalade.pdf>` |br|
-         :bdg-link-warning:`LBM Part 1-B Practice <./_static/PDF_FILES/LECTURES-COURSES/TRAINING-LBM_Part1-B_Cartalade.pdf>` |br|
-         :bdg-link-primary:`Course materials <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/TOC_Courses.html>` |br|
-
-         325 slides |br|
-         243 slides |br|
-         212 slides |br|
-         html pages |br|
-
-         [L1]_ |br|
-         [L2]_ |br|
-         [L3]_ |br|
-         [L4]_ |br|
-
-   :math:`\hspace{9mm}`
-
-   .. admonition:: :bdg-ref-light-line:`List-Of-Publications-with-LBM`
-      :class: hint
-      
-      .. container:: sphinx-features
-
-         Publications |br|
-         CEA Technical Reports |br|
-         Thesis (HDR+PhD) |br|
-         Collaborative documents :math:`\hspace{0.25mm}` |br|
+            Publications |br|
+            CEA Technical Reports |br|
+            Thesis (HDR+PhD) |br|
+            Collaborative doc |br|
    
-         |nb-publi| |br|
-         |nb-reports| |br|
-         |nb-PhD-reports| |br|
-         **6** |br|
+            |nb-publi| |br|
+            |nb-reports| |br|
+            |nb-PhD-reports| |br|
+            **6** |br|
 
-   :math:`\hspace{1cm}`
+   .. grid-item::
+      :columns: 5
 
-   .. admonition:: Featured publications
-      :class: hint
+      .. admonition:: Featured publications
+         :class: hint
       
-      .. container:: sphinx-features
+         .. container:: sphinx-features
 
-         :bdg-link-success-line:`Lattice Boltzman Methods for crystal growth <https://doi.org/10.1016/j.camwa.2016.02.029>` |br|
-         :bdg-link-success-line:`LBM for fractional transport Equation <https://doi.org/10.1016/j.cpc.2018.08.005>` |br|
-         :bdg-link-success-line:`LBM for Two-phase flows with phase change <https://doi.org/10.1016/j.cma.2020.113266>`  |br|
-         :bdg-link-success-line:`Phase-field for porous media dissolution <https://doi.org/10.1016/j.commatsci.2022.111261>` :math:`\hspace{15mm}` |br|
+            :bdg-link-success-line:`Lattice Boltzman Methods for crystal growth <https://doi.org/10.1016/j.camwa.2016.02.029>` |br|
+            :bdg-link-success-line:`LBM for fractional transport Equation <https://doi.org/10.1016/j.cpc.2018.08.005>` |br|
+            :bdg-link-success-line:`LBM for Two-phase flows with phase change <https://doi.org/10.1016/j.cma.2020.113266>`  |br|
+            :bdg-link-success-line:`Phase-field for porous media dissolution <https://doi.org/10.1016/j.commatsci.2022.111261>` :math:`\hspace{15mm}` |br|
 
-         [P7]_ |br|
-         [P10]_ |br|
-         [P11]_ |br|
-         [P12]_ |br|
+            [P7]_ |br|
+            [P10]_ |br|
+            [P11]_ |br|
+            [P12]_ |br|
 
-.. container:: sphinx-features
+.. grid:: 3
+   :gutter: 4
+   :margin: 0 0 0 0
 
-   .. admonition:: :bdg-ref-light-line:`Miscellaneous`
-      :class: hint
+   .. grid-item::
+      :columns: 4
 
-      .. container:: sphinx-features
+      .. admonition:: :bdg-ref-light-line:`Miscellaneous`
+         :class: hint
 
-         Teaching courses and training sessions |br|
-         Member of «PhD jury» and «CSI» |br|
-         Organization and facilitation of workshop :math:`\hspace{0.5mm}` |br|
-         Keynote speaker |br|
+         .. container:: sphinx-features
 
-         |br|
-         **6** |br|
-         **6** |br|
-         **1** |br|
+            Teaching courses and training sessions |br|
+            Member of «PhD jury» and «CSI» |br|
+            Organization & facilitation of workshop |br|
+            Keynote speaker |br|
 
-   :math:`\hspace{8.5mm}`
+            |br|
+            **6** |br|
+            **6** |br|
+            **1** |br|
 
-   .. admonition:: :bdg-ref-light-line:`Supervisor`
-      :class: hint
+   .. grid-item::
+      :columns: 3
 
-      .. container:: sphinx-features
+      .. admonition:: :bdg-ref-light-line:`Supervisor`
+         :class: hint
 
-         PhD fellows |br|
-         Post-doctoral fellows |br|
-         Internship students |br|
-         PhD jury as supervisor :math:`\hspace{3.5mm}` |br|
+         .. container:: sphinx-features
 
-         |nb-PhD| |br|
-         |nb-post-doc| |br|
-         |nb-interns| |br|
-         |nb-defended| |br|
+            PhD fellows |br|
+            Post-doctoral fellows |br|
+            Internship students |br|
+            PhD jury as supervisor |br|
 
-   :math:`\hspace{1cm}`
+            |nb-PhD| |br|
+            |nb-post-doc| |br|
+            |nb-interns| |br|
+            |nb-defended| |br|
 
-   .. admonition:: :bdg-ref-light-line:`Involvement-CEA-Projects`
-      :class: hint
+   .. grid-item::
+      :columns: 5
+
+      .. admonition:: :bdg-ref-light-line:`Involvement-CEA-Projects`
+         :class: hint
       
-      .. container:: sphinx-features
+         .. container:: sphinx-features
 
-         Current CEA/DES projects |br|
-         Completed CEA/DES projects |br|
-         National Research Agency project (ANR)  :math:`\hspace{13mm}` |br|
-         CEA Transverse programme |br|
+            Current CEA/DES projects |br|
+            Completed CEA/DES projects |br|
+            National Research Agency project (ANR)  :math:`\hspace{13mm}` |br|
+            CEA Transverse programme |br|
 
-         |nb-DOB| |br|
-         |nb-DOB-over| |br|
-         |nb-ANR| |br|
-         |nb-PTC| |br|
+            |nb-DOB| |br|
+            |nb-DOB-over| |br|
+            |nb-ANR| |br|
+            |nb-PTC| |br|
 
 .. admonition:: All details in subsections
    :class: error

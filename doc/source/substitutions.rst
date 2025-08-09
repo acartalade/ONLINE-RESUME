@@ -2,7 +2,13 @@
 
 .. role:: red
 
+.. role:: white
+
 .. role:: boldred
+
+.. role:: romanwhite
+
+.. role:: visit
 
 .. |br| raw:: html
 

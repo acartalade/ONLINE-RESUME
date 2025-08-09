@@ -17,8 +17,10 @@ body {
     background-image: url(background_b01.png);
     color: black;
     padding: 0;
-    border-right: 1px solid #336699;
-    border-left: 1px solid #336699;
+    /* border-right: 1px solid #336699;
+    border-left: 1px solid #336699; */
+    border-right: 1px solid #165e83;
+    border-left: 1px solid #165e83;
 
     margin: 0px 40px 0px 40px;
 }
@@ -57,8 +59,10 @@ div.related {
     -webkit-box-shadow: 2px 2px 5px #000;
 }
 
+/* MODIF COLOR ALAIN */
 div.related ul {
-    background-color: #336699;
+    /* background-color: #336699; */
+    background-color: #165e83;
     height: 100%;
     overflow: hidden;
     border-top: 1px solid #ddd;
@@ -69,7 +73,7 @@ div.related ul li {
     color: white;
     margin: 0;
     padding: 0;
-    height: 2em;
+    height: 3em;
     float: left;
 }
 
@@ -81,7 +85,8 @@ div.related ul li.right {
 div.related ul li a {
     margin: 0;
     padding: 0 5px 0 5px;
-    line-height: 1.75em;
+    /* line-height: 1.75em; */
+    line-height: 3.1em;
     color: #fff;
 }
 
@@ -101,13 +106,16 @@ div.sphinxsidebar {
     text-align: left;
 }
 
+/* MODIF COLORS ALAIN */
 div.sphinxsidebar h3, div.sphinxsidebar h4 {
     margin: 1em 0 0.5em 0;
     font-size: 1em;
     padding: 0.1em 0 0.1em 0.5em;
     color: white;
-    border: 1px solid #336699;
-    background-color: #336699;
+    border: 1px solid #165e83;
+    background-color: #165e83;
+    /* border: 1px solid #336699;
+    background-color: #336699; */
 }
 
 div.sphinxsidebar h3 a {
@@ -125,18 +133,22 @@ div.sphinxsidebar ul ul {
     margin-left: 20px;
 }
 
+/* MODIFS ALAIN */
 div.sphinxsidebar input {
-    border: 1px solid #336699;
+    /* border: 1px solid #336699; */
+    border: 1px solid #165e83 ;
 }
-
+/* MODIFS ALAIN */
 div.footer {
     background-color: white;
-    color: #336699;
+    color: #165e83;
+    /* color: #336699; */
     padding: 3px 8px 3px 0;
     clear: both;
     font-size: 0.8em;
     text-align: right;
-    border-bottom: 1px solid #336699;
+    /* border-bottom: 1px solid #336699; */
+    border-bottom: 1px solid #165e83;
 
     -moz-box-shadow: 2px 2px 5px #000;
     -webkit-box-shadow: 2px 2px 5px #000;
@@ -154,12 +166,14 @@ p {
 }
 
 a {
-    color: #336699;
+    /* color: #9d051c; */
+    /* color: #336699; */
     text-decoration: none;
 }
 
 a:hover {
-    color: #336699;
+    /* color: #336699; */
+    color: #165e83;
     text-decoration: underline;
 }
 
@@ -172,7 +186,8 @@ div.body a {
 }
 
 h1, h2, h3 {
-    color: #336699;
+    /* color: #336699; */
+    color: #165e83;
 }
 
 h1 {
@@ -310,7 +325,8 @@ table td, table th {
 div.admonition {
     font-size: 1em;
     margin: 1em 0 1em 0;
-    border: 3px solid #165e83;
+    /* border: 3px solid #165e83 */
+    border: 3px solid #336699;
     border-radius: 9px;
     box-shadow: 3px 3px 5px 3px #abaaaa;
     background-color: #f7f7f7;
@@ -369,13 +385,13 @@ div.admonition p.admonition-title {
 div.danger    { border: 3px solid #854f4d; background-color: #eee7e7; }
 div.error     { border: 3px solid #d80f08; background-color: #f0e7e7; }
 div.warning   { border: 3px solid #f8b862; background-color: #f0cfa0; }
-div.caution   { border: 3px solid #2f28b7; background-color: #f3f3f3; }
+div.caution   { border: 3px solid #2855b7; background-color: #f3f3f3; }
 div.attention { border: 3px solid #f8b862; background-color: #f3f3f3; }
 div.important { border: 3px solid #f8b862; background-color: #f4eade; }
 div.note      { border: 3px solid #a5a5a5; background-color: #f3f3f3; }
 div.hint      { border: 3px solid #bed2c3; background-color: #f3f3f3; }
 div.tip       { border: 3px solid #bed2c3; background-color: #f3f3f3; }
-div.bigtitle   {border: 3px solid #165e83; background-color: #165e83; }
+div.bigtitle  { border: 3px solid #165e83; background-color: #165e83; }
 
 div.danger p.admonition-title, div.error p.admonition-title {
     background-color: #b7282e;
@@ -383,8 +399,8 @@ div.danger p.admonition-title, div.error p.admonition-title {
 }
 
 div.caution p.admonition-title, div.caution p.admonition-title {
-    background-color: #2f28b7;
-    border-bottom: 3px solid #2f28b7;
+    background-color: #2855b7;
+    border-bottom: 3px solid #2855b7;
 }
 
 div.warning p.admonition-title,
@@ -501,7 +517,7 @@ div.literal-block-wrapper div.code-block-caption {
 }
 
 /* WIDE DESKTOP STYLE */
-@media only screen and (min-width: 1176px) {
+@media only screen and (min-width: 1176px) { 
 body {
     margin: 0 40px 0 40px;
     }
@@ -603,4 +619,24 @@ div.sphinx-feature>p.admonition-title::before {
     text-decoration: line-through;
 }
 
+.red {
+    color: red;
+}
+
+.boldred{
+    font-weight: bold;
+    color: red;
+}
+
+.romanwhite {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.visit{
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
 /* -- end ------------------------------------------------------------------- */

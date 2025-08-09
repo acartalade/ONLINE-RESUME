@@ -25,7 +25,8 @@ Mathematical and numerical methods
    |br|
 
    .. grid:: 3
-
+      :margin: 0 2 0 0
+      
       .. grid-item::
          :columns: 1
 
