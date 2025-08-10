@@ -284,9 +284,9 @@ Welcome to Alain CARTALADE's resume
 
          .. container:: sphinx-features
 
-            Teaching courses and training sessions |br|
+            Teaching: courses & training sessions |br|
             Member of «PhD jury» and «CSI» |br|
-            Organization & facilitation of workshop |br|
+            Organization & facilitation of conf |br|
             Keynote speaker |br|
 
             |br|
