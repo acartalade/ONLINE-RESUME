@@ -65,78 +65,84 @@ Teaching & facilitation of training session
 Jury & committee member of PhD thesis
 -------------------------------------
 
-.. admonition:: As jury member
-   :class: warning
+.. tab-set::
 
-   .. container:: sphinx-features
+   .. tab-item:: As jury member
 
-      **Dates** |br|
-      **2025** Dec 13th |br|
-      **2023** Nov 13th |br|
-      **2017** Nov 7th |br|
+      .. admonition:: As jury member
+         :class: warning
 
-      **Role** |br|
-      Reviewer of A. Bounjad PhD defense at Polytechnique |br|
-      Examiner of M.-A. Rasolofomanana PhD defense at CEA/Cadarache |br|
-      Examiner of G. Barba Rossa PhD defense at CEA/Marcoule |br|
+         .. container:: sphinx-features
 
-      **Thesis direction** |br|
-      Hervé Henry (CNRS/PMC -- Polytechnique) |br|
-      R. Le Tellier (CEA/Cad) and H. Henry |br|
-      A. Gagnoud (CNRS) and E. Sauvage (CEA) |br|
+            **Dates** |br|
+            **2025** Dec 13th |br|
+            **2023** Nov 13th |br|
+            **2017** Nov 7th |br|
 
-.. admonition:: As CSI member
-   :class: warning
+            **Role** |br|
+            Reviewer of A. Bounjad PhD defense at Polytechnique |br|
+            Examiner of M.-A. Rasolofomanana PhD defense at CEA/Cadarache |br|
+            Examiner of G. Barba Rossa PhD defense at CEA/Marcoule |br|
 
-   .. container:: sphinx-features
+            **Thesis direction** |br|
+            Hervé Henry (CNRS/PMC -- Polytechnique) |br|
+            R. Le Tellier (CEA/Cad) and H. Henry |br|
+            A. Gagnoud (CNRS) and E. Sauvage (CEA) |br|
+         
+   .. tab-item:: As CSI member
 
-      **Date** |br|
-      2024–2025 |br|
-      2023 June |br|
-      2021–2022 |br|
+      .. admonition:: As CSI member
+         :class: warning
 
-      **Role** |br|
-      Committee member (CSI) of Clément Plumecocq's PhD thesis (CEA/Cadarache) |br|
-      Committee member of halfway PhD meeting of M.-A. Rasolofomanana (CEA/Cad) |br|
-      Committee member (CSI) of Arthur Doliveira's PhD thesis (CEA/Cadarache) |br|
+         .. container:: sphinx-features
 
-      **Thesis direction** |br|
-      R. Le Tellier (CEA/Cad) and C. Introïni (CEA/Cad) |br|
-      R. Le Tellier and H. Henry (CNRS/Polytechnique) |br|
-      R. Le Tellier and C. Introïni |br|
+            **Date** |br|
+            2024–2025 |br|
+            2023 June |br|
+            2021–2022 |br|
 
+            **Role** |br|
+            Committee member (CSI) of Clément Plumecocq's PhD thesis (CEA/Cadarache) |br|
+            Committee member of halfway PhD meeting of M.-A. Rasolofomanana (CEA/Cad) |br|
+            Committee member (CSI) of Arthur Doliveira's PhD thesis (CEA/Cadarache) |br|
 
-.. admonition:: As supervisor
-   :class: warning
+            **Thesis direction** |br|
+            R. Le Tellier (CEA/Cad) and C. Introïni (CEA/Cad) |br|
+            R. Le Tellier and H. Henry (CNRS/Polytechnique) |br|
+            R. Le Tellier and C. Introïni |br|
 
-   .. rst-class:: align-center
+   .. tab-item:: As supervisor
+
+      .. admonition:: As supervisor
+         :class: warning
+
+         .. rst-class:: align-center
       
-      See details in page :ref:`Supervisor`
+            See details in page :ref:`Supervisor`
 
-   .. container:: twocol
+         .. container:: twocol
 
-      .. container:: leftside
+            .. container:: leftside
 
-         .. container:: sphinx-features
+               .. container:: sphinx-features
 
-            **2025** |br|
-            **2022** |br|
+                  **2025** |br|
+                  **2022** |br|
 
-            Jury member of **Téo Boutin** as Director |br|
-            Jury member of **Werner Verdier** as co-director |br|
+                  Jury member of **Téo Boutin** as Director |br|
+                  Jury member of **Werner Verdier** as co-director |br|
 
-      .. container:: rightside
+            .. container:: rightside
 
-         .. container:: sphinx-features
+               .. container:: sphinx-features
 
-            **2015** |br|
-            **2008** |br|
+                  **2015** |br|
+                  **2008** |br|
 
-            Jury member of **Amina Younsi** as supervisor |br|
-            Jury member of **Sébastien Cadalen** as supervisor |br|
+                  Jury member of **Amina Younsi** as supervisor |br|
+                  Jury member of **Sébastien Cadalen** as supervisor |br|
 
     
-
 Keynote speaker & Taskforce management
 --------------------------------------
 

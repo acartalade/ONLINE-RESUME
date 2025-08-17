@@ -59,8 +59,8 @@ Academic degrees
       **2002** |br|
 
       **Degree** |br|
-      Accreditation to supervize Research (HDR) |br|
-      PhD thesis |br|
+      Accreditation to supervize Research [O10]_ |br|
+      PhD thesis [O1]_ |br|
 
       **Topics** |br|
       LBM and phase-field models [H1]_ |br|

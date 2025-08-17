@@ -8,7 +8,9 @@
 
 .. role:: romanwhite
 
-.. role:: visit
+.. role:: mediumbold
+
+.. role:: mediumsize
 
 .. |br| raw:: html
 

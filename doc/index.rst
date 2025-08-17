@@ -6,7 +6,7 @@ Welcome to Alain CARTALADE's resume
 
 .. container:: sphinx-features 
 
-   .. admonition:: :visit:`DR Alain CARTALADE`
+   .. admonition:: :mediumbold:`DR Alain CARTALADE`
       
       .. container:: sphinx-features
 
@@ -17,10 +17,10 @@ Welcome to Alain CARTALADE's resume
             :scale: 53
          
    
-         :visit:`CEA Director of Research` & :visit:`Senior Expert` |br|
-         :visit:`Engineer--Researcher, PhD, HDR` |br|
+         :mediumbold:`CEA Director of Research` & :mediumbold:`Senior Expert` |br|
+         :mediumsize:`Engineer--Researcher, PhD, HDR` |br|
          ------------------------------------------------ |br|
-         Atomic Energy and Alternative Energy Commission |br|
+         Atomic Energy and Alternative Energies Commission |br|
          Institute of Applied Sciences and Simulation |br|
          Department of System and Structure Modelling |br|
          Service of Thermal-hydraulics and Fluid Mechanics :math:`\hspace{4mm}` |br|
@@ -52,6 +52,7 @@ Welcome to Alain CARTALADE's resume
       : since 22 May 2002 |br|
       : |today|
 
+.. div:: sd-py-2
 
 .. container:: sphinx-features
 
@@ -93,7 +94,6 @@ Welcome to Alain CARTALADE's resume
       :columns: 1
       
       |br|
-
 
 **********
 **Career**
@@ -148,28 +148,15 @@ Welcome to Alain CARTALADE's resume
       Univ. Montpellier II |br|
 
       **Certificate** |br|
-      NIG 757 |br|
-      NIG 737 |br|
-      Degree |br|
-      NIG 580 |br|
-      NIG 580 |br|
+      :bdg-link-warning:`NIG 757 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
+      :bdg-link-warning:`NIG 737 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
+      :bdg-link-warning:`Degree <./_static/PDF_FILES/DEGREES-CERTIFICATES/2019_HDR_Cartalade.pdf>` |br|
+      :bdg-link-warning:`NIG 580 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2016_SeniorExpert_Cartalade.pdf>` |br|
+      :bdg-link-warning:`NIG 580 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2011_Expert_Cartalade.pdf>` |br|
       -- |br|
       |br|
-      Degree |br|
+      :bdg-link-warning:`Degree <./_static/PDF_FILES/DEGREES-CERTIFICATES/2002_PhD_Cartalade.pdf>` |br|
       Degrees |br|
-
-      .. only:: titania
-
-         |br|
-         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
-         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
-         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2019_HDR_Cartalade.pdf>` |br|
-         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2016_SeniorExpert_Cartalade.pdf>` |br|
-         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2011_Expert_Cartalade.pdf>` |br|
-         -- |br|
-         |br|
-         :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2002_PhD_Cartalade.pdf>` |br|
-         |br|
 
 ****************************************************
 **Highlights of my expertise & research activities**
@@ -196,12 +183,12 @@ Welcome to Alain CARTALADE's resume
       .. admonition:: Main research since 2010
          :class: hint
       
-         My work focuses on Phase-field models simulated by Lattice Boltzmann Methods (LBM) for multiphase flows.
+         My work focuses on **Phase-field models** simulated by **Lattice Boltzmann Methods** (LBM) for **multiphase flows**.
 
    .. grid-item::
       :columns: 5
 
-      .. admonition:: :bdg-ref-light-line:`LBM-Saclay-code`
+      .. admonition:: Supervisor of LBM_Saclay code
          :class: hint
       
          C++ programming & validation of LBM and :math:`\varphi`-models |br|
@@ -303,14 +290,14 @@ Welcome to Alain CARTALADE's resume
          .. container:: sphinx-features
 
             PhD fellows |br|
-            Post-doctoral fellows |br|
-            Internship students |br|
             PhD jury as supervisor |br|
+            Internship students |br|
+            Post-doctoral fellows |br|
 
             |nb-PhD| |br|
-            |nb-post-doc| |br|
-            |nb-interns| |br|
             |nb-defended| |br|
+            |nb-interns| |br|
+            |nb-post-doc| |br|
 
    .. grid-item::
       :columns: 5
@@ -321,7 +308,7 @@ Welcome to Alain CARTALADE's resume
          .. container:: sphinx-features
 
             Current CEA/DES projects |br|
-            Completed CEA/DES projects |br|
+            Former CEA/DES projects |br|
             National Research Agency project (ANR)  :math:`\hspace{13mm}` |br|
             CEA Transverse programme |br|
 
@@ -351,70 +338,25 @@ Welcome to Alain CARTALADE's resume
 
             ./source/Supervisor-Of-Students.rst
             ./source/Miscellaneous.rst
-            ./source/Involvement-DOB.rst
+            ./source/DOB/Involvement-DOB.rst
 
 
    
 ***********************************
-**My approach in the CEA projects**
+**My contribution to CEA projects**
 ***********************************
 
-.. admonition:: My approach in the CEA projects
-   :class: hint
+.. _LBM-Saclay-code:
 
-   .. dropdown::
-      :icon: comment
+.. admonition:: My contribution to CEA projects
+   :class: caution
 
-      In the CEA projects to which I contribute, after discussion with the experimental scientists who are involved in the same project (see :bdg-ref-black-line:`Involvement-CEA-Projects`), my approach is divided into three main stages described below:
-      
-      1) **Derivation of Partial Derivative Equations** (PDEs) for the target application. Since 2012, the derivation of such PDEs is based on the *phase-field theory* which combines rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Fundamentals of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`).
-      2) **Writing the numerical schemes of those PDEs**. Since 2009 [R8]_, the derivation of numerical schemes are based on the *Lattice Boltzmann Methods* (LBM -- see :bdg-link-primary:`Overview of Lattice Boltzmann Methods <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). After **code implementation**, **verifications** are performed with academic test cases.
-      3) **Running HPC simulations** for diverse phenomenologies of «fluid dynamics and thermodynamics», «material science» and «flow & transport in porous media». My whole approach is summarized in :numref:`target-Fig-Approach`.
-
-      The applications depend on the projects that support my activities. For example, in SIVIT, the phenomena are those observed in the nuclear glasses for waste management (see :numref:`target-Fig-Observation`). In SIACY, they are relative to the liquid-liquid extraction devices, and in VESTA they concern the maturation of gels.
-
-      |br|
-
-      .. grid-item-card::
-            
-         .. div:: sd-text-center
-
-            **More details are given in** :bdg-ref-black-line:`Skills-and-Areas` **where** :bdg-ref-danger:`videos of simulations <Areas of modeling>` **can be watched.**
-
-   .. container:: twocol
-
-      .. container:: leftside
-
-         .. _target-Fig-Observation:
-   
-         .. figure:: ./source/FIGS/Fig_Observations.png
-            :name: Fig-CEA-Cad
-            :figclass: align-center
-            :align: center
-            :height: 220
-            :width: 450
-            :scale: 100 %
-      
-            Observations made by experimental scientists in SIVIT and VESTA projects
-
-      .. container:: rightside
-
-         .. _target-Fig-Approach:
-   
-         .. figure:: ./source/FIGS/Fig_MyApproach.png
-            :name: Fig-MyApproach
-            :figclass: align-center
-            :align: center
-            :height: 230
-            :width: 450
-            :scale: 100 %
-      
-            My approach in the CEA projects: derivation of PDEs, numerical implementation and HPC simulations
-
+   .. include:: ./source/MyApproach.rst
 
 ***********************
 **Further Information**
 ***********************
+
 
 .. grid:: 3
    :gutter: 4

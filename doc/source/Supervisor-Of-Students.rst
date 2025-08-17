@@ -8,117 +8,116 @@ Supervisor of students
 PhD young researchers (|nb-PhD| = |nb-defended| defended + |nb-progress| in progress)
 -------------------------------------------------------------------------------------
 
-In progress (|nb-progress|)
-"""""""""""""""""""""""""""
+.. tab-set::
 
-.. admonition:: 2024 – 2027: Clément Bardet (CEA LDEL – INRIA)
-   :class: note
+   .. tab-item:: Defended (|nb-defended|)
 
-   .. container:: twocol
+      .. admonition:: 2021 – 2024: Téo Boutin (3,5 years at CEA – STMF/LMSF)
+         :class: hint
 
-      .. container:: leftside
+         .. container:: twocol
+
+            .. container:: leftside
       
-         **PhD co-director** of Clément Bardet (profile: applied math, Master «Math en Action», Lyon) affiliated at CEA/STMF/LDEL for his PhD thesis on «Navier-Stokes/Korteweg model with temperature effects». Doctoral school: Rennes. Collaboration: R. Noël (INRIA).
+               **PhD Director** of Téo Boutin (profile: applied math/numerical methods, Master AMS, UVSQ) affiliated at LMSF for his PhD thesis on «Phase-field model for gels». Doctoral school: SMEMaG. Collaboration with S. Gin and J.-M. Delaye (CEA/Marcoule).
 
-      .. container:: rightside
+            .. container:: rightside
 
-         Starting date: November 1st, 2024. |br|
+               **Achievements** |br|
+               • PhD defense 28th April 2025 |br|
+               • Publications [P12]_; 1 CEA Technical report. |br|
+               • Presentation at conference "Phase-Field Method"
 
-.. admonition:: 2023 – 2026: Hoel Keraudren (CEA – STMF/LDEL)
-   :class: note
+      .. admonition:: 2019 – 2022: Werner Verdier (3 years at CEA – STMF/LMSF)
+         :class: hint
 
-   .. container:: twocol
+         .. container:: twocol
 
-      .. container:: leftside
-      
-         **PhD Director** of Hoel Keraudren (profile: applied math/HPC, Master AMS, Paris-Saclay) affiliated at CEA/STMF/LDEL for his PhD thesis on «Adaptative Mesh Refinement with LBM». Doctoral school: SMEMaG. Collaboration: P. Kestener and A. Genty (CEA).
-
-      .. container:: rightside
-
-         Starting date: October 18th, 2023. |br|
-
-.. admonition:: 2022 – 2025: Capucine Méjanès (CEA – STMF/LMSF)
-   :class: note
-
-   .. container:: twocol
-
-      .. container:: leftside
-      
-         **PhD co-director** of Capucine Méjanès (profile: fundamental physics/hydrodynamics, Master Fluid Dynamics and energetics, Paris-Saclay) affiliated at CEA/STMF/LMSF for her PhD thesis on «Phase-field model coupled with hydrodynamics». Doctoral school: SMEMaG. Co-director Mathis Plapp (CNRS/Polytechnique).
-
-      .. container:: rightside
-
-         Starting date: October 24th, 2022.
-
-Defended (|nb-defended|)
-""""""""""""""""""""""""
-
-.. admonition:: 2021 – 2024: Téo Boutin (3,5 years at CEA – STMF/LMSF)
-   :class: hint
-
-   .. container:: twocol
-
-      .. container:: leftside
-      
-         **PhD Director** of Téo Boutin (profile: applied math/numerical methods, Master AMS, UVSQ) affiliated at LMSF for his PhD thesis on «Phase-field model for gels». Doctoral school: SMEMaG. Collaboration with S. Gin and J.-M. Delaye (CEA/Marcoule).
-
-      .. container:: rightside
-
-         **Achievements** |br|
-         • PhD defense 28th April 2025 |br|
-         • Publications [P12]_; 1 CEA Technical report. |br|
-         • Presentation at conference "Phase-Field Method"
-
-.. admonition:: 2019 – 2022: Werner Verdier (3 years at CEA – STMF/LMSF)
-   :class: hint
-
-   .. container:: twocol
-
-      .. container:: leftside      
+            .. container:: leftside      
          
-         **PhD co-director** of Werner Verdier (profile: physicist/numerical methods, Master AMS, UVSQ) affiliated at LMSF for his PhD thesis on «Phase-field model for multi-phase flows». Doctoral school: Institut Polytechnique de Paris. PhD co-director Mathis Plapp (DR/CNRS, École Polytechnique). Context of SIVIT project (CEA-Orano). 
+               **PhD co-director** of Werner Verdier (profile: physicist/numerical methods, Master AMS, UVSQ) affiliated at LMSF for his PhD thesis on «Phase-field model for multi-phase flows». Doctoral school: Institut Polytechnique de Paris. PhD co-director Mathis Plapp (DR/CNRS, École Polytechnique). Context of SIVIT project (CEA-Orano). 
 
-      .. container:: rightside
+            .. container:: rightside
 
-         **Achievements** |br|
-         • PhD defense 12th December 2022 |br|
-         • Publications [P11]_, [P12]_, [P13]_; 1 CEA Technical report. |br|
-         • Several presentations in the SIVIT project. |br|
-         • Presentation at CALPHAD international conference, 2022. |br|
+               **Achievements** |br|
+               • PhD defense 12th December 2022 |br|
+               • Publications [P11]_, [P12]_, [P13]_; 1 CEA Technical report. |br|
+               • Several presentations in the SIVIT project. |br|
+               • Presentation at CALPHAD international conference, 2022. |br|
 
-.. admonition:: 2012 – 2015: Amina Younsi (3 years at CEA – STMF/LMSF)
-   :class: hint
+      .. admonition:: 2012 – 2015: Amina Younsi (3 years at CEA – STMF/LMSF)
+         :class: hint
 
-   .. container:: twocol
+         .. container:: twocol
 
-      .. container:: leftside
+            .. container:: leftside
 
-         **PhD supervisor** of Amina Younsi (profile: applied math/numerical methods, Master M2S, INSTN) affiliated at LMSF for her PhD thesis on «hydrodynamic effect on crystal growth by lattice Boltzmann method». Doctoral school: Institut Polytechnique de Paris. PhD director Mathis Plapp (DR/CNRS, École Polytechnique). Context of SIVIT project (CEA-AREVA).
+               **PhD supervisor** of Amina Younsi (profile: applied math/numerical methods, Master M2S, INSTN) affiliated at LMSF for her PhD thesis on «hydrodynamic effect on crystal growth by lattice Boltzmann method». Doctoral school: Institut Polytechnique de Paris. PhD director Mathis Plapp (DR/CNRS, École Polytechnique). Context of SIVIT project (CEA-AREVA).
 
-      .. container:: rightside
+            .. container:: rightside
 
-         **Achievements** |br|
-         • PhD defense October 2015 |br|
-         • Publications [P10]_, [P9]_, [P8]_ |br|
-         • Proceeding [p5]_ and CEA Reports [R13]_ [R14]_ |br|
-         • Best poster award \ref{PFM2014} at the «3rd International Symposium on Phase-Field Method 2014». |br|
+               **Achievements** |br|
+               • PhD defense October 2015 |br|
+               • Publications [P10]_, [P9]_, [P8]_ |br|
+               • Proceeding [p5]_ and CEA Reports [R13]_ [R14]_ |br|
+               • Best poster award \ref{PFM2014} at the «3rd International Symposium on Phase-Field Method 2014». |br|
 
+      .. admonition:: 2004 – 2008: Sébastien Cadalen (4 years at CEA – SFME/MTMS)
+            :class: hint
 
-.. admonition:: 2004 – 2008: Sébastien Cadalen (4 years at CEA – SFME/MTMS)
-   :class: hint
+            .. container:: twocol
 
-   .. container:: twocol
-
-      .. container:: leftside
+               .. container:: leftside
          
-         **PhD supervisor** of Sébastien Cadalen (profile engineer/fluid mechanics, ENSEEIHT) affiliated at MTMS for his PhD thesis on «homogeneization of transport models in unsaturated porous media». PhD Director Michel Quintard (DR/CNRS, IMFT). Context of MRISQ project.
+                  **PhD supervisor** of Sébastien Cadalen (profile engineer/fluid mechanics, ENSEEIHT) affiliated at MTMS for his PhD thesis on «homogeneization of transport models in unsaturated porous media». PhD Director Michel Quintard (DR/CNRS, IMFT). Context of MRISQ project.
 
-      .. container:: rightside
+               .. container:: rightside
 
-         **Achievements** |br|
-         • PhD defense November 2008 |br|
-         • Proceedings: with peer-review [p2]_, without [proc]_. |br|
-         • CEA reports: [R5]_, [R6]_, [R7]_. |br|
+                  **Achievements** |br|
+                  • PhD defense November 2008 |br|
+                  • Proceedings: with peer-review [p2]_, without [proc]_. |br|
+                  • CEA reports: [R5]_, [R6]_, [R7]_. |br|
+
+   .. tab-item:: In progress (|nb-progress|)
+
+      .. admonition:: 2024 – 2027: Clément Bardet (CEA LDEL – INRIA)
+         :class: note
+
+         .. container:: twocol
+
+            .. container:: leftside
+      
+               **PhD co-director** of Clément Bardet (profile: applied math, Master «Math en Action», Lyon) affiliated at CEA/STMF/LDEL for his PhD thesis on «Navier-Stokes/Korteweg model with temperature effects». Doctoral school: Rennes. Collaboration: R. Noël (INRIA).
+
+            .. container:: rightside
+
+               Starting date: November 1st, 2024. |br|
+
+      .. admonition:: 2023 – 2026: Hoel Keraudren (CEA – STMF/LDEL)
+         :class: note
+
+         .. container:: twocol
+
+            .. container:: leftside
+      
+               **PhD Director** of Hoel Keraudren (profile: applied math/HPC, Master AMS, Paris-Saclay) affiliated at CEA/STMF/LDEL for his PhD thesis on «Adaptative Mesh Refinement with LBM». Doctoral school: SMEMaG. Collaboration: P. Kestener and A. Genty (CEA).
+
+            .. container:: rightside
+
+               Starting date: October 18th, 2023. |br|
+
+      .. admonition:: 2022 – 2025: Capucine Méjanès (CEA – STMF/LMSF)
+         :class: note
+
+         .. container:: twocol
+
+            .. container:: leftside
+      
+               **PhD co-director** of Capucine Méjanès (profile: fundamental physics/hydrodynamics, Master Fluid Dynamics and energetics, Paris-Saclay) affiliated at CEA/STMF/LMSF for her PhD thesis on «Phase-field model coupled with hydrodynamics». Doctoral school: SMEMaG. Co-director Mathis Plapp (CNRS/Polytechnique).
+
+            .. container:: rightside
+
+               Starting date: October 24th, 2022.
 
 Post-doctoral young researchers (|nb-post-doc|)
 -----------------------------------------------
