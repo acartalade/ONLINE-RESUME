@@ -342,16 +342,162 @@ Welcome to Alain CARTALADE's resume
 
 
    
-***********************************
-**My contribution to CEA projects**
-***********************************
+************************************
+**My contributions to CEA projects**
+************************************
 
 .. _LBM-Saclay-code:
 
-.. admonition:: My contribution to CEA projects
+.. admonition:: My contributions to CEA projects
    :class: caution
 
-   .. include:: ./source/MyApproach.rst
+   .. tab-set::
+
+      .. tab-item:: Supervisor of LBM_Saclay code
+   
+         .. grid:: 2
+            :gutter: 4
+            :margin: 0 0 0 0
+
+            .. grid-item-card::
+               :columns: 6
+
+               .. figure:: ./source/FIGS/Logo_LBM_Saclay.png
+                  :class: align-left
+                  :height: 260
+                  :width: 250
+                  :scale: 40
+      
+               Since 2018, I am involved in the development of the C++ multi-architecture HPC LBM_Saclay code for which I am the supervisor. The source code can be found on the :bdg-link-info:`Codev-Tuleap repository <https://codev-tuleap.cea.fr/projects/lbmsaclay/>`. LBM_Saclay has evolved from the fortran code SILABE3D and can run on several architectures (CPU and GPU) e.g. Jean-Zay V100 (IDRIS) and Topaze A100 (CCRT). Several LBM schemes are implemented for simulating various phase-field models for Multiphase/Multicomponent (MPMC) flows with phase change (Watch :bdg-ref-danger:`videos of simulations <Areas of modeling>`). 
+      
+            .. grid-item-card::
+               :columns: 6
+
+               .. figure:: ./source/FIGS/Logo-Workforce_LBM_Saclay.png
+                  :class: align-left
+                  :height: 260
+                  :width: 260
+                  :scale: 40
+               
+               I participate in writing the documentation of LBM_Saclay (see :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>`) [R18]_, and specifications for code maintenance [r6]_. The code is mainly applied for R&D purposes, I facilitate the meetings of LBM_Saclay team for coordination. It is also used in the 16h training session on «An introduction of Lattice Boltzmann Methods» in the doctoral school SMEMaG (public: PhD students). It is also used to practice "phase-field models" taught at CEA--INSTN (engineers) and Sorbonne University (M2 students). 
+
+      .. tab-item:: My approach in CEA projects
+
+         In the CEA projects to which I contribute (see :bdg-ref-black-line:`Involvement-CEA-Projects`), after discussion with the experimental scientists who are involved in the same project, my approach is divided into three main stages described below. More details are given in :bdg-ref-black-line:`Skills-and-Areas`.
+
+         .. grid:: 2
+            :gutter: 4
+            :margin: 0 0 0 0
+
+            .. grid-item-card::
+               :columns: 6
+
+               1) **Derivation of Partial Derivative Equations** (PDEs) for the target application. Since 2012, their derivation is based on the *phase-field theory* which combines rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Fundamentals of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`).
+               2) **Writing the numerical schemes of those PDEs**. Since 2009 [R8]_, the derivation of numerical schemes are based on the *Lattice Boltzmann Methods* (LBM -- see :bdg-link-primary:`Overview of Lattice Boltzmann Methods <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). After **code implementation**, **verifications** are performed with academic test cases.
+               3) **Running HPC simulations** for diverse phenomenologies of «fluid dynamics and thermodynamics», «material science» and «flow & transport in porous media». My whole approach is summarized in :numref:`target-Fig-Approach`.
+
+            .. grid-item-card::
+               :columns: 6
+         
+               .. _target-Fig-Approach:
+
+               .. figure:: ./source/FIGS/Fig_MyApproach.png
+                  :name: Fig-MyApproach
+                  :figclass: align-center
+                  :align: center
+                  :height: 230
+                  :width: 450
+                  :scale: 100 %
+      
+                  My approach in the CEA projects.
+
+      .. tab-item:: Applications
+      
+         The applications depend on the projects that support my activities. They are classified into three main scales: kilometric-scale, metric-scale and below (millimetric and micrometric). For each scale, to carry out my simulations successfully, I spoke with specialist of hydrogeology, soil scientists, and physico-chemists of glass. Next, I bridged the gap with applied mathematics. My achievements are presented in :bdg-ref-black-line:`Involvement-CEA-Projects`.
+
+         .. tab-set::
+
+            .. tab-item:: :math:`km` scale
+
+               .. grid:: 2
+                  :gutter: 4
+                  :margin: 0 0 0 0
+
+                  .. grid-item-card::
+                     :columns: 6
+
+                     **2002--2005**: at the beginning of my career, I worked on methods of “inverse problems” in geoscience. First in the context of my PhD defended in 2002, and next in my activities for waste management in my laboratory in collaboration with ANDRA. An example of application of those methods is presented in :numref:`target-Fig-Cad`, for simulating the underground flow underneath the site of CEA/Cadarache. The issue was to know whether, in the event of an accident at an INB, a contaminant could pollute a source of drinking water outside the site.
+
+                  .. grid-item-card::
+                     :columns: 6
+
+                     .. _target-Fig-Cad:
+   
+                     .. figure:: ./source/FIGS/Fig_CEA-Cad.png
+                        :name: Fig-CEA-Cad
+                        :figclass: align-center
+                        :align: center
+                        :height: 120
+                        :width: 450
+                        :scale: 100 %
+      
+                        Finite element simulation of underground flow
+
+            .. tab-item:: Metric scale
+
+               .. grid:: 2
+                  :gutter: 4
+                  :margin: 0 0 0 0
+
+                  .. grid-item-card::
+                     :columns: 6
+
+                     **2004--2013**: I worked on tranfer in unsaturated porous media in the context of project “Maîtrise des risques et Impacts sur l'environnement” (MRISQ). For that purpose, I worked on a well instrumented column device at DRMP (:numref:`target-Fig-Anomalous`) for validating original mathematical models based on fractional equations. That topic has lead to an ANR project called TRAM (for “transport anormal en milieu poreux”) in collaboration with IFPEN and the university of Avignon.
+
+                  .. grid-item-card::
+                     :columns: 6
+
+                     .. container:: sphinx-features
+   
+                        .. _target-Fig-Anomalous:
+
+                        .. figure:: ./source/FIGS/Fig-Anomalous.png
+                           :name: Fig-CEA-Beeti
+                           :figclass: align-center
+                           :align: center
+                           :height: 140
+                           :width: 450
+                           :scale: 100 %
+
+                           Anomalous transport studied on BEETI device
+                     
+
+            .. tab-item:: :math:`mm` and :math:`\mu m` scales
+
+               .. grid:: 2
+                  :gutter: 4
+                  :margin: 0 0 0 0
+
+                  .. grid-item-card::
+                     :columns: 6
+
+                     **Since 2012**: I am interested in derivation and simulations of interface-capturing models for several phenomena observed in glass (see :numref:`target-Fig-Observation`). At this scale, the simulations help predicting the appearance conditions of a new phases which impact the physical properties of waste packages. At high temperature, the new phase is liquid ("demixing of immiscible fluids" or "spinodal decomposition"). At lower temperature, the new phase is solid("crystal growth"). Finally, at low temperature, the water can alter the surface of the package to create a gel ("maturation of gel"). The simulations bridge the gap between simulations of molecular dynamics performed at DPME and the homogeneized approaches at metric scale.
+
+                  .. grid-item-card::
+                     :columns: 6
+
+                     .. _target-Fig-Observation:
+   
+                     .. figure:: ./source/FIGS/Fig_Observations.png
+                        :name: Fig-CEA-Mar
+                        :figclass: align-center
+                        :align: center
+                        :height: 200
+                        :width: 450
+                        :scale: 100 %
+      
+                        Observations from CEA/Marcoule.
+
 
 ***********************
 **Further Information**
