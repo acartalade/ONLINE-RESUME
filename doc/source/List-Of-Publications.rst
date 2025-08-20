@@ -132,9 +132,9 @@ Lectures and courses
 PhD thesis and HDR (2)
 ----------------------
 
-.. [T1] **Cartalade A.**, Modélisation des Écoulements dans les Aquifères Fracturés, Développement d’un Modèle Multi-Continua (Problèmes Direct et Inverse) et Application au Site du CEA/Cadarache. Thèse, Univ. Montpellier II. :bdg-link-success-line:`http://dx.doi.org/10.13140/RG.2.2.12906.52164`, 209 pages. **2002**.
+.. [T1] **Cartalade A.**, :bdg-link-warning:`Modèles à champ de phase et équations fractionnaires simulés par méthode de Boltzmann sur réseaux <../_static/PDF_FILES//CEA-REPORTS/HDR_Cartalade_Sept2019_vRG.pdf>`. Mémoire d’Habilitation à Diriger des Recherches (HDR) en Physique, Université Paris-Sud. 95 pages. :bdg-link-success-line:`http://dx.doi.org/10.13140/RG.2.2.10705.07529`. **2019**.
 
-.. [H1] **Cartalade A.**, :bdg-link-warning:`Modèles à champ de phase et équations fractionnaires simulés par méthode de Boltzmann sur réseaux <../_static/PDF_FILES//CEA-REPORTS/HDR_Cartalade_Sept2019_vRG.pdf>`. Mémoire d’Habilitation à Diriger des Recherches (HDR) en Physique, Université Paris-Sud. 95 pages. :bdg-link-success-line:`http://dx.doi.org/10.13140/RG.2.2.10705.07529`. **2019**.
+.. [T2] **Cartalade A.**, Modélisation des Écoulements dans les Aquifères Fracturés, Développement d’un Modèle Multi-Continua (Problèmes Direct et Inverse) et Application au Site du CEA/Cadarache. Thèse, Univ. Montpellier II. :bdg-link-success-line:`http://dx.doi.org/10.13140/RG.2.2.12906.52164`, 209 pages. **2002**.
 
 
 Main Oral presentations

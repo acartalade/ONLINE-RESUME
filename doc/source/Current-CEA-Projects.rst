@@ -1,4 +1,4 @@
-.. include:: ../substitutions.rst
+.. include:: ./substitutions.rst
 
 :mediumbold:`SIMUlation Programme (SIMU)`
 
@@ -208,7 +208,7 @@
             Contact and collaboration with S. Gin and J.-M. Delahye (CEA/Marcoule) |br|
             T. Boutin’s PhD on «mesoscopic model of maturation of gels» |br|
             Publication on dissolution of porous media |br|
-            Oral presentation at the scientific seminar «TANGRAM» on glasses for nuclear waste management |br|
+            Oral presentation at the scientific seminar «TANGRAM» for gels |br|
             Participation in the TANGRAM workshop |br|
 
          .. grid-item::

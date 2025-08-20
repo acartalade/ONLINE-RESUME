@@ -95,72 +95,239 @@ Welcome to Alain CARTALADE's resume
       
       |br|
 
-**********
-**Career**
-**********
+**************************
+**CEA career and degrees**
+**************************
 
-.. admonition:: Positions from 1996 to 2025 -- see details in :bdg-ref-light-line:`Certifications-and-Degrees`
+.. grid:: 1
+   :margin: 0 0 2 0
+   :padding: 0 0 3 4
 
-   .. container:: sphinx-features
+   .. admonition:: Period from 1996 to 2025
 
-      **Date** |br|
-      **2025** |br|
-      **2023-2027** |br|
-      **2019** |br|
-      **2017-2023** |br|
-      **2011-2016** |br|
-      **2002** |br|
-      |br|
-      **1998-2002** |br|
-      **1996-1998** |br|
+      .. tab-set::
 
-      **Title/function** |br|
-      CEA **Research Director** |br|
-      CEA Senior Expert  |br|
-      **HDR** in Physics |br|
-      CEA **Senior Expert** |br|
-      CEA **Expert** |br|
-      CEA Engineer–Researcher |br|
-      |br|
-      **PhD thesis** |br|
-      Graduate studies in Physics |br|
+         .. tab-item:: CEA career
 
-      **Topic** |br|
-      -- |br|
-      «Phase-field models with LBM and MultiScale Modeling» |br|
-      «Phase-field models and fractional Eqs simulated by LBM» |br|
-      «Phase-field models with LBM and MultiScale Modeling» |br|
-      «Inverse modeling -- Flow and transport in porous media» |br|
-      Service of Thermal-hydraulics and Fluid Mechanics |br|
-      |br|
-      «Modeling of Direct and Inverse problems in Geosciences» |br|
-      «Theoretical and mathematical (fundamental) Physics» |br|
+            .. grid:: 2
+               :gutter: 4
+               :margin: 0 0 0 0
+
+               .. grid-item-card:: My CEA career since 2002
+                  :columns: 4
+
+                  .. container:: sphinx-features
+
+                     **Dates** |br|
+                     **2025** |br|
+                     **2023** |br|
+                     **2017** |br|
+                     **2011** |br|
+                     **2002** |br|
+
+                     **Title/Function** |br|
+                     CEA Director of Research |br|
+                     CEA Senior Expert |br|
+                     CEA Senior Expert |br|
+                     CEA Expert |br|
+                     CEA Engineer--Researcher |br|
+
+               .. grid-item-card:: Keywords of my expertise
+                  :columns: 8
+
+                  .. container:: sphinx-features
+               
+                     **Phase-fields models, Lattice Boltzmann and inverse problems** |br|
+                     -- |br|
+                     Modèles à champ de phase simulés par LBM et modélisation multi-échelles |br|
+                     Modèles à champ de phase simulés par LBM et modélisation multi-échelles |br|
+                     Modélisation milieux poreux et problème inverse |br|
+                     -- |br|
+
+                     **PDF** |br|
+                     :bdg-link-warning:`NIG 757 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
+                     :bdg-link-warning:`NIG 737 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
+                     :bdg-link-warning:`NIG 580 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2016_SeniorExpert_Cartalade.pdf>` |br|
+                     :bdg-link-warning:`NIG 580 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2011_Expert_Cartalade.pdf>` |br|
+                     |br|
+
+         .. tab-item:: Academic degrees
+
+            .. grid:: 3
+               :gutter: 4
+               :margin: 0 0 0 0
+
+               .. grid-item-card::
+                  :columns: 4
+
+                  .. container:: sphinx-features
+
+                     **Dates** |br|
+                     **2019** |br|
+                     **2002** |br|
+                     |br|
+                     **1998** |br|
+                     **1997** |br|
+                     **1996** |br|
+
+                     **Degree** |br|
+                     HDR |br|
+                     PhD |br|
+                     |br|
+                     DEA |br|
+                     Maîtrise |br|
+                     Licence |br|
+
+                     **PDF** |br|
+                     :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2019_HDR_Cartalade.pdf>` |br|
+                     :bdg-link-warning:`PDF <./_static/PDF_FILES/DEGREES-CERTIFICATES/2002_PhD_Cartalade.pdf>` |br|
+                     |br|
+                     -- |br|
+                     -- |br|
+                     -- |br|
+
+                     **Ref** |br|
+                     [T1]_ |br|
+                     [T2]_ |br|
+                     |br|
+                     |br|
+                     |br|
+                     |br|
+
+               .. grid-item-card::
+                  :columns: 8
+
+                  .. container:: sphinx-features
+
+                     **Topics** |br|
+                     Phase-field models & fractional equation simulated by LBM |br|
+                     Direct and Inverse modelling & simulations in geosciences |br|
+                     **Graduate studies in Theoretical & Mathematical Physics** |br|
+                     Quantum Field Theory, Sci Computing, Statistical Physics, etc. |br|
+                     Quantum Phys, Atoms & mol, Solid State Phys, Nuclear Phys etc. |br|
+                     Classical and Quant. Mechanics, Thermodyn, Electromag, etc. |br|
+
+                     **Location** |br|
+                     Univ Paris-Sud XI |br|
+                     CEA/Cad & CNRS |br|
+                     |br|
+                     Univ Montpellier II |br|
+                     Univ Montpellier II |br|
+                     Univ Montpellier II |br|
+
+         .. tab-item:: Additional training               
+
+            .. grid:: 2
+               :gutter: 4
+               :margin: 0 0 0 0
+
+               .. grid-item-card:: Educational background (only ≥40h)
+                  :columns: 4
+
+                  .. container:: sphinx-features
+
+                     **Dates** |br|
+                     **2013** |br|
+                     **2011** |br|
+                     **2005** |br|
+                     **2003** |br|
+                     |br|
+
+                     |br|
+                     CNRS Summer school |br|
+                     CEA–INSTN lectures |br|
+                     CNRS Summer school |br|
+                     CEA–INSTN lectures |br|
+                     |br|
+
+               .. grid-item-card:: CNRS summer schools and CEA/INSTN nuclear engineering
+                  :columns: 8
+
+                  .. container:: sphinx-features
+
+                     **Titles** |br|
+                     Phase-field models for the evolution of complex structures |br|
+                     Flow and heat transfer for two-phase flows in nuclear reactor |br|
+                     Flow and Transport in porous and fractured media. |br|
+                     School of Nuclear Engineering |br|
+                     |br|
+
+                     **Hours** |br|
+                     80h |br|
+                     40h |br|
+                     80h |br|
+                     325h |br|
+                     |br|
+
+                     **PDF** |br|
+                     -- |br|
+                     :bdg-link-warning:`Certificate <./_static/PDF_FILES/DEGREES-CERTIFICATES/2011_Certificate_TwoPhaseFlows.pdf>` |br|
+                     -- |br|
+                     :bdg-link-warning:`Certificate <./_static/PDF_FILES/DEGREES-CERTIFICATES/2003_Certificate_FNB1_Cartalade.pdf>` |br|
+                     |br|
+
+         .. tab-item:: Futher information
+
+            .. grid:: 3
+               :gutter: 4
+
+               .. grid-item-card:: Current CEA/DES projects
+                  :columns: 4
       
-      **Location** |br|
-      CEA/Saclay |br|
-      CEA/Saclay |br|
-      Univ. Paris-Sud XI |br|
-      CEA/Saclay |br|
-      CEA/Saclay |br|
-      CEA/Saclay |br|
-      |br|
-      CEA/Cad -- CNRS |br|
-      Univ. Montpellier II |br|
+                  .. container:: sphinx-features
 
-      **Certificate** |br|
-      :bdg-link-warning:`NIG 757 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
-      :bdg-link-warning:`NIG 737 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2023_SeniorExpert_A CARTALADE.pdf>` |br|
-      :bdg-link-warning:`Degree <./_static/PDF_FILES/DEGREES-CERTIFICATES/2019_HDR_Cartalade.pdf>` |br|
-      :bdg-link-warning:`NIG 580 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2016_SeniorExpert_Cartalade.pdf>` |br|
-      :bdg-link-warning:`NIG 580 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2011_Expert_Cartalade.pdf>` |br|
-      -- |br|
-      |br|
-      :bdg-link-warning:`Degree <./_static/PDF_FILES/DEGREES-CERTIFICATES/2002_PhD_Cartalade.pdf>` |br|
-      Degrees |br|
+                     **Dates** |br|
+                     **2010–now** |br|
+                     **2016–now** |br|
+                     **2019–2020** |br|
+                     **2021–now** |br|
+                     **2024--now** |br|
 
-****************************************************
-**Highlights of my expertise & research activities**
-****************************************************
+                     **Prog** |br|
+                     SIMU |br|
+                     SIMU |br|
+                     SIMU |br|
+                     SIMU |br|
+                     CyN |br|
+
+                     **Project** |br|
+                     SIVIT |br|
+                     SITHY |br|
+                     PICI2 |br|
+                     VESTA |br|
+                     SIACY |br|
+
+               .. grid-item-card:: Main research at SFME (2002--2011)
+                  :columns: 4
+
+                  Inverse problems for parameters identification, approach with adjoint state method and optimization :math:`\bullet` Simulation of fractional equation for anomalous (non-Fickian) transport in porous media.
+
+               .. grid-item-card:: Member of :bdg-link-success:`STMF <https://www.pluginlabs-universiteparissaclay.fr/fiche/service-de-thermo-hydraulique-et-de-mecanique-des-fluides-stmf/>` laboratories
+                  :columns: 4
+
+                  .. container:: sphinx-features
+
+                     **Dates** |br|
+                     **2025--now** |br|
+                     **2014--2024** |br|
+                     **2011--2014** |br|
+                     **2007--2011** |br|
+                     **2002--2007** |br|
+
+                     **Laboratory** |br|
+                     LDEL |br|
+                     LMSF |br|
+                     LATF |br|
+                     LSET |br|
+                     MTMS |br|
+
+
+**************************************************
+**Showcase of my expertise & research activities**
+**************************************************
+
+Skills & main research
+----------------------
 
 .. grid:: 3
    :gutter: 4
@@ -195,7 +362,10 @@ Welcome to Alain CARTALADE's resume
          Writing :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>` and specifications |br|
          Facilitation of taskforce and training sessions |br|
          Supervisor of PhD fellows and internship students |br|
-   
+
+Productivity & most representative achievements
+-----------------------------------------------
+
 .. grid:: 3
    :gutter: 4
    :margin: 0 0 0 0
@@ -203,7 +373,7 @@ Welcome to Alain CARTALADE's resume
    .. grid-item::
       :columns: 4
 
-      .. admonition:: Teaching showcase
+      .. admonition:: Teaching: course materials
          :class: hint
       
          .. container:: sphinx-features
@@ -258,6 +428,9 @@ Welcome to Alain CARTALADE's resume
             [P10]_ |br|
             [P11]_ |br|
             [P12]_ |br|
+
+Interaction with other people
+-----------------------------
 
 .. grid:: 3
    :gutter: 4
@@ -317,252 +490,208 @@ Welcome to Alain CARTALADE's resume
             |nb-ANR| |br|
             |nb-PTC| |br|
 
-.. admonition:: All details in subsections
-   :class: error
 
-   .. container:: twocol
-
-      .. container:: leftside
-
-         .. toctree::
-            :maxdepth: 1
-
-            ./source/Certifications.rst
-            ./source/Skills.rst
-            ./source/List-Of-Publications.rst
-
-      .. container:: rightside
-
-         .. toctree::
-            :maxdepth: 1
-
-            ./source/Supervisor-Of-Students.rst
-            ./source/Miscellaneous.rst
-            ./source/DOB/Involvement-DOB.rst
-
-
-   
 ************************************
 **My contributions to CEA projects**
 ************************************
 
 .. _LBM-Saclay-code:
 
-.. admonition:: My contributions to CEA projects
-   :class: caution
+.. grid:: 1
+   :margin: 0 0 2 1
+   :padding: 0 0 3 4
 
-   .. tab-set::
+   .. admonition:: My contributions to CEA projects
 
-      .. tab-item:: Supervisor of LBM_Saclay code
-   
-         .. grid:: 2
-            :gutter: 4
-            :margin: 0 0 0 0
+      .. tab-set::
 
-            .. grid-item-card::
-               :columns: 6
+         .. tab-item:: My approach
 
-               .. figure:: ./source/FIGS/Logo_LBM_Saclay.png
-                  :class: align-left
-                  :height: 260
-                  :width: 250
-                  :scale: 40
-      
-               Since 2018, I am involved in the development of the C++ multi-architecture HPC LBM_Saclay code for which I am the supervisor. The source code can be found on the :bdg-link-info:`Codev-Tuleap repository <https://codev-tuleap.cea.fr/projects/lbmsaclay/>`. LBM_Saclay has evolved from the fortran code SILABE3D and can run on several architectures (CPU and GPU) e.g. Jean-Zay V100 (IDRIS) and Topaze A100 (CCRT). Several LBM schemes are implemented for simulating various phase-field models for Multiphase/Multicomponent (MPMC) flows with phase change (Watch :bdg-ref-danger:`videos of simulations <Areas of modeling>`). 
-      
-            .. grid-item-card::
-               :columns: 6
+            In the CEA projects to which I contribute (see "Applications"), after discussion with the experimental scientists who are involved in the same project, my approach is divided into three main stages described below. More details can be found in :bdg-ref-black-line:`Skills-and-Areas`
 
-               .. figure:: ./source/FIGS/Logo-Workforce_LBM_Saclay.png
-                  :class: align-left
-                  :height: 260
-                  :width: 260
-                  :scale: 40
-               
-               I participate in writing the documentation of LBM_Saclay (see :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>`) [R18]_, and specifications for code maintenance [r6]_. The code is mainly applied for R&D purposes, I facilitate the meetings of LBM_Saclay team for coordination. It is also used in the 16h training session on «An introduction of Lattice Boltzmann Methods» in the doctoral school SMEMaG (public: PhD students). It is also used to practice "phase-field models" taught at CEA--INSTN (engineers) and Sorbonne University (M2 students). 
+            .. grid:: 2
+               :gutter: 4
+               :margin: 0 0 0 0
 
-      .. tab-item:: My approach in CEA projects
+               .. grid-item-card::
+                  :columns: 6
 
-         In the CEA projects to which I contribute (see :bdg-ref-black-line:`Involvement-CEA-Projects`), after discussion with the experimental scientists who are involved in the same project, my approach is divided into three main stages described below. More details are given in :bdg-ref-black-line:`Skills-and-Areas`.
+                  1) **Derivation of Partial Derivative Equations** (PDEs) for the target application. Since 2012, their derivation is based on the :bdg-link-primary:`phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>` which combines rigorously the interface-capturing with the thermodynamic of the system.
+                  2) **Writing the numerical schemes of those PDEs**. Since 2009 [R8]_, the derivation of numerical schemes are based on the :bdg-link-primary:`Lattice Boltzmann Methods <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`. After **code implementation** in LBM_Saclay, **verifications** are performed with test cases.
+                  3) **Running HPC simulations** for diverse phenomenologies in «fluid dynamics and thermodynamics», «material science» (watch :bdg-ref-danger:`videos of simulations <Areas of modeling>`) and «transport in porous media». The whole approach is presented in :numref:`target-Fig-Approach`.
 
-         .. grid:: 2
-            :gutter: 4
-            :margin: 0 0 0 0
-
-            .. grid-item-card::
-               :columns: 6
-
-               1) **Derivation of Partial Derivative Equations** (PDEs) for the target application. Since 2012, their derivation is based on the *phase-field theory* which combines rigorously the interface-capturing with the thermodynamic of the system (see :bdg-link-primary:`Fundamentals of phase-field theory <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_PF/01_Fundamentals_PF.html>`).
-               2) **Writing the numerical schemes of those PDEs**. Since 2009 [R8]_, the derivation of numerical schemes are based on the *Lattice Boltzmann Methods* (LBM -- see :bdg-link-primary:`Overview of Lattice Boltzmann Methods <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/02_Overview_LBM.html>`). After **code implementation**, **verifications** are performed with academic test cases.
-               3) **Running HPC simulations** for diverse phenomenologies of «fluid dynamics and thermodynamics», «material science» and «flow & transport in porous media». My whole approach is summarized in :numref:`target-Fig-Approach`.
-
-            .. grid-item-card::
-               :columns: 6
+               .. grid-item::
+                  :columns: 6
          
-               .. _target-Fig-Approach:
+                  .. div:: sd-py-2
 
-               .. figure:: ./source/FIGS/Fig_MyApproach.png
-                  :name: Fig-MyApproach
-                  :figclass: align-center
-                  :align: center
-                  :height: 230
-                  :width: 450
-                  :scale: 100 %
+                  .. _target-Fig-Approach:
+               
+                  .. figure:: ./source/FIGS/Fig_MyApproach.png
+                     :name: Fig-MyApproach
+                     :height: 220
+                     :width: 450
+                     :scale: 100 %
       
-                  My approach in the CEA projects.
+                     My approach in the CEA projects.
 
-      .. tab-item:: Applications
-      
-         The applications depend on the projects that support my activities. They are classified into three main scales: kilometric-scale, metric-scale and below (millimetric and micrometric). For each scale, to carry out my simulations successfully, I spoke with specialist of hydrogeology, soil scientists, and physico-chemists of glass. Next, I bridged the gap with applied mathematics. My achievements are presented in :bdg-ref-black-line:`Involvement-CEA-Projects`.
-
-         .. tab-set::
-
-            .. tab-item:: :math:`km` scale
-
-               .. grid:: 2
-                  :gutter: 4
-                  :margin: 0 0 0 0
-
-                  .. grid-item-card::
-                     :columns: 6
-
-                     **2002--2005**: at the beginning of my career, I worked on methods of “inverse problems” in geoscience. First in the context of my PhD defended in 2002, and next in my activities for waste management in my laboratory in collaboration with ANDRA. An example of application of those methods is presented in :numref:`target-Fig-Cad`, for simulating the underground flow underneath the site of CEA/Cadarache. The issue was to know whether, in the event of an accident at an INB, a contaminant could pollute a source of drinking water outside the site.
-
-                  .. grid-item-card::
-                     :columns: 6
-
-                     .. _target-Fig-Cad:
+         .. tab-item:: Supervisor of LBM_Saclay code
    
-                     .. figure:: ./source/FIGS/Fig_CEA-Cad.png
-                        :name: Fig-CEA-Cad
-                        :figclass: align-center
-                        :align: center
-                        :height: 120
-                        :width: 450
-                        :scale: 100 %
+            Between 2008 and 2017, I developped the ``Fortran90`` code SILABE3D [H1]_ based on the Lattice Boltzmann Methods (LBM) and parallelized with ``MPI``. To be run on GPU architectures, the code has been rewritten in ``C++`` and coupled with the ``Kokkos`` library in 2018. The new code is called LBM_Saclay.
+
+            .. grid:: 2
+               :gutter: 4
+               :margin: 0 0 0 0
+
+               .. grid-item-card::
+                  :columns: 6
+
+                  .. figure:: ./source/FIGS/Logo_LBM_Saclay.png
+                     :class: align-left
+                     :height: 260
+                     :width: 250
+                     :scale: 40
       
-                        Finite element simulation of underground flow
+                  LBM_Saclay is a Computational Fluid Dynamics (CFD) code based on LBM. Its main purpose is to simulate Multi-Phase and Multi-Component flows with interface-capturing models derived from the phase-field theory. It can run on several HPC architectures and more specifically on GPU partitions (e.g. Jean-Zay and Topaze A100). The source code can be found on the :bdg-link-info:`Codev-Tuleap repository <https://codev-tuleap.cea.fr/projects/lbmsaclay/>`. Several LBM schemes are implemented for simulating various phenomena such as binary demixing, buyoancy and coalescence of bubbles, Rayleigh-Taylor instability, liquid-gas phase change, crystal growth, dissolution of porous media, etc.
+      
+               .. grid-item-card::
+                  :columns: 6
 
-            .. tab-item:: Metric scale
+                  .. figure:: ./source/FIGS/Logo-Workforce_LBM_Saclay.png
+                     :class: align-left
+                     :height: 260
+                     :width: 260
+                     :scale: 40
+               
+                  Besides to be involved in its developments, I participate in writing the :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>` [R18]_, and specifications for code maintenance. As code supervisor, I facilitate the regular meetings of permanent and non-permanent staff for coordination and for discussion of results. The code is also used for pedagogical purposes: 1) in the 16h training session to illustrate «An introduction of Lattice Boltzmann Methods» (public: PhD students of SMEMaG doctoral school); 2) to practice "phase-field models" taught at CEA--INSTN (engineers) and Sorbonne University (M2 students).
 
-               .. grid:: 2
-                  :gutter: 4
-                  :margin: 0 0 0 0
+         .. tab-item:: Applications
+      
+            The applications depend on the projects that support my activities (see the list in :bdg-ref-black-line:`Involvement-CEA-Projects`). For each scale below, to carry out my simulations successfully, I spoke with specialist of hydrogeology, soil scientists, and physico-chemists of glass.
 
-                  .. grid-item-card::
-                     :columns: 6
+            .. tab-set::
 
-                     **2004--2013**: I worked on tranfer in unsaturated porous media in the context of project “Maîtrise des risques et Impacts sur l'environnement” (MRISQ). For that purpose, I worked on a well instrumented column device at DRMP (:numref:`target-Fig-Anomalous`) for validating original mathematical models based on fractional equations. That topic has lead to an ANR project called TRAM (for “transport anormal en milieu poreux”) in collaboration with IFPEN and the university of Avignon.
+               .. tab-item:: :math:`km` scale
 
-                  .. grid-item-card::
-                     :columns: 6
+                  .. grid:: 2
+                     :gutter: 4
+                     :margin: 0 0 0 0
 
-                     .. container:: sphinx-features
+                     .. grid-item-card::
+                        :columns: 6
+
+                        **2002--2005**: at the beginning of my career, I worked on methods of **inverse problems** in geoscience. First in the context of my PhD defended in 2002, and next in my activities for waste management in my laboratory in collaboration with ANDRA. An example of application of those methods is presented in :numref:`target-Fig-Cad`, for simulating the underground flow underneath the site of CEA/Cadarache. The issue was to know whether, in the event of a potential accident inside an INB, a contaminant could pollute a source of drinking water outside the site.
+
+                     .. grid-item::
+                        :columns: 6
+
+                        .. div:: sd-py-2
+
+                        .. _target-Fig-Cad:
    
-                        .. _target-Fig-Anomalous:
-
-                        .. figure:: ./source/FIGS/Fig-Anomalous.png
-                           :name: Fig-CEA-Beeti
+                        .. figure:: ./source/FIGS/Fig_CEA-Cad.png
+                           :name: Fig-CEA-Cad
                            :figclass: align-center
                            :align: center
-                           :height: 140
+                           :height: 120
                            :width: 450
                            :scale: 100 %
+      
+                           Finite element simulation of underground flow
 
-                           Anomalous transport studied on BEETI device
-                     
+               .. tab-item:: Metric scale
 
-            .. tab-item:: :math:`mm` and :math:`\mu m` scales
+                  .. grid:: 2
+                     :gutter: 4
+                     :margin: 0 0 0 0
 
-               .. grid:: 2
-                  :gutter: 4
-                  :margin: 0 0 0 0
+                     .. grid-item-card::
+                        :columns: 6
 
-                  .. grid-item-card::
-                     :columns: 6
+                        **2004--2013**: I worked on modeling and simulations of transfer in unsaturated porous media. The context was the project “Maîtrise des risques et Impacts sur l'environnement”. For that purpose, I worked on a well instrumented column device, called BEETI, at DRMP (:numref:`target-Fig-Anomalous`) for validating original mathematical models based on **fractional equations**. That topic has lead to an ANR project called TRAM (for “TRansport Anormal en Milieu poreux”) in collaboration with IFPEN and the university of Avignon.
 
-                     **Since 2012**: I am interested in derivation and simulations of interface-capturing models for several phenomena observed in glass (see :numref:`target-Fig-Observation`). At this scale, the simulations help predicting the appearance conditions of a new phases which impact the physical properties of waste packages. At high temperature, the new phase is liquid ("demixing of immiscible fluids" or "spinodal decomposition"). At lower temperature, the new phase is solid("crystal growth"). Finally, at low temperature, the water can alter the surface of the package to create a gel ("maturation of gel"). The simulations bridge the gap between simulations of molecular dynamics performed at DPME and the homogeneized approaches at metric scale.
+                     .. grid-item::
+                        :columns: 6
 
-                  .. grid-item-card::
-                     :columns: 6
-
-                     .. _target-Fig-Observation:
+                        .. container:: sphinx-features
    
-                     .. figure:: ./source/FIGS/Fig_Observations.png
-                        :name: Fig-CEA-Mar
-                        :figclass: align-center
-                        :align: center
-                        :height: 200
-                        :width: 450
-                        :scale: 100 %
+                           .. div:: sd-py-2
+
+                           .. _target-Fig-Anomalous:
+
+                           .. figure:: ./source/FIGS/Fig-Anomalous.png
+                              :name: Fig-CEA-Beeti
+                              :figclass: align-center
+                              :align: center
+                              :height: 140
+                              :width: 450
+                              :scale: 100 %
+
+                              Study of anomalous transport on BEETI device
+                     
+               .. tab-item:: :math:`mm` and :math:`\mu m` scales
+
+                  .. grid:: 2
+                     :gutter: 4
+                     :margin: 0 0 0 0
+
+                     .. grid-item-card::
+                        :columns: 6
+
+                        **Since 2012**: I am involved in derivation and simulations of **interface-capturing models** for several phenomena observed in glass (see :numref:`target-Fig-Observation`). At this scale, the simulations predict the conditions of new phase appearance which impact the physical properties of waste packages. At high temperature, the new phase is liquid (“demixing of immiscible fluids” or “spinodal decomposition”). At lower temperature, the new phase is solid (“crystal growth”). At low temperature, the water can alter the surface of the package to create a gel (“maturation of gel”).
+
+                     .. grid-item::
+                        :columns: 6
+
+                        .. div:: sd-py-0
+
+                        .. _target-Fig-Observation:
+   
+                        .. figure:: ./source/FIGS/Fig_Observations.png
+                           :name: Fig-CEA-Mar
+                           :figclass: align-center
+                           :align: center
+                           :height: 160
+                           :width: 420
+                           :scale: 100 %
       
-                        Observations from CEA/Marcoule.
+                           Observations from CEA/Marcoule.
+
+.. grid:: 1
+   :margin: 0 0 2 1
+   :padding: 0 0 3 4
+
+   .. admonition:: All details in appendices
+      :class: error
+
+      .. grid:: 3
+         :gutter: 2
+         :margin: 0 0 0 0
+
+         .. grid-item::
+            :columns: 4
+
+            .. toctree::
+               :maxdepth: 1
+
+               ./source/Skills.rst
+               ./source/List-Of-Publications.rst
+
+         .. grid-item::
+            :columns: 3
+
+            .. toctree::
+               :maxdepth: 1
+
+               ./source/Supervisor-Of-Students.rst
+               ./source/Miscellaneous.rst
+
+         .. grid-item::
+            :columns: 4
+
+            .. toctree::
+               :maxdepth: 1
+
+               ./source/Involvement-DOB.rst
 
 
-***********************
-**Further Information**
-***********************
-
-
-.. grid:: 3
-   :gutter: 4
-
-   .. grid-item::
-      :columns: 4
-
-      .. admonition:: Main research at SFME (2002--2011)
-         :class: note
-
-         Inverse problems for parameters identification, approach with adjoint state method and optimization :math:`\bullet` Simulation of fractional equation for anomalous transport (non Fickian) in porous media :math:`\bullet` First LBM implementation and simulations. |br|
-
-   .. grid-item::
-      :columns: 4
-
-      .. admonition:: CEA/DES projects
-         :class: note
-      
-         .. container:: sphinx-features
-
-            **Dates** |br|
-            **2010–now** |br|
-            **2016–now** |br|
-            **2019–2020** |br|
-            **2021–now** |br|
-
-            **Programme** |br|
-            SIMU |br|
-            SIMU |br|
-            SIMU |br|
-            CyN |br|
-
-            **Project** |br|
-            SIVIT |br|
-            SITHY |br|
-            PICI2 |br|
-            VESTA |br|
-
-   .. grid-item::
-      :columns: 4
-
-      .. admonition:: Member of CEA/:bdg-link-success:`DM2S <https://i2i-dm2s.intra.cea.fr/SitePages/Accueil.aspx>` laboratories
-         :class: note
-
-         .. container:: sphinx-features
-
-            **Dates** |br|
-            **2014--now** |br|
-            **2011–2014** |br|
-            **2007–2011** |br|
-            **2002–2007** |br|
-
-            **Laboratory** |br|
-            LMSF/LDEL |br|
-            LATF |br|
-            LSET |br|
-            MTMS |br|
-
-            **Service** |br|
-            :bdg-link-success:`STMF <https://www.pluginlabs-universiteparissaclay.fr/fiche/service-de-thermo-hydraulique-et-de-mecanique-des-fluides-stmf/>` |br|
-            STMF |br|
-            SFME |br|
-            SFME |br|

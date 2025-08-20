@@ -12,7 +12,7 @@ PhD young researchers (|nb-PhD| = |nb-defended| defended + |nb-progress| in prog
 
    .. tab-item:: Defended (|nb-defended|)
 
-      .. admonition:: 2021 – 2024: Téo Boutin (3,5 years at CEA – STMF/LMSF)
+      .. admonition:: 2021 – 2025: Téo Boutin (3,5 years at CEA – STMF/LMSF)
          :class: hint
 
          .. container:: twocol

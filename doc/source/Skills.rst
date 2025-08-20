@@ -126,12 +126,10 @@ Areas of modeling and simulations
 
       .. container:: leftside
 
-         **Flow and Transport in (un)saturated porous media**: hydrogeology of CEA-Cadarache :numref:`target-Fig-Cad` – watershed scale) [T1]_ :math:`\bullet` Dual-porosity models (:numref:`Fig-BEETI-device` – column scale) [R7]_ :math:`\bullet` Effective diffusion (Pore-scale) [R10]_ :math:`\bullet` Darcy-Brinkman-Forchheimer model [R8]_ and equation of Richards :math:`\bullet` Hydrodynamic dispersion.
-
-         
+         **Flow and Transport in (un)saturated porous media**: hydrogeology of CEA-Cadarache :numref:`target-Fig-Cad` – watershed scale) [T1]_ :math:`\bullet` Dual-porosity models (:numref:`target-Fig-Anomalous` – column scale) [R7]_ :math:`\bullet` Effective diffusion (Pore-scale) [R10]_ :math:`\bullet` Darcy-Brinkman-Forchheimer model [R8]_ and equation of Richards :math:`\bullet` Hydrodynamic dispersion.
 
       .. container:: rightside
 
-         **Fractional Advection-Diffusion models**: LBM for fractional Eq. (PDEs with derivatives of real order in space) [P5]_ and time [P9]_ :math:`\bullet` Validations and comparisons with equivalent random walks. Inverse problem on fractional parameter.
+         **Fractional Advection-Diffusion models**: LBM for fractional Eq. (PDEs with derivatives of real order in space) [P5]_ and time [P9]_ :bdg-link-danger:`Gaussian vs fractional <file:../_static/Vid_FractionalLBM.webm>` :math:`\bullet` Validations and comparisons with equivalent random walks. Inverse problem on fractional parameter.
 
 
