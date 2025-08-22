@@ -132,16 +132,16 @@ Welcome to Alain CARTALADE's resume
                      CEA Expert |br|
                      CEA Engineer--Researcher |br|
 
-               .. grid-item-card:: Keywords of my expertise
+               .. grid-item-card:: My expertise: Phase-field models, Lattice Boltzmann and inverse problems
                   :columns: 8
 
                   .. container:: sphinx-features
                
-                     **Phase-fields models, Lattice Boltzmann and inverse problems** |br|
+                     **Keywords in the appointment letters** (translated titles) |br|
                      -- |br|
-                     Modèles à champ de phase simulés par LBM et modélisation multi-échelles |br|
-                     Modèles à champ de phase simulés par LBM et modélisation multi-échelles |br|
-                     Modélisation milieux poreux et problème inverse |br|
+                     Phase-field models simulated by LBM and multi-scale modeling |br|
+                     Mechanics, Thermics and thermal-hydraulics: multiphase fluid mechanics |br|
+                     Mechanics, Thermics and thermal-hydraulics: fluid dynamics |br|
                      -- |br|
 
                      **PDF** |br|
@@ -212,8 +212,8 @@ Welcome to Alain CARTALADE's resume
                      CEA/Cad & CNRS |br|
                      |br|
                      Univ Montpellier II |br|
-                     Univ Montpellier II |br|
-                     Univ Montpellier II |br|
+                     :gray:`Univ Montpellier II` |br|
+                     :gray:`Univ Montpellier II` |br|
 
          .. tab-item:: Additional training               
 
@@ -266,7 +266,7 @@ Welcome to Alain CARTALADE's resume
                      :bdg-link-warning:`Certificate <./_static/PDF_FILES/DEGREES-CERTIFICATES/2003_Certificate_FNB1_Cartalade.pdf>` |br|
                      |br|
 
-         .. tab-item:: Futher information
+         .. tab-item:: Further information
 
             .. grid:: 3
                :gutter: 4
@@ -294,8 +294,8 @@ Welcome to Alain CARTALADE's resume
                      SIVIT |br|
                      SITHY |br|
                      PICI2 |br|
-                     VESTA |br|
                      SIACY |br|
+                     VESTA |br|
 
                .. grid-item-card:: Main research at SFME (2002--2011)
                   :columns: 4
@@ -350,7 +350,7 @@ Skills & main research
       .. admonition:: Main research since 2010
          :class: hint
       
-         My work focuses on **Phase-field models** simulated by **Lattice Boltzmann Methods** (LBM) for **multiphase flows**.
+         My work focuses on modeling and simulations of **multi-phase** & **multi-component flows** with **phase change**.
 
    .. grid-item::
       :columns: 5
@@ -363,8 +363,8 @@ Skills & main research
          Facilitation of taskforce and training sessions |br|
          Supervisor of PhD fellows and internship students |br|
 
-Productivity & most representative achievements
------------------------------------------------
+Most representative achievements
+--------------------------------
 
 .. grid:: 3
    :gutter: 4
@@ -481,8 +481,8 @@ Interaction with other people
          .. container:: sphinx-features
 
             Current CEA/DES projects |br|
-            Former CEA/DES projects |br|
-            National Research Agency project (ANR)  :math:`\hspace{13mm}` |br|
+            Former CEA/DEN projects |br|
+            National Research Agency project (ANR) :math:`\hspace{13mm}` |br|
             CEA Transverse programme |br|
 
             |nb-DOB| |br|
@@ -501,7 +501,7 @@ Interaction with other people
    :margin: 0 0 2 1
    :padding: 0 0 3 4
 
-   .. admonition:: My contributions to CEA projects
+   .. admonition:: Period from 2002 to 2025
 
       .. tab-set::
 
@@ -537,7 +537,7 @@ Interaction with other people
 
          .. tab-item:: Supervisor of LBM_Saclay code
    
-            Between 2008 and 2017, I developped the ``Fortran90`` code SILABE3D [H1]_ based on the Lattice Boltzmann Methods (LBM) and parallelized with ``MPI``. To be run on GPU architectures, the code has been rewritten in ``C++`` and coupled with the ``Kokkos`` library in 2018. The new code is called LBM_Saclay.
+            Between 2008 and 2017, I developped the ``Fortran90`` code SILABE3D [T1]_ based on the Lattice Boltzmann Methods (LBM) and parallelized with ``MPI``. To be run on GPU architectures, the code was rewritten in ``C++`` and coupled with the ``Kokkos`` library in 2018. The new code is called LBM_Saclay.
 
             .. grid:: 2
                :gutter: 4
@@ -580,7 +580,7 @@ Interaction with other people
                      .. grid-item-card::
                         :columns: 6
 
-                        **2002--2005**: at the beginning of my career, I worked on methods of **inverse problems** in geoscience. First in the context of my PhD defended in 2002, and next in my activities for waste management in my laboratory in collaboration with ANDRA. An example of application of those methods is presented in :numref:`target-Fig-Cad`, for simulating the underground flow underneath the site of CEA/Cadarache. The issue was to know whether, in the event of a potential accident inside an INB, a contaminant could pollute a source of drinking water outside the site.
+                        **2002--2005**: at the beginning of my career, I worked on methods of **inverse problems** in geoscience. First in the context of my PhD defended in 2002, and next in my laboratory activities for waste management in collaboration with ANDRA. An example of application of those methods is presented in :numref:`target-Fig-Cad`, for simulating the underground flow underneath the site of CEA/Cadarache. The issue was to know whether, in the event of a potential accident inside an INB, a contaminant could pollute a source of drinking water outside the site. I developed an adjoint state approach in a finite element code.
 
                      .. grid-item::
                         :columns: 6
@@ -608,7 +608,7 @@ Interaction with other people
                      .. grid-item-card::
                         :columns: 6
 
-                        **2004--2013**: I worked on modeling and simulations of transfer in unsaturated porous media. The context was the project “Maîtrise des risques et Impacts sur l'environnement”. For that purpose, I worked on a well instrumented column device, called BEETI, at DRMP (:numref:`target-Fig-Anomalous`) for validating original mathematical models based on **fractional equations**. That topic has lead to an ANR project called TRAM (for “TRansport Anormal en Milieu poreux”) in collaboration with IFPEN and the university of Avignon.
+                        **2004--2013**: I worked on modeling and simulations of transfer in unsaturated porous media. The context was the project “Maîtrise des risques et Impacts sur l'environnement”. For that purpose, I was involved in the calibration of a well instrumented column device, called BEETI, at DRMP (:numref:`target-Fig-Anomalous`). The experimental data were used to validate original mathematical models based on **continuous-time random walks** and **fractional equations**. That topic has lead to an ANR project called TRAM (for “TRansport Anormal en Milieu poreux”) in collaboration with IFPEN and the university of Avignon.
 
                      .. grid-item::
                         :columns: 6
@@ -638,7 +638,7 @@ Interaction with other people
                      .. grid-item-card::
                         :columns: 6
 
-                        **Since 2012**: I am involved in derivation and simulations of **interface-capturing models** for several phenomena observed in glass (see :numref:`target-Fig-Observation`). At this scale, the simulations predict the conditions of new phase appearance which impact the physical properties of waste packages. At high temperature, the new phase is liquid (“demixing of immiscible fluids” or “spinodal decomposition”). At lower temperature, the new phase is solid (“crystal growth”). At low temperature, the water can alter the surface of the package to create a gel (“maturation of gel”).
+                        **Since 2012**: I am involved in derivation and simulations of **interface-capturing models** for several phenomena observed in glass (see :numref:`target-Fig-Observation`). At this scale, the simulations predict the conditions of new phase appearance which impact the physical properties of waste packages. At high temperature (SIVIT project), the new phase is liquid (“demixing of immiscible fluids” or “spinodal decomposition”). At lower temperature, the new phase is solid (“crystal growth”). At low temperature (VESTA project), the water can alter the surface of the package to create a gel (“maturation of gel”).
 
                      .. grid-item::
                         :columns: 6
@@ -657,6 +657,7 @@ Interaction with other people
       
                            Observations from CEA/Marcoule.
 
+         
 .. grid:: 1
    :margin: 0 0 2 1
    :padding: 0 0 3 4

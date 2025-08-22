@@ -4,6 +4,8 @@
 
 .. role:: white
 
+.. role:: gray
+
 .. role:: boldred
 
 .. role:: romanwhite
