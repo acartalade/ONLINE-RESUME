@@ -688,11 +688,11 @@ Details
 
          
 **********************************
-**Curriculum vitae (PDF version)**
+**Curriculum Vitae (PDF version)**
 **********************************
 
 .. admonition:: PDF version
    :class: important
 
-   Click on the link :bdg-link-warning:`PDF version <./_static/PDF_FILES/RESUME/Cartalade_CV_Full_2025.pdf>` to download one PDF version of my resume.
+   Click on the link :bdg-link-warning:`CV PDF <./_static/PDF_FILES/RESUME/Cartalade_CV_Full_2025.pdf>` to download one PDF version of my resume.
 
