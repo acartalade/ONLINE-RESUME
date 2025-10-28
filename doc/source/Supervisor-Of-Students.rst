@@ -12,6 +12,23 @@ PhD young researchers (|nb-PhD| = |nb-defended| defended + |nb-progress| in prog
 
    .. tab-item:: Defended (|nb-defended|)
 
+      .. admonition:: 2022 – 2025: Capucine Méjanès (3 years at CEA – STMF/LDEL)
+         :class: hint
+
+         .. container:: twocol
+
+            .. container:: leftside
+      
+               **PhD co-director** of Capucine Méjanès (profile: fundamental physics/hydrodynamics, Master Fluid Dynamics and energetics, Paris-Saclay) affiliated at CEA/STMF/LDEL for her PhD thesis on «Phase-field model coupled with hydrodynamics». Doctoral school: SMEMaG. Co-director Mathis Plapp (CNRS/Polytechnique). Starting date: October 24th, 2022.
+
+            .. container:: rightside
+
+               **Achievements** |br|
+               • PhD defence: December 8th, 2025 |br|
+               • Several presentations at SIVIT project |br|
+               • Publication in progress; 1 technical report |br|
+               • Presentations at GdR Transinter (2024) & conference ICMF (2025) |br|
+               
       .. admonition:: 2021 – 2025: Téo Boutin (3,5 years at CEA – STMF/LMSF)
          :class: hint
 
@@ -24,9 +41,11 @@ PhD young researchers (|nb-PhD| = |nb-defended| defended + |nb-progress| in prog
             .. container:: rightside
 
                **Achievements** |br|
-               • PhD defense 28th April 2025 |br|
+               • PhD defence: April 28th, 2025 |br|
+               • Several presentations at VESTA project |br|
                • Publications [P12]_; 1 CEA Technical report. |br|
-               • Presentation at conference "Phase-Field Method"
+               • Presentation at conference "Phase-Field Method" (2024) |br|
+               
 
       .. admonition:: 2019 – 2022: Werner Verdier (3 years at CEA – STMF/LMSF)
          :class: hint
@@ -40,7 +59,7 @@ PhD young researchers (|nb-PhD| = |nb-defended| defended + |nb-progress| in prog
             .. container:: rightside
 
                **Achievements** |br|
-               • PhD defense 12th December 2022 |br|
+               • PhD defence: December 12th, 2022 |br|
                • Publications [P11]_, [P12]_, [P13]_; 1 CEA Technical report. |br|
                • Several presentations in the SIVIT project. |br|
                • Presentation at CALPHAD international conference, 2022. |br|
@@ -57,7 +76,7 @@ PhD young researchers (|nb-PhD| = |nb-defended| defended + |nb-progress| in prog
             .. container:: rightside
 
                **Achievements** |br|
-               • PhD defense October 2015 |br|
+               • PhD defence: October 22nd, 2015 |br|
                • Publications [P10]_, [P9]_, [P8]_ |br|
                • Proceeding [p5]_ and CEA Reports [R13]_ [R14]_ |br|
                • Best poster award \ref{PFM2014} at the «3rd International Symposium on Phase-Field Method 2014». |br|
@@ -74,7 +93,7 @@ PhD young researchers (|nb-PhD| = |nb-defended| defended + |nb-progress| in prog
                .. container:: rightside
 
                   **Achievements** |br|
-                  • PhD defense November 2008 |br|
+                  • PhD defence: November 27th, 2008 |br|
                   • Proceedings: with peer-review [p2]_, without [proc]_. |br|
                   • CEA reports: [R5]_, [R6]_, [R7]_. |br|
 
@@ -106,19 +125,7 @@ PhD young researchers (|nb-PhD| = |nb-defended| defended + |nb-progress| in prog
 
                Starting date: October 18th, 2023. |br|
 
-      .. admonition:: 2022 – 2025: Capucine Méjanès (CEA – STMF/LMSF)
-         :class: note
-
-         .. container:: twocol
-
-            .. container:: leftside
       
-               **PhD co-director** of Capucine Méjanès (profile: fundamental physics/hydrodynamics, Master Fluid Dynamics and energetics, Paris-Saclay) affiliated at CEA/STMF/LMSF for her PhD thesis on «Phase-field model coupled with hydrodynamics». Doctoral school: SMEMaG. Co-director Mathis Plapp (CNRS/Polytechnique).
-
-            .. container:: rightside
-
-               Starting date: October 24th, 2022.
-
 Post-doctoral young researchers (|nb-post-doc|)
 -----------------------------------------------
 

@@ -75,19 +75,22 @@ Jury & committee member of PhD thesis
          .. container:: sphinx-features
 
             **Dates** |br|
-            **2025** Dec 13th |br|
+            **2025** Dec 9th |br|
+            **2025** Nov 27th |br|
             **2023** Nov 13th |br|
             **2017** Nov 7th |br|
 
             **Role** |br|
-            Reviewer of A. Bounjad PhD defense at Polytechnique |br|
-            Examiner of M.-A. Rasolofomanana PhD defense at CEA/Cadarache |br|
-            Examiner of G. Barba Rossa PhD defense at CEA/Marcoule |br|
+            Reviewer of A. Bounjad PhD defence at Polytechnique |br|
+            Examiner of Théo Coiffard PhD defence at La Rochelle Univ |br|
+            Examiner of M.-A. Rasolofomanana PhD defence at CEA/Cadarache |br|
+            Examiner of Guillaume Barba Rossa PhD defence at CEA/Marcoule |br|
 
             **Thesis direction** |br|
             Hervé Henry (CNRS/PMC -- Polytechnique) |br|
+            Catherine Choquet (Univ La Rochelle) |br|
             R. Le Tellier (CEA/Cad) and H. Henry |br|
-            A. Gagnoud (CNRS) and E. Sauvage (CEA) |br|
+            A. Gagnoud (CNRS) and E. Sauvage (CEA/Mar) |br|
          
    .. tab-item:: As CSI member
 
@@ -127,8 +130,10 @@ Jury & committee member of PhD thesis
                .. container:: sphinx-features
 
                   **2025** |br|
+                  **2025** |br|
                   **2022** |br|
 
+                  Jury member of **Capucine Méjanès** as co-director |br|
                   Jury member of **Téo Boutin** as Director |br|
                   Jury member of **Werner Verdier** as co-director |br|
 
@@ -143,8 +148,8 @@ Jury & committee member of PhD thesis
                   Jury member of **Sébastien Cadalen** as supervisor |br|
 
     
-Keynote speaker & Taskforce management
---------------------------------------
+Keynote speaker & Workpackage management
+----------------------------------------
 
 .. admonition:: Keynote speaker
 
@@ -155,6 +160,16 @@ Keynote speaker & Taskforce management
       Keynote speaker at «SumGlass 2023» summer school. Title «Modeling phase separation in the melt: thermodynamics, fluid flow |br|
       and HPC simulations» [O13]_. Duration of the presentation 30min. Musée de la Romanité, Nîmes September 27th, 2023. |br|
 
+.. admonition:: Workpackage management in CEA/DES projects
+
+   .. container:: sphinx-features
+
+      **2010--now** |br|
+      **2022--now** |br|
+   
+      Workpackage management of simulation in SIVIT project |br|
+      Workpackage management of mesoscopic simulation in VESTA project |br|
+      
 
 Organization and facilitation of workshops and conferences
 ----------------------------------------------------------
@@ -169,7 +184,7 @@ Organization and facilitation of workshops and conferences
       **2015** |br|
       **2023** |br|
 
-      Main organizer of «CEA Workshop on Porous Media» at CEA/Saclay. More than 70 people in 2007. |br|
+      Main organizer of «CEA Workshop on Porous Media» at CEA/Saclay in 2006, 2007 and 2008. More than 70 people in 2007. |br|
       Member of organizing committee of 9th «Journée d'Etude des Milieux Poreux» (21-22 october 2009) at Paris-Sud Univ (FAST main organizer). |br|
       Chairman of one session of PhD thesis presentations. Organization J. Segré (CEA-DM2S). INSTN, France. |br|
       Co-chairman of the third session of PhD presentations. Organization S. Gossé (CEA-ISAS). Paris-Saclay, France. |br|

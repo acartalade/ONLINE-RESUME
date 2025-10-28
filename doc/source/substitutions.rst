@@ -28,10 +28,11 @@
 
 .. |nb-interns| replace:: **32**
 
-.. |nb-defended| replace:: **4**
+.. |nb-defended| replace:: **5**
 
-.. |nb-progress| replace:: **3**
+.. |nb-progress| replace:: **2**
 
+.. |nb-PhD-CSI| replace:: **7**
 
 .. Nb OF PUBLICATIONS
 

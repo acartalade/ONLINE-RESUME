@@ -54,26 +54,9 @@ Welcome to Alain CARTALADE's resume
 
 .. div:: sd-py-2
 
-.. container:: sphinx-features
+.. grid:: 3
 
-   :math:`\hspace{1.2cm}`
-
-   .. admonition:: |space|
-      :class: bigtitle
-
-      .. container:: sphinx-features
-
-         :math:`\hspace{5mm}`
-         
-         .. math::
-
-            \LARGE{\textcolor{white}{\text{Physicist «Theory, computational physics and HPC simulations»}}}
-
-         :math:`\hspace{5mm}`
-
-.. .. grid:: 3
-
-..   .. grid-item::
+   .. grid-item::
       :columns: 1
 
       |br|
@@ -84,15 +67,17 @@ Welcome to Alain CARTALADE's resume
       .. admonition:: |space|
          :class: bigtitle
 
-         .. div:: sd-text-center
+         .. math::
 
-            .. div:: sd-fs-4
+            \LARGE{\textcolor{white}{\text{Mathematical Physicist}}}
 
-               :romanwhite:`Physicist «Theory, computational physics and HPC simulations»`
+         .. math::
+
+            \Large{\textcolor{white}{\text{«Theory, computational physics and HPC simulations»}}}
 
    .. grid-item::
       :columns: 1
-      
+
       |br|
 
 **************************
@@ -142,7 +127,7 @@ Welcome to Alain CARTALADE's resume
                      Phase-field models simulated by LBM and multi-scale modeling |br|
                      Mechanics, Thermics and thermal-hydraulics: multiphase fluid mechanics |br|
                      Mechanics, Thermics and thermal-hydraulics: fluid dynamics |br|
-                     -- |br|
+                     CEA/Saclay -- Service of Thermal-hydraulics and fluid mechanics |br|
 
                      **PDF** |br|
                      :bdg-link-warning:`NIG 757 <./_static/PDF_FILES/DEGREES-CERTIFICATES/2024_DR_CARTALADE_Alain_ISAS_DM2S.pdf>` |br|
@@ -279,7 +264,7 @@ Welcome to Alain CARTALADE's resume
                      **Dates** |br|
                      **2010–now** |br|
                      **2016–now** |br|
-                     **2019–2020** |br|
+                     **2019–now** |br|
                      **2021–now** |br|
                      **2024--now** |br|
 
@@ -287,15 +272,15 @@ Welcome to Alain CARTALADE's resume
                      SIMU |br|
                      SIMU |br|
                      SIMU |br|
-                     SIMU |br|
                      CyN |br|
+                     SIMU |br|
 
                      **Project** |br|
                      SIVIT |br|
                      SITHY |br|
                      PICI2 |br|
-                     SIACY |br|
                      VESTA |br|
+                     SIACY |br|
 
                .. grid-item-card:: Main research at SFME (2002--2011)
                   :columns: 4
@@ -339,10 +324,10 @@ Skills & main research
       .. admonition:: :bdg-ref-light-line:`Skills-and-Areas`
          :class: hint
       
-         :ref:`Math-Num-Methods` |br|
-         Computational Fluid dynamics |br|
-         Materials science and thermodynamics |br|
-         Flow and transport in porous media |br|
+         - :ref:`Math-Num-Methods` |br|
+         - Computational Fluid dynamics |br|
+         - Materials science and thermodynamics |br|
+         - Flow and transport in porous media |br|
    
    .. grid-item::
       :columns: 3
@@ -350,7 +335,11 @@ Skills & main research
       .. admonition:: Main research since 2010
          :class: hint
       
-         My work focuses on modeling and simulations of **multi-phase** & **multi-component flows** with **phase change**.
+         Modeling and simulations of
+         
+         - multi-phase flows
+         - multi-component flows
+         - with phase change
 
    .. grid-item::
       :columns: 5
@@ -358,10 +347,10 @@ Skills & main research
       .. admonition:: Supervisor of LBM_Saclay code
          :class: hint
       
-         C++ programming & validation of LBM and :math:`\varphi`-models |br|
-         Writing :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>` and specifications |br|
-         Facilitation of taskforce and training sessions |br|
-         Supervisor of PhD fellows and internship students |br|
+         - C++ programming & validation of LBM and :math:`\varphi`-models |br|
+         - Writing :bdg-link-primary:`LBM_Saclay's documentation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/index.html>` and specifications |br|
+         - Facilitation of taskforce and training sessions |br|
+         - Supervisor of PhD fellows and internship students |br|
 
 Most representative achievements
 --------------------------------
@@ -450,7 +439,7 @@ Interaction with other people
             Keynote speaker |br|
 
             |br|
-            **6** |br|
+            |nb-PhD-CSI| |br|
             **6** |br|
             **1** |br|
 
@@ -483,12 +472,52 @@ Interaction with other people
             Current CEA/DES projects |br|
             Former CEA/DEN projects |br|
             National Research Agency project (ANR) :math:`\hspace{13mm}` |br|
-            CEA Transverse programme |br|
+            CEA Transverse programme (PTC) |br|
 
             |nb-DOB| |br|
             |nb-DOB-over| |br|
             |nb-ANR| |br|
             |nb-PTC| |br|
+
+Details
+-------
+
+.. grid:: 1
+   :margin: 0 0 2 1
+   :padding: 0 0 3 4
+
+   .. admonition:: All details in appendices
+      :class: error
+
+      .. grid:: 3
+         :gutter: 2
+         :margin: 0 0 0 0
+
+         .. grid-item::
+            :columns: 4
+
+            .. toctree::
+               :maxdepth: 1
+
+               ./source/Skills.rst
+               ./source/List-Of-Publications.rst
+
+         .. grid-item::
+            :columns: 3
+
+            .. toctree::
+               :maxdepth: 1
+
+               ./source/Supervisor-Of-Students.rst
+               ./source/Miscellaneous.rst
+
+         .. grid-item::
+            :columns: 4
+
+            .. toctree::
+               :maxdepth: 1
+
+               ./source/Involvement-DOB.rst
 
 
 ************************************
@@ -658,41 +687,12 @@ Interaction with other people
                            Observations from CEA/Marcoule.
 
          
-.. grid:: 1
-   :margin: 0 0 2 1
-   :padding: 0 0 3 4
+**********************************
+**Curriculum vitae (PDF version)**
+**********************************
 
-   .. admonition:: All details in appendices
-      :class: error
+.. admonition:: PDF version
+   :class: important
 
-      .. grid:: 3
-         :gutter: 2
-         :margin: 0 0 0 0
-
-         .. grid-item::
-            :columns: 4
-
-            .. toctree::
-               :maxdepth: 1
-
-               ./source/Skills.rst
-               ./source/List-Of-Publications.rst
-
-         .. grid-item::
-            :columns: 3
-
-            .. toctree::
-               :maxdepth: 1
-
-               ./source/Supervisor-Of-Students.rst
-               ./source/Miscellaneous.rst
-
-         .. grid-item::
-            :columns: 4
-
-            .. toctree::
-               :maxdepth: 1
-
-               ./source/Involvement-DOB.rst
-
+   Click on the link :bdg-link-warning:`PDF version <./_static/PDF_FILES/RESUME/Cartalade_CV_Full_2025.pdf>` to download one PDF version of my resume.
 

@@ -54,7 +54,7 @@ Mathematical and numerical methods
    
       .. container:: rightside
 
-         **Inverse problems**: adjoint state method and optimization in order to identify PDEs parameters :math:`\bullet` derivation of adjoint problems in continuous and discrete forms :math:`\bullet` Fortran implementation in a 2D finite element code [T1]_ and a finite difference code [R1]_ & [R2]_ :math:`\bullet` Coupling with optimization algorithms e.g. with Hessian approximation such as BFGS with bound constraints :math:`\bullet` Application for fractional equations [P5]_ & [P9]_.
+         **Inverse problems**: adjoint state method and optimization for identification of PDEs parameters :math:`\bullet` derivation of adjoint problems in continuous and discrete forms :math:`\bullet` Fortran implementation in a 2D finite element code [T1]_ and a finite difference code [R1]_ & [R2]_ :math:`\bullet` Coupling with optimization algorithms e.g. with Hessian approximation such as BFGS with bound constraints :math:`\bullet` Application for fractional equations [P5]_ & [P9]_.
 
 .. admonition:: High Performance Computing & Informatics
 

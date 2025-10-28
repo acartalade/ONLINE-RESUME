@@ -225,7 +225,7 @@ Details of my involvement in CEA projects
       
                   **Achievements** |br|
                   |br|
-                  PhD defense |br|
+                  PhD defence |br|
                   [P13]_ |br|
                   [O12]_ |br|
                   |br|
