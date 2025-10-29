@@ -33,24 +33,24 @@ Welcome to Alain CARTALADE's resume
       |br|
       Affiliation |br|
       Address     |br|
-      |br|
       email       |br|
       Phone       |br|
       Date of birth |br|
       Web page    |br|
       CEA/Saclay  |br|
       Last update |br|
+      CV PDF |br|
 
       |br|
       : CEA -- Saclay, ISAS/DM2S/STMF/LDEL |br|
       : 91191 Gif-sur-Yvette cedex |br|
-      : Building 451, room 5 |br|
       : alain.cartalade@cea.fr |br|
       : +33 (0)1 69 08 40 67 |br|
       : November 8th, 1974 (50 years) |br|
       : :bdg-link-success:`ResearchGate <https://www.researchgate.net/profile/Alain-Cartalade>` |br|
       : since 22 May 2002 |br|
-      : |today|
+      : |today| |br|
+      : :bdg-link-warning:`PDF VERSION <./_static/PDF_FILES/RESUME/Cartalade_CV_Full_2025.pdf>`
 
 .. div:: sd-py-2
 
@@ -685,14 +685,4 @@ Details
                            :scale: 100 %
       
                            Observations from CEA/Marcoule.
-
-         
-**********************************
-**Curriculum Vitae (PDF version)**
-**********************************
-
-.. admonition:: PDF version
-   :class: important
-
-   Click on the link :bdg-link-warning:`CV PDF <./_static/PDF_FILES/RESUME/Cartalade_CV_Full_2025.pdf>` to download one PDF version of my resume.
 
