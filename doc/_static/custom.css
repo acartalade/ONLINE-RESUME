@@ -45,7 +45,7 @@ div.bodywrapper {
 }
 
 div.body {
-    margin-left: calc(((80vw - 1000px) / 2));
+    margin-left: calc(((66vw - 900px) / 2));
     padding: 0.5em 20px 20px 20px;
 }
 div.bodywrapper {
@@ -623,6 +623,10 @@ div.sphinx-feature>p.admonition-title::before {
     color: red;
 }
 
+.gray {
+    color: gray;
+}
+
 .boldred{
     font-weight: bold;
     color: red;
@@ -633,10 +637,14 @@ div.sphinx-feature>p.admonition-title::before {
     color: white;
 }
 
-.visit{
+.mediumbold{
     font-size: medium;
     font-weight: bold;
     text-align: center;
     justify-content: center;
+}
+
+.mediumsize{
+    font-size: medium;
 }
 /* -- end ------------------------------------------------------------------- */
