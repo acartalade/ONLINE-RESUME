@@ -311,8 +311,9 @@ Welcome to Alain CARTALADE's resume
 **Showcase of my expertise & research activities**
 **************************************************
 
-Skills & main research
-----------------------
+.. .. div:: sd-text-center
+
+:mediumbold:`Skills & main research`
 
 .. grid:: 3
    :gutter: 4
@@ -352,8 +353,9 @@ Skills & main research
          - Facilitation of taskforce and training sessions |br|
          - Supervisor of PhD fellows and internship students |br|
 
-Most representative achievements
---------------------------------
+.. .. div:: sd-text-center
+
+:mediumbold:`Most representative achievements`
 
 .. grid:: 3
    :gutter: 4
@@ -418,8 +420,9 @@ Most representative achievements
             [P11]_ |br|
             [P12]_ |br|
 
-Interaction with other people
------------------------------
+.. .. div:: sd-text-center
+
+:mediumbold:`Interaction with other people`
 
 .. grid:: 3
    :gutter: 4
@@ -479,14 +482,15 @@ Interaction with other people
             |nb-ANR| |br|
             |nb-PTC| |br|
 
-Details
--------
+.. .. div:: sd-text-center
+
+:mediumbold:`All details in appendices`
 
 .. grid:: 1
    :margin: 0 0 2 1
    :padding: 0 0 3 4
 
-   .. admonition:: All details in appendices
+   .. admonition:: List of appendices
       :class: error
 
       .. grid:: 3
