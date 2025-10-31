@@ -422,7 +422,7 @@ Welcome to Alain CARTALADE's resume
 
 .. .. div:: sd-text-center
 
-:mediumbold:`Interaction with other people`
+:mediumbold:`Interaction and collaboration with other people`
 
 .. grid:: 3
    :gutter: 4
