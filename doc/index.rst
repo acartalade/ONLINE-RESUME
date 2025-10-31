@@ -69,7 +69,7 @@ Welcome to Alain CARTALADE's resume
 
          .. math::
 
-            \LARGE{\textcolor{white}{\text{Mathematical Physicist}}}
+            \LARGE{\textcolor{white}{\text{Numerical Physicist}}}
 
          .. math::
 
