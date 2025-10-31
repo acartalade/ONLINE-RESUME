@@ -1,0 +1,55 @@
+{
+    "GLOBAL_OPTIONS": {
+        "verbose": false,
+        "site_url": "http://127.0.0.1:8000",
+        "debug": false,
+        "debug_target": null,
+        "author": "Alain Cartalade",
+        "author_logo": null,
+        "copyright": "2025, Alain Cartalade",
+        "disclaimer": null,
+        "cover": true,
+        "cover_title": "Alain Cartalade's resume",
+        "cover_subtitle": null,
+        "custom_template_path": "_templates",
+        "theme_handler_path": null,
+        "plugin_handler_path": null,
+        "custom_css_path": null,
+        "toc": true,
+        "toc_numbering": true,
+        "toc_title": "Table of Contents",
+        "toc_level": 4,
+        "cover_images": null,
+        "theme_name": "bizstyle",
+        "templates_path": [
+            "_templates"
+        ]
+    },
+    "LOCAL_OPTIONS": {
+        "another-feature": {
+            "wordcount": {
+                "words": 109,
+                "minutes": 1
+            }
+        },
+        "index": {},
+        "some-feature": {
+            "wordcount": {
+                "words": 21,
+                "minutes": 0
+            }
+        },
+        "source/Involvement-DOB": {},
+        "source/List-Of-Publications": {},
+        "source/Miscellaneous": {},
+        "source/Skills": {},
+        "source/Supervisor-Of-Students": {},
+        "source/substitutions": {},
+        "genindex": {
+            "pdf-build": "False"
+        },
+        "search": {
+            "pdf-build": "False"
+        }
+    }
+}

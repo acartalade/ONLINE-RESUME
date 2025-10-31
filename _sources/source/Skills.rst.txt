@@ -1,0 +1,135 @@
+.. include:: ./substitutions.rst
+
+.. _Skills-and-Areas:
+
+Skills and areas of modeling
+============================
+
+.. _Math-Num-Methods:
+
+Mathematical and numerical methods 
+----------------------------------
+
+.. admonition:: Phase-field modeling and Lattice Boltzmann Methods
+
+   .. container:: twocol
+
+      .. container:: leftside
+
+         **Phase-field theory**: Variational calculus for minimization of energy functional with Lagrange multiplier :math:`\bullet` Derivation of interface-capturing models with their constitutive laws (see [L1]_) :math:`\bullet` Various applications such as two-phase flows (see e.g. :bdg-link-primary:`Navier-Stokes/conservative Allen-Cahn model  <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/02_MODELS/01_Fluid_Fluid/Model_NSAC_Comp.html>` for immiscible two-phase flow) with or without phase change, crystal growth, dissolution of porous media and surfactant, Ostwald ripening :math:`\bullet` Asymptotic expansions between sharp interface and diffuse interface [P12]_ :math:`\bullet` Implementation in LBM_Saclay, verifications with Stefan's problem & benchmarks. 
+
+      .. container:: rightside
+
+         **Lattice Boltzmann Methods**: derivation and implementation of numerical schemes for various PDEs (Navier-Stokes, Advection-diffusion, fractional Equations [O8]_, phase-field models, ...): modifications of :bdg-link-primary:`Equilibrium distribution function <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/03_LBM_Schemes/A_Basic-LBM/03_Equilibrium-Functions_LBMSaclay.html>` :math:`\bullet` :bdg-link-primary:`Chapman-Enskog expansion <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/05_COURSES/Course_LBM/05_Chapman-Enskog.html>` [P7]_ :math:`\bullet` Practice of BGK, TRT and MRT [P10]_ collision operators :math:`\bullet` Modification of the streaming stage with the Lax-Wendroff scheme :math:`\bullet` Adaptative Mesh Refinement with LBM :math:`\bullet` Programmer of a 3D LBM Fortran code SILABE3D [H1]_ (2009–2018) :math:`\bullet` Involved in the development of the C++ multi-architecture HPC code LBM_Saclay  
+
+   |br|
+
+   .. grid:: 3
+      :margin: 0 2 0 0
+      
+      .. grid-item::
+         :columns: 1
+
+         |br|
+
+      .. grid-item-card::
+         :columns: auto
+
+         .. div:: sd-text-center
+
+            The PDEs, derived from the phase-field theory and combined with LBM, are implemented in the LBM_Saclay code
+
+      .. grid-item::
+         :columns: 1
+         
+         |br|
+
+.. admonition:: Other mathematical methods
+
+   .. container:: twocol
+
+      .. container:: leftside
+
+         **Direct problems**: implementation and practice of finite difference method [R1]_ & [R2]_ and finite element methods [T1]_ with a direct solver :math:`\bullet` Euler explicit & implicit time-schemes :math:`\bullet` Implementation of random walks and Continuous Time Random Walks. Volume Averaging Methods.
+   
+      .. container:: rightside
+
+         **Inverse problems**: adjoint state method and optimization for identification of PDEs parameters :math:`\bullet` derivation of adjoint problems in continuous and discrete forms :math:`\bullet` Fortran implementation in a 2D finite element code [T1]_ and a finite difference code [R1]_ & [R2]_ :math:`\bullet` Coupling with optimization algorithms e.g. with Hessian approximation such as BFGS with bound constraints :math:`\bullet` Application for fractional equations [P5]_ & [P9]_.
+
+.. admonition:: High Performance Computing & Informatics
+
+   .. container:: twocol
+      
+      .. container:: leftside
+
+         **Programming skills**: developer of SILABE3D (Fortran 77/90/2000) and LBM_Saclay (C++), ``makefile``, ``CMake`` :math:`\bullet` Version control system with ``git``, debugger :math:`\bullet` architecture portability with ``Kokkos`` :math:`\bullet` Coupling with math librairies (lapack, slatec, numerical recipes).
+
+         **Post-processing**:  ``paraview``, ``gnuplot``,  ``python``.
+
+         **Writing documentation** with ``Sphinx`` and ``reStructuredText`` (``.rst``) files :math:`\bullet` web deployment with GitHub pages.
+
+      .. container:: rightside
+
+         **High Performance Computing (HPC)**: practice of MPI commands in SILABE3D. Involved in the development of LBM_saclay: parallelization with MPI and multi-architecture portability with Kokkos library [R18]_. Batch scripts (SGE, slurm);
+
+         **Operating System**: Linux, shell scripts, Windows. **Analytical calculus**: ``wxmaxima``
+         
+         **Writing skills**: ``LaTeX``, ``BibTeX``, ``LyX`` :math:`\bullet` presentations with ``Beamer``, ``tikz``; figures with ``Matcha``.
+
+
+.. _Areas of modeling:
+
+Areas of modeling and simulations
+---------------------------------
+
+.. admonition:: Computational Fluid Dynamics and thermodynamics
+   :class: hint
+
+   .. container:: twocol
+
+      .. container:: leftside
+
+         **Single phase flows**: Navier-Stokes (NS) :math:`\bullet` Incompressible flows and low Mach number :math:`\bullet` Eq. of state for compressible flows formulations :math:`\bullet` Natural convection with Boussinesq approximation [R8]_ :math:`\bullet` Non-Newtonian flows [O5]_.
+
+         **Immiscible two-phase flows**: phase-field models for :bdg-link-danger:`3D bubbles dynamics & buoyancy <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid3D_Buoyancy.webm>` :math:`\bullet` :bdg-link-danger:`Spinodal decomposition <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_SpinodalDecomp.webm>`, :bdg-link-danger:`Phase separation <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_Separation.webm>`,  :bdg-link-danger:`Nucleation and growth <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_Nucleation.webm>`, with NS/Cahn-Hilliard model :math:`\bullet` NS/Conservative Allen-Cahn model for :bdg-link-danger:`3D Rayleigh-Taylor instability <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid3D_RT-2modes_900x900x512_Crop.webm>`, rising and :bdg-link-danger:`3D falling droplet <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid3D_Falling-Droplet_Compare_vA-vB_2views.webm>`, :bdg-link-danger:`2D Taylor bubble <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_Taylor-Bubble2D_Compare_5Mo.webm>`, splash.
+
+      .. container:: rightside
+
+         **Two-phase flows with phase change**: phase-field model for liquid/gas phase change [P11]_, :bdg-link-danger:`Film Boiling <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_FilmBoiling.webm>`. **Two-phase with surfactant**: surfactant effect on coalescence, rising and falling droplets. **Two-phase interacting with a solid phase**: :bdg-link-danger:`Leak of static and moving tank <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_Container-Hole_Move-noMove.webm>` and :bdg-link-danger:`droplet on wetting and non-wetting surface <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_Contact-Angle_Wetting_Surface.webm>`
+
+         **Three-phase flows**: :bdg-link-danger:`Three-phase spinodal decomposition <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_ThreePhases_Spinodal_Test22_vE.webm>` :math:`\bullet` Spreading lens :math:`\bullet` :bdg-link-danger:`2D simultaneous splashing droplet with Rayleigh-Taylor instability <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_ThreePhases_RayleighTaylor_Splashing.webm>` or rising droplet :math:`\bullet` Simulations of surface tension effect for :bdg-link-danger:`3D separation of three immiscible fluids <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid3D_RT_Compare_vB-vC-vD_Publi.webm>`.
+
+.. admonition:: Materials science and thermodynamics
+   :class: hint
+
+   .. container:: twocol
+
+      .. container:: leftside
+
+         **Solid-liquid phase transition**: phase-field models simulated by LBM for :bdg-link-danger:`3D crystal growth <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid3D_Crystal_100.webm>` [P7]_; pure substance [R12]_ and binary mixture [R13]_ :math:`\bullet` Functionals of free energy and grand-potential [P12]_ :math:`\bullet` Anisotropic surface tension and :bdg-link-danger:`Three interacting crystals <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_3crystals.webm>` [P8]_ :math:`\bullet` «Enthalpy-porosity» approach for solidification.
+         **Coupling with fluid flow**: simuls of phase-field model for :bdg-link-danger:`3D crystal growth with fluid flow <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid3D_Crystal-Flow.webm>` effect [P6]_.
+
+      .. container:: rightside
+
+         **Liquid-liquid mass transfer**: Ostwald ripening with fluid flow effect [P13]_ :math:`\bullet` derivation of phase-field model for ternary phase diagram and simplification for modeling the thermodynamic database (Calphad).
+
+         **Dissolution and precipitation**: phase-field model of :bdg-link-danger:`Dissolution of porous media <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/_static/Vid_Dissolution_CT.webm>` (pore-scale) of binary [P12]_ and ternary mixtures.
+
+.. rst-class:: align-center
+
+   See other videos of simulations in the LBM_Saclay's documentation (:bdg-link-primary:`Videos gallery of simulations with LBM <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/00_INTRODUCTION/Simulation_with_LBM.html>` and :bdg-link-primary:`run_training_lbm <https://cea-lbm-saclay.github.io/LBM_Saclay_Documentation/src_doc/01_USER_GUIDE/RUN_TRAINING_LBM/runtraininglbm.html>`)
+
+.. admonition:: Flow and transport in porous media
+   :class: note
+
+   .. container:: twocol
+
+      .. container:: leftside
+
+         **Flow and Transport in (un)saturated porous media**: hydrogeology of CEA-Cadarache :numref:`target-Fig-Cad` – watershed scale) [T1]_ :math:`\bullet` Dual-porosity models (:numref:`target-Fig-Anomalous` – column scale) [R7]_ :math:`\bullet` Effective diffusion (Pore-scale) [R10]_ :math:`\bullet` Darcy-Brinkman-Forchheimer model [R8]_ and equation of Richards :math:`\bullet` Hydrodynamic dispersion.
+
+      .. container:: rightside
+
+         **Fractional Advection-Diffusion models**: LBM for fractional Eq. (PDEs with derivatives of real order in space) [P5]_ and time [P9]_ :bdg-link-danger:`Gaussian vs fractional <file:../_static/Vid_FractionalLBM.webm>` :math:`\bullet` Validations and comparisons with equivalent random walks. Inverse problem on fractional parameter.
+
+
